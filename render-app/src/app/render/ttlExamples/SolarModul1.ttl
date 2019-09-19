@@ -1,0 +1,1455 @@
+@prefix BIPV1: <https://projekt-scope.de/products/BIPV1#> .
+@prefix occ: <https://projekt-scope.de/ontologies/occ/> .
+@prefix omg: <https://w3id.org/omg/> .
+@prefix oop: <https://projekt-scope.de/ontologies/oop/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+BIPV1:G_PVCells_01 omg:hasComplexGeometryDescription BIPV1:hHBwhUcD .
+
+BIPV1:G_PVCells_02 omg:hasComplexGeometryDescription BIPV1:HQKojPES .
+
+BIPV1:G_PVCells_03 omg:hasComplexGeometryDescription BIPV1:QSZzcgwC .
+
+BIPV1:G_PVCells_04 omg:hasComplexGeometryDescription BIPV1:KRCqwHHm .
+
+BIPV1:G_PVCells_05 omg:hasComplexGeometryDescription BIPV1:upzrXtUK .
+
+BIPV1:G_PVCells_06 omg:hasComplexGeometryDescription BIPV1:VHCIyuBi .
+
+BIPV1:G_PVCells_07 omg:hasComplexGeometryDescription BIPV1:fAtkTCwY .
+
+BIPV1:G_PVCells_08 omg:hasComplexGeometryDescription BIPV1:jsOdByki .
+
+BIPV1:G_PVCells_09 omg:hasComplexGeometryDescription BIPV1:VMjUCKgb .
+
+BIPV1:G_PVCells_10 omg:hasComplexGeometryDescription BIPV1:dWcxZcKM .
+
+BIPV1:G_PVCells_11 omg:hasComplexGeometryDescription BIPV1:mXffyQSo .
+
+BIPV1:G_PVCells_12 omg:hasComplexGeometryDescription BIPV1:ZnkEdICk .
+
+BIPV1:G_PVCells_13 omg:hasComplexGeometryDescription BIPV1:HcTMpCnz .
+
+BIPV1:G_PVCells_14 omg:hasComplexGeometryDescription BIPV1:bdoftdNq .
+
+BIPV1:G_PVCells_15 omg:hasComplexGeometryDescription BIPV1:ksgWIDhy .
+
+BIPV1:G_PVCells_16 omg:hasComplexGeometryDescription BIPV1:HYUxrmtU .
+
+BIPV1:G_PVCells_17 omg:hasComplexGeometryDescription BIPV1:AfXOXsTQ .
+
+BIPV1:G_PVCells_18 omg:hasComplexGeometryDescription BIPV1:wIlpgQdo .
+
+BIPV1:G_PVCells_19 omg:hasComplexGeometryDescription BIPV1:qmjrdHFy .
+
+BIPV1:G_PVCells_20 omg:hasComplexGeometryDescription BIPV1:RKfBcaNK .
+
+BIPV1:G_PVCells_21 omg:hasComplexGeometryDescription BIPV1:uRkQgedq .
+
+BIPV1:G_PVCells_22 omg:hasComplexGeometryDescription BIPV1:hwhlsDSg .
+
+BIPV1:G_PVCells_23 omg:hasComplexGeometryDescription BIPV1:TuLOwCAl .
+
+BIPV1:G_PVCells_24 omg:hasComplexGeometryDescription BIPV1:MJJjixmV .
+
+BIPV1:G_PVCells_25 omg:hasComplexGeometryDescription BIPV1:xJgXdejj .
+
+BIPV1:G_PVCells_26 omg:hasComplexGeometryDescription BIPV1:PjzwaiQZ .
+
+BIPV1:G_PVCells_27 omg:hasComplexGeometryDescription BIPV1:wsFgBDqM .
+
+BIPV1:G_PVCells_28 omg:hasComplexGeometryDescription BIPV1:elfZoYVx .
+
+BIPV1:G_PVCells_29 omg:hasComplexGeometryDescription BIPV1:jbxLqrBa .
+
+BIPV1:G_PVCells_30 omg:hasComplexGeometryDescription BIPV1:IPEBvMck .
+
+BIPV1:G_PVCells_31 omg:hasComplexGeometryDescription BIPV1:YGeaCRAs .
+
+BIPV1:G_PVCells_32 omg:hasComplexGeometryDescription BIPV1:iesMjLyE .
+
+BIPV1:G_PVCells_33 omg:hasComplexGeometryDescription BIPV1:WpzLkQfj .
+
+BIPV1:G_PVCells_34 omg:hasComplexGeometryDescription BIPV1:twDKLzod .
+
+BIPV1:G_PVCells_35 omg:hasComplexGeometryDescription BIPV1:WAmlEZmq .
+
+BIPV1:G_PVCells_36 omg:hasComplexGeometryDescription BIPV1:pJzNuSlC .
+
+BIPV1:G_PVCells_37 omg:hasComplexGeometryDescription BIPV1:GbFkGBwa .
+
+BIPV1:G_PVCells_38 omg:hasComplexGeometryDescription BIPV1:aOvavCZM .
+
+BIPV1:G_PVCells_39 omg:hasComplexGeometryDescription BIPV1:XmWeWZhd .
+
+BIPV1:G_PVCells_40 omg:hasComplexGeometryDescription BIPV1:aKMXgMpT .
+
+BIPV1:G_PVCells_41 omg:hasComplexGeometryDescription BIPV1:YNEIkkQL .
+
+BIPV1:G_PVCells_42 omg:hasComplexGeometryDescription BIPV1:wlANoeup .
+
+BIPV1:G_PVCells_43 omg:hasComplexGeometryDescription BIPV1:rXarMHZF .
+
+BIPV1:G_PVCells_44 omg:hasComplexGeometryDescription BIPV1:stGDfOtC .
+
+BIPV1:G_PVCells_45 omg:hasComplexGeometryDescription BIPV1:pugbaqRa .
+
+BIPV1:G_PVCells_46 omg:hasComplexGeometryDescription BIPV1:UvmquKOv .
+
+BIPV1:G_PVCells_47 omg:hasComplexGeometryDescription BIPV1:pNhPXaVe .
+
+BIPV1:G_PVCells_48 omg:hasComplexGeometryDescription BIPV1:yVWdBrXF .
+
+BIPV1:G_PVCells_49 omg:hasComplexGeometryDescription BIPV1:QRbUWCQB .
+
+BIPV1:G_PVCells_50 omg:hasComplexGeometryDescription BIPV1:KnssOeWO .
+
+BIPV1:G_PVCells_51 omg:hasComplexGeometryDescription BIPV1:siaAnrbh .
+
+BIPV1:G_PVCells_52 omg:hasComplexGeometryDescription BIPV1:hvzGoZBb .
+
+BIPV1:G_PVCells_53 omg:hasComplexGeometryDescription BIPV1:mgHXpTxT .
+
+BIPV1:G_PVCells_54 omg:hasComplexGeometryDescription BIPV1:VxBYmOWE .
+
+BIPV1:G_PVCells_55 omg:hasComplexGeometryDescription BIPV1:hKYWKVAQ .
+
+BIPV1:G_PVCells_56 omg:hasComplexGeometryDescription BIPV1:qdWHGORV .
+
+BIPV1:G_PVCells_57 omg:hasComplexGeometryDescription BIPV1:WqUICECq .
+
+BIPV1:G_PVCells_58 omg:hasComplexGeometryDescription BIPV1:peHCuUjU .
+
+BIPV1:G_PVCells_59 omg:hasComplexGeometryDescription BIPV1:GpZeXqwJ .
+
+BIPV1:G_PVCells_60 omg:hasComplexGeometryDescription BIPV1:pXSvCNkn .
+
+BIPV1:G_PVCells_61 omg:hasComplexGeometryDescription BIPV1:GgOZIcAl .
+
+BIPV1:G_PVCells_62 omg:hasComplexGeometryDescription BIPV1:VRLvOueJ .
+
+BIPV1:G_PVCells_63 omg:hasComplexGeometryDescription BIPV1:POrvsKcm .
+
+BIPV1:G_PVCells_64 omg:hasComplexGeometryDescription BIPV1:WmvSqinM .
+
+BIPV1:WtuelVse omg:hasComplexGeometryDescription BIPV1:bAFVUnUh .
+
+BIPV1:AGbkKcsz omg:hasComplexGeometryDescription BIPV1:MSMujJnV .
+
+BIPV1:AOWOesKB a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:WVCvHHsQ .
+
+BIPV1:APcPAQAU omg:hasComplexGeometryDescription BIPV1:cNHfjcBV .
+
+BIPV1:AWFGwCTr a occ:gp_Vec ;
+    oop:hasParameter ( "N7b660590b5344637ad630592c51d0dce" 28 926 5 ) .
+
+BIPV1:AXdQYCGF omg:hasComplexGeometryDescription BIPV1:FjMRLHQS .
+
+BIPV1:AbHwNuJd a occ:SetTranslation ;
+    oop:hasParameter BIPV1:tFqVvGTy .
+
+BIPV1:AfXOXsTQ a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:yCRLazeL ;
+    oop:hasParameter ( "N814ee0140a324a61ac2209558f468ada" BIPV1:kRluUJDn BIPV1:zRBqCsLL ) .
+
+BIPV1:AkKmxlLA omg:hasComplexGeometryDescription BIPV1:ndbZdgPe .
+
+BIPV1:AlYidAdL omg:hasComplexGeometryDescription BIPV1:sqGzLPeF .
+
+BIPV1:AmeUXFty omg:hasComplexGeometryDescription BIPV1:CBOOvTbt .
+
+BIPV1:AqQUCKlt a occ:gp_Vec ;
+    oop:hasParameter ( "N5347afa41ef84f20b4880bc63a82a6b0" 412 670 5 ) .
+
+BIPV1:AuGZQMWu omg:hasComplexGeometryDescription BIPV1:EcPJuYUn .
+
+BIPV1:BAYdjSAa a occ:Shape .
+
+BIPV1:BKBWJDEw omg:hasComplexGeometryDescription BIPV1:VZdxfXol .
+
+BIPV1:BPDqjRBq omg:hasComplexGeometryDescription BIPV1:FdEWIxRo .
+
+BIPV1:BRfqjkFn a occ:SetTranslation ;
+    oop:hasParameter BIPV1:uekpRDmo .
+
+BIPV1:BayXtDgK omg:hasComplexGeometryDescription BIPV1:YqhYkzWX .
+
+BIPV1:BlfwcfCP a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:YRCFUkrm .
+
+BIPV1:BonFppBg omg:hasComplexGeometryDescription BIPV1:NsxIREqB .
+
+BIPV1:BviZxXWI a occ:Shape .
+
+BIPV1:ByhwgCjI a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:tmvVJaqc .
+
+BIPV1:BzGDqsUL a occ:Shape .
+
+BIPV1:CBOOvTbt a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:AbHwNuJd .
+
+BIPV1:CEaMWQfG a occ:SetTranslation ;
+    oop:hasParameter BIPV1:iGVbujtR .
+
+BIPV1:CLxIsMCw omg:hasComplexGeometryDescription BIPV1:eoUfxwTg .
+
+BIPV1:CMKSFbHV a occ:gp_Vec ;
+    oop:hasParameter ( "Nc7ae7e50476b4dee9a39e7d34129fe83" 284 286 5 ) .
+
+BIPV1:CNEJxhTY omg:hasComplexGeometryDescription BIPV1:MdiHjHFW .
+
+BIPV1:CcIVcMjD a occ:Shape .
+
+BIPV1:CdTnaQVt a occ:Shape .
+
+BIPV1:ChFuHAiM a occ:gp_Vec ;
+    oop:hasParameter ( "N9c1f80e3bb1a4f76b47c087b523a3268" 284 542 5 ) .
+
+BIPV1:CkUcYjCB a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:POLfWFUK .
+
+BIPV1:CmMJEbjF a occ:gp_Vec ;
+    oop:hasParameter ( "Nff212a0ea50943e6819f0901f62ce40c" 924 414 5 ) .
+
+BIPV1:CpBxejGK a occ:gp_Vec ;
+    oop:hasParameter ( "N7b98cad094a5486c96bc43fabca3c8ce" 28 30 5 ) .
+
+BIPV1:DFFtvljQ omg:hasComplexGeometryDescription BIPV1:wtbCTiQq .
+
+BIPV1:DHNpDnrm a occ:SetTranslation ;
+    oop:hasParameter BIPV1:DoEBGhdE .
+
+BIPV1:DKpeEItX a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:YUJboQMM .
+
+BIPV1:DOYdAaAL a occ:Shape .
+
+BIPV1:DiHNpGgx a occ:SetTranslation ;
+    oop:hasParameter BIPV1:WwVwPhyh .
+
+BIPV1:DkDBSXCe a occ:SetTranslation ;
+    oop:hasParameter BIPV1:yyhRKSFF .
+
+BIPV1:DoEBGhdE omg:hasComplexGeometryDescription BIPV1:NXplivBy .
+
+BIPV1:DqkDCwEw a occ:gp_Vec ;
+    oop:hasParameter ( "N979de723afe749dc8195a34ae4cf6d7f" 156 414 5 ) .
+
+BIPV1:DrezansG a occ:Shape .
+
+BIPV1:DsVFnldL a occ:Add ;
+    oop:hasParameter BIPV1:CNEJxhTY .
+
+BIPV1:EGGVutCe a occ:Shape .
+
+BIPV1:ESVDbvUz a occ:SetTranslation ;
+    oop:hasParameter BIPV1:THwnrmaR .
+
+BIPV1:EWUIFSmD omg:hasComplexGeometryDescription BIPV1:pkPyPuMX .
+
+BIPV1:EXadocPR a occ:Add ;
+    oop:hasParameter BIPV1:ewMluQKf .
+
+BIPV1:EcPJuYUn a occ:gp_Pnt ;
+    oop:hasParameter ( "N0cb58f3bd1f349169f1255332ef499f4" 125 10 0 ) .
+
+BIPV1:EceHSzUz omg:hasComplexGeometryDescription BIPV1:BlfwcfCP .
+
+BIPV1:ElnVnRLI a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:BRfqjkFn .
+
+BIPV1:EossbtIO omg:hasComplexGeometryDescription BIPV1:QoRiBSow .
+
+BIPV1:FBKSjbkf omg:hasComplexGeometryDescription BIPV1:LUtpAtjh .
+
+BIPV1:FDHUmjWZ omg:hasComplexGeometryDescription BIPV1:XmtGpemw .
+
+BIPV1:FGEVUkQw a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:zofsRsvq .
+
+BIPV1:FMQsbWNl a occ:gp_Vec ;
+    oop:hasParameter ( "Nb05b1255c070468198695de9be4fadba" 412 286 5 ) .
+
+BIPV1:FNtJxHbH a occ:Shape .
+
+BIPV1:FWfFoVsy a occ:SetTranslation ;
+    oop:hasParameter BIPV1:EWUIFSmD .
+
+BIPV1:FdEWIxRo a occ:gp_Vec ;
+    oop:hasParameter ( "Nfba084c5ce464071a56edc4cd37c3820" 796 414 5 ) .
+
+BIPV1:FfChvPIy a occ:SetTranslation ;
+    oop:hasParameter BIPV1:TUafwfjA .
+
+BIPV1:FjMRLHQS a occ:gp_Vec ;
+    oop:hasParameter ( "N19c36e23e2da4bd2b77c056bcc21980c" 796 286 5 ) .
+
+BIPV1:FlczQrDT omg:hasComplexGeometryDescription BIPV1:YovZWxEa .
+
+BIPV1:FqFhMhPU omg:hasComplexGeometryDescription BIPV1:mFfKdrDg .
+
+BIPV1:FqsXiqny omg:hasComplexGeometryDescription BIPV1:AqQUCKlt .
+
+BIPV1:FweBZZpO a occ:Shape .
+
+BIPV1:GVIkWWnQ a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:FWfFoVsy .
+
+BIPV1:GYTeKSNu a occ:Shape .
+
+BIPV1:GZImfGia a occ:gp_Pnt ;
+    oop:hasParameter ( "N7da8a0ca2d0d4320b09ecfedc2c360dc" 10 0 0 ) .
+
+BIPV1:GbFkGBwa a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:gFOZaCYj ;
+    oop:hasParameter ( "Ncb42d77221ee44b4afb61463432e13bc" BIPV1:kRluUJDn BIPV1:kJENBlIz ) .
+
+BIPV1:GbePwAOl a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:ORNjnznf .
+
+BIPV1:GgOZIcAl a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:jTIrqtET ;
+    oop:hasParameter ( "N88ab19421d004054901495240a504647" BIPV1:kRluUJDn BIPV1:jQGikrpt ) .
+
+BIPV1:GmEqqGCc a occ:Shape .
+
+BIPV1:GpZeXqwJ a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:tvzCdelQ ;
+    oop:hasParameter ( "N5038f655e74049ef975f117a2fc157e1" BIPV1:kRluUJDn BIPV1:pxBbsANu ) .
+
+BIPV1:GyPNfoSz omg:hasComplexGeometryDescription BIPV1:GVIkWWnQ .
+
+BIPV1:HBObXjpu omg:hasComplexGeometryDescription BIPV1:rkEimynq .
+
+BIPV1:HEzdGViQ a occ:gp_Vec ;
+    oop:hasParameter ( "N7a82b1314a75420a88c734e4630fe1f9" 28 798 5 ) .
+
+BIPV1:HHsWfYiy a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:amlEXWSe .
+
+BIPV1:HJrKbDeR omg:hasComplexGeometryDescription BIPV1:zMmgiYTn .
+
+BIPV1:HQKojPES a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:BAYdjSAa ;
+    oop:hasParameter ( "N6bb86150728e413db56bb5b36310d27e" BIPV1:kRluUJDn BIPV1:TwvXciUC ) .
+
+BIPV1:HRlpbfwx a occ:Shape .
+
+BIPV1:HYUxrmtU a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:eniWwdaF ;
+    oop:hasParameter ( "N06e7f5a819ad4e2c902b7e1dde42079f" BIPV1:kRluUJDn BIPV1:FDHUmjWZ ) .
+
+BIPV1:HcTMpCnz a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:eZYiSYGS ;
+    oop:hasParameter ( "N00664e68fe3444a69233349740b8f978" BIPV1:kRluUJDn BIPV1:FBKSjbkf ) .
+
+BIPV1:HevLYRdR a occ:Shape .
+
+BIPV1:HlxgONEo a occ:SetTranslation ;
+    oop:hasParameter BIPV1:WyyPLuNh .
+
+BIPV1:HukxPIXX a occ:SetTranslation ;
+    oop:hasParameter BIPV1:AkKmxlLA .
+
+BIPV1:IDabSbGX omg:hasComplexGeometryDescription BIPV1:zNbHysgE .
+
+BIPV1:IGEejYxX omg:hasComplexGeometryDescription BIPV1:awgsIxIe .
+
+BIPV1:IIYTCyqH a occ:gp_Vec ;
+    oop:hasParameter ( "N797feef7424141a28e526c63786c13c9" 412 798 5 ) .
+
+BIPV1:IPEBvMck a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:DOYdAaAL ;
+    oop:hasParameter ( "N4d6d4c37fc6f47c2a0a3eb2de1de03f1" BIPV1:kRluUJDn BIPV1:iMkhXPAw ) .
+
+BIPV1:IQTExuCI omg:hasComplexGeometryDescription BIPV1:nMJfwIny .
+
+BIPV1:IYrunWUc omg:hasComplexGeometryDescription BIPV1:sCutmUIN .
+
+BIPV1:ImKInWvC omg:hasComplexGeometryDescription BIPV1:JhNjboQh .
+
+BIPV1:InwVJLSJ a occ:SetTranslation ;
+    oop:hasParameter BIPV1:xchIObpV .
+
+BIPV1:IrkHewsx omg:hasComplexGeometryDescription BIPV1:MVuFgdef .
+
+BIPV1:ItJCRjQh a occ:Shape .
+
+BIPV1:IuHDYVDS a occ:Shape .
+
+BIPV1:IzrDdMkg a occ:SetTranslation ;
+    oop:hasParameter BIPV1:QcFbDJJP .
+
+BIPV1:JNMDNeZL a occ:Shape .
+
+BIPV1:JaxmPedv a occ:Shape .
+
+BIPV1:JhNjboQh a occ:gp_Vec ;
+    oop:hasParameter ( "N2f0f701d77944543a833d35fa34144f9" 284 158 5 ) .
+
+BIPV1:JomKmgRJ a occ:Shape .
+
+BIPV1:JweytSGE omg:hasComplexGeometryDescription BIPV1:RvGwiUyF .
+
+BIPV1:KRCqwHHm a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:ihsBrkWS ;
+    oop:hasParameter ( "N3b91dee122ad404b9ce0b91372282511" BIPV1:kRluUJDn BIPV1:LuVGAloQ ) .
+
+BIPV1:KTVmRxXf a occ:gp_Vec ;
+    oop:hasParameter ( "Nd98b34317676497389498b0115c0ee9b" 540 670 5 ) .
+
+BIPV1:KTcFcjpV a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:ipoYooUk .
+
+BIPV1:KUNybGbb a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:hEarOGDH .
+
+BIPV1:KgKRkMfH omg:hasComplexGeometryDescription BIPV1:lxkUFPFN .
+
+BIPV1:KlkzgajK omg:hasComplexGeometryDescription BIPV1:NmrHwrDJ .
+
+BIPV1:KnssOeWO a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:GmEqqGCc ;
+    oop:hasParameter ( "N4777fb82ea0b4234af8bc058b4c2ec8b" BIPV1:kRluUJDn BIPV1:QErUCZIQ ) .
+
+BIPV1:KnticHQN a occ:gp_Pnt ;
+    oop:hasParameter ( "N3e851027d3f74d02acce98cc06ef978d" 115 0 0 ) .
+
+BIPV1:KqiOlBVg a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:voFGFRWu .
+
+BIPV1:KulpdSzv a occ:SetTranslation ;
+    oop:hasParameter BIPV1:ImKInWvC .
+
+BIPV1:KuvpKDHL a occ:Shape .
+
+BIPV1:LQDlFiTK omg:hasComplexGeometryDescription BIPV1:KTcFcjpV .
+
+BIPV1:LUtpAtjh a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:HukxPIXX .
+
+BIPV1:LUxuPjBS omg:hasComplexGeometryDescription BIPV1:gCFBqMnS .
+
+BIPV1:LgjNhpCP a occ:Shape .
+
+BIPV1:LsHBOjBR a occ:gp_Vec ;
+    oop:hasParameter ( "N8d487404c3944728a23295ff29050faf" 284 414 5 ) .
+
+BIPV1:LuVGAloQ omg:hasComplexGeometryDescription BIPV1:mTJfYPsX .
+
+BIPV1:LxgjqOSx a occ:gp_Vec ;
+    oop:hasParameter ( "N18b62aa7c36342bdb3e73b5b87f4d1c0" 28 542 5 ) .
+
+BIPV1:MDbzslCJ omg:hasComplexGeometryDescription BIPV1:cbKFVDul .
+
+BIPV1:MJJjixmV a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:HevLYRdR ;
+    oop:hasParameter ( "N6bff5a5140d641058a662d0ce96eba1a" BIPV1:kRluUJDn BIPV1:BonFppBg ) .
+
+BIPV1:MKnUlwbi a occ:SetTranslation ;
+    oop:hasParameter BIPV1:dLiAfKbC .
+
+BIPV1:MNvFiqjc a occ:Add ;
+    oop:hasParameter BIPV1:RmKqYvyw .
+
+BIPV1:MOclXHGo omg:hasComplexGeometryDescription BIPV1:VUiRBQQs .
+
+BIPV1:MSMujJnV a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:MKnUlwbi .
+
+BIPV1:MSPTkNNZ a occ:SetTranslation ;
+    oop:hasParameter BIPV1:UTlIWSsn .
+
+BIPV1:MSZdZucp a occ:SetTranslation ;
+    oop:hasParameter BIPV1:ZUzHKPnp .
+
+BIPV1:MVuFgdef a occ:gp_Vec ;
+    oop:hasParameter ( "Ndb653a8c47e3479ab68d30b3f183dad1" 284 670 5 ) .
+
+BIPV1:MZLkIMnj omg:hasComplexGeometryDescription BIPV1:DKpeEItX .
+
+BIPV1:MdFKjWmm a occ:SetTranslation ;
+    oop:hasParameter BIPV1:QmrCedHu .
+
+BIPV1:MdiHjHFW a occ:gp_Pnt ;
+    oop:hasParameter ( "Na33baffa584f4109b1e7168a71fa0550" 10 125 0 ) .
+
+BIPV1:MidTRFAc a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:nFMowfHd .
+
+BIPV1:MqRSoRxz omg:hasComplexGeometryDescription BIPV1:rjDAEdQE .
+
+BIPV1:MvYroOnb a occ:SetTranslation ;
+    oop:hasParameter BIPV1:iCQJbTKT .
+
+BIPV1:NIHEGtJk omg:hasComplexGeometryDescription BIPV1:oVpQoFRH .
+
+BIPV1:NUjMegVP a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:DiHNpGgx .
+
+BIPV1:NXplivBy a occ:gp_Vec ;
+    oop:hasParameter ( "N1b86d9b63e6e45e09d204dd56ac4ef17" 540 542 5 ) .
+
+BIPV1:NkJCCDdm a occ:Face .
+
+BIPV1:NlPRnJbw a occ:Shape .
+
+BIPV1:NmrHwrDJ a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:MvYroOnb .
+
+BIPV1:NqcCXmOk omg:hasComplexGeometryDescription BIPV1:TolAWFXm .
+
+BIPV1:NsxIREqB a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:dhYoYACh .
+
+BIPV1:NukqhZpZ omg:hasComplexGeometryDescription BIPV1:WdfEnjdK .
+
+BIPV1:NxRTLrJu omg:hasComplexGeometryDescription BIPV1:rQabgIEf .
+
+BIPV1:OApNqsBB omg:hasComplexGeometryDescription BIPV1:yiVeQGuZ .
+
+BIPV1:OGWTyizk a occ:Shape .
+
+BIPV1:OHtZkeWC omg:hasComplexGeometryDescription BIPV1:VREZWgid .
+
+BIPV1:OKLylxzQ a occ:Shape .
+
+BIPV1:OQnjQUyn a occ:Shape .
+
+BIPV1:ORNjnznf a occ:SetTranslation ;
+    oop:hasParameter BIPV1:hqRmJGyE .
+
+BIPV1:OzJNLuFm omg:hasComplexGeometryDescription BIPV1:TXbcjSya .
+
+BIPV1:OzjIzBbQ a occ:Shape .
+
+BIPV1:POLfWFUK a occ:SetTranslation ;
+    oop:hasParameter BIPV1:cEXiJvpO .
+
+BIPV1:POrvsKcm a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:lWuVmsCY ;
+    oop:hasParameter ( "Nef079d6144454beba21070680654dcd7" BIPV1:kRluUJDn BIPV1:koAMDbXP ) .
+
+BIPV1:PWFCJWpf a occ:gp_Vec ;
+    oop:hasParameter ( "N5b04a44ba7484e008c72ff257bd25874" 284 798 5 ) .
+
+BIPV1:PdrVMfqB omg:hasComplexGeometryDescription BIPV1:fvbZUznw .
+
+BIPV1:PhVhZxuO a occ:Shape .
+
+BIPV1:PjzwaiQZ a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:JNMDNeZL ;
+    oop:hasParameter ( "N463c5bc8a7db4a29bd6a961bf042f173" BIPV1:kRluUJDn BIPV1:DFFtvljQ ) .
+
+BIPV1:PoXbOSVf a occ:Shape .
+
+BIPV1:QErUCZIQ omg:hasComplexGeometryDescription BIPV1:GbePwAOl .
+
+BIPV1:QHcMGcsp a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:MSZdZucp .
+
+BIPV1:QMSeYcAB a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:kQOVxhHs .
+
+BIPV1:QRbUWCQB a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:apfpPSGJ ;
+    oop:hasParameter ( "N44af4acb7d0643b1858d3a0091984f23" BIPV1:kRluUJDn BIPV1:APcPAQAU ) .
+
+BIPV1:QSZzcgwC a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:TJgSYqxA ;
+    oop:hasParameter ( "Ne5c35d074f31403ba1b258a312130eb1" BIPV1:kRluUJDn BIPV1:MDbzslCJ ) .
+
+BIPV1:QUPicQvY omg:hasComplexGeometryDescription BIPV1:FMQsbWNl .
+
+BIPV1:QcFbDJJP omg:hasComplexGeometryDescription BIPV1:kGYrbDmD .
+
+BIPV1:QgJBIXfn a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:ipYIObiu .
+
+BIPV1:QmrCedHu omg:hasComplexGeometryDescription BIPV1:Tmfwndjt .
+
+BIPV1:QoRiBSow a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:ESVDbvUz .
+
+BIPV1:QtTcvCWw omg:hasComplexGeometryDescription BIPV1:zbBwdiRo .
+
+BIPV1:RBBTMyPl a occ:gp_Vec ;
+    oop:hasParameter ( "Nf535626331bb4addb15223a3fb7d07fe" 924 286 5 ) .
+
+BIPV1:RECcFqww omg:hasComplexGeometryDescription BIPV1:LsHBOjBR .
+
+BIPV1:RKfBcaNK a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:nmVdxCmQ ;
+    oop:hasParameter ( "Nd789f63da475464e8de70ef1f4fedb23" BIPV1:kRluUJDn BIPV1:tJPsqKdX ) .
+
+BIPV1:RmKqYvyw omg:hasComplexGeometryDescription BIPV1:GZImfGia .
+
+BIPV1:RrLsgZfJ omg:hasComplexGeometryDescription BIPV1:iEohoeFx .
+
+BIPV1:RujPsQlO a occ:SetTranslation ;
+    oop:hasParameter BIPV1:NqcCXmOk .
+
+BIPV1:RvGwiUyF a occ:gp_Vec ;
+    oop:hasParameter ( "Nc650707e2cd54ac7b448e31e6d85e874" 924 542 5 ) .
+
+BIPV1:SSxJJeai omg:hasComplexGeometryDescription BIPV1:joKFfdQc .
+
+BIPV1:SeCmmbpG a occ:Shape .
+
+BIPV1:SkAOoDSn a occ:gp_Vec ;
+    oop:hasParameter ( "N3409b27912f041209a16d314b10ee418" 668 286 5 ) .
+
+BIPV1:SkddIUaG a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:MdFKjWmm .
+
+BIPV1:StdNYyvV a occ:SetTranslation ;
+    oop:hasParameter BIPV1:FqFhMhPU .
+
+BIPV1:TCCaYlgO omg:hasComplexGeometryDescription BIPV1:sSlAqKmP .
+
+BIPV1:THwnrmaR omg:hasComplexGeometryDescription BIPV1:bOhzreFj .
+
+BIPV1:TJgSYqxA a occ:Shape .
+
+BIPV1:TKDoFyab omg:hasComplexGeometryDescription BIPV1:oAazjgoA .
+
+BIPV1:TUafwfjA omg:hasComplexGeometryDescription BIPV1:kCYbEwlp .
+
+BIPV1:TXbcjSya a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:RujPsQlO .
+
+BIPV1:TYMRymQo a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:miXRkEFV .
+
+BIPV1:TYeycFEi a occ:SetTranslation ;
+    oop:hasParameter BIPV1:hoemctDM .
+
+BIPV1:Tmfwndjt a occ:gp_Vec ;
+    oop:hasParameter ( "N97fbccb7cb2f4cf7af139a1cf18b4aa9" 156 30 5 ) .
+
+BIPV1:TolAWFXm a occ:gp_Vec ;
+    oop:hasParameter ( "Nbff0b3068ad34924b33cf058a0af45ca" 540 926 5 ) .
+
+BIPV1:TuLOwCAl a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:JaxmPedv ;
+    oop:hasParameter ( "N633a60c885634ff5ba44bf574199d4a1" BIPV1:kRluUJDn BIPV1:dRQDAcHu ) .
+
+BIPV1:TwvXciUC omg:hasComplexGeometryDescription BIPV1:SkddIUaG .
+
+BIPV1:TxCXfDDx a occ:gp_Pnt ;
+    oop:hasParameter ( "Ne35852ea18534d4b8bb95a3a4623e6c1" 0 10 0 ) .
+
+BIPV1:UPtsBDCe a occ:SetTranslation ;
+    oop:hasParameter BIPV1:gWXDCTVK .
+
+BIPV1:UQmTylkG a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:xHSTKjJZ .
+
+BIPV1:USXuSuBr omg:hasComplexGeometryDescription BIPV1:TxCXfDDx .
+
+BIPV1:UTlIWSsn omg:hasComplexGeometryDescription BIPV1:jKSRalCl .
+
+BIPV1:UscBUbDX a occ:Add ;
+    oop:hasParameter BIPV1:IYrunWUc .
+
+BIPV1:UvmquKOv a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:FweBZZpO ;
+    oop:hasParameter ( "Ncb04c543d8384a7bb52ca3a22d571e7b" BIPV1:kRluUJDn BIPV1:tFYwZypp ) .
+
+BIPV1:VHCIyuBi a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:nMkgisrc ;
+    oop:hasParameter ( "Nbdf377d18efe46d1bd653608bbcb1984" BIPV1:kRluUJDn BIPV1:IDabSbGX ) .
+
+BIPV1:VMjUCKgb a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:BzGDqsUL ;
+    oop:hasParameter ( "N13f823fb10f24c26beae12e97e40aea0" BIPV1:kRluUJDn BIPV1:TKDoFyab ) .
+
+BIPV1:VREZWgid a occ:gp_Vec ;
+    oop:hasParameter ( "Nd57ff194697c44a2aa3a0a6c2db91fc8" 284 926 5 ) .
+
+BIPV1:VRGvIpkb omg:hasComplexGeometryDescription BIPV1:ypyOXMeY .
+
+BIPV1:VRLvOueJ a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:jNspCBuJ ;
+    oop:hasParameter ( "N9b385b50cb114cfbb4388f2b7635d8b5" BIPV1:kRluUJDn BIPV1:gsvYOuNZ ) .
+
+BIPV1:VUiRBQQs a occ:gp_Vec ;
+    oop:hasParameter ( "N44dfeaacd1bc49c781aff19cc72a11a4" 796 30 5 ) .
+
+BIPV1:VZdxfXol a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:UPtsBDCe .
+
+BIPV1:VfDNwuDj a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:eNHmPXml .
+
+BIPV1:VkIQuhuP a occ:gp_Vec ;
+    oop:hasParameter ( "N4bd3aca553074c8ab91f520c8ba6b647" 156 798 5 ) .
+
+BIPV1:VnzsPbcz omg:hasComplexGeometryDescription BIPV1:ElnVnRLI .
+
+BIPV1:VtKFfXJi a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:XyBrzGtk .
+
+BIPV1:VvvsPZRm omg:hasComplexGeometryDescription BIPV1:hISovvYH .
+
+BIPV1:VxBYmOWE a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:gZSarSSB ;
+    oop:hasParameter ( "N3722304fa8f74ef4b7903d3e10ad9ee4" BIPV1:kRluUJDn BIPV1:YGSgAoWM ) .
+
+BIPV1:WAmlEZmq a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:bjyaPgWC ;
+    oop:hasParameter ( "N000c878af81348aa97648c24162a8231" BIPV1:kRluUJDn BIPV1:oZFzORyJ ) .
+
+BIPV1:WVCvHHsQ a occ:SetTranslation ;
+    oop:hasParameter BIPV1:CLxIsMCw .
+
+BIPV1:WdfEnjdK a occ:gp_Vec ;
+    oop:hasParameter ( "N7c91c0bf5cb844d0a0cf62b7dc27f7f9" 28 414 5 ) .
+
+BIPV1:WfEXVsmj omg:hasComplexGeometryDescription BIPV1:fkXfqVlb .
+
+BIPV1:WmvSqinM a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:EGGVutCe ;
+    oop:hasParameter ( "N1e0dddb8ec2b4b6a8faa05519640be59" BIPV1:kRluUJDn BIPV1:yOjEEjPY ) .
+
+BIPV1:WpzLkQfj a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:GYTeKSNu ;
+    oop:hasParameter ( "Ncd51556ac3da4bd0abb3864cd9fb707b" BIPV1:kRluUJDn BIPV1:xhJDIgvt ) .
+
+BIPV1:WqUICECq a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:uTKxyxlj ;
+    oop:hasParameter ( "Nb0653bf8ea654d15896e1de3d4ec6d3c" BIPV1:kRluUJDn BIPV1:EceHSzUz ) .
+
+BIPV1:WsfhjCHS a occ:SetTranslation ;
+    oop:hasParameter BIPV1:ZXoBeOeL .
+
+BIPV1:WtkFzqwQ a occ:Add ;
+    oop:hasParameter BIPV1:trUVTUvF .
+
+BIPV1:WwVwPhyh omg:hasComplexGeometryDescription BIPV1:ijOdqsQn .
+
+BIPV1:WyyPLuNh omg:hasComplexGeometryDescription BIPV1:KTVmRxXf .
+
+BIPV1:XHhIoHSE omg:hasComplexGeometryDescription BIPV1:kpOkJdLC .
+
+BIPV1:XJzZXcAe a occ:Shape .
+
+BIPV1:XLeazdJD a occ:Shape .
+
+BIPV1:XNIKYhBA omg:hasComplexGeometryDescription BIPV1:YkwkDzXI .
+
+BIPV1:XSIjmuGg a occ:gp_Vec ;
+    oop:hasParameter ( "Nb4fea9dc61e8413ea05cb6adcdf38a1e" 668 926 5 ) .
+
+BIPV1:XbKeasQq a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:ivcxhvYo .
+
+BIPV1:XeIAARsY a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:CEaMWQfG .
+
+BIPV1:XmWeWZhd a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:JomKmgRJ ;
+    oop:hasParameter ( "Naf28e58f719349c18f798b78d656be88" BIPV1:kRluUJDn BIPV1:GyPNfoSz ) .
+
+BIPV1:XmtGpemw a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:zobdgXua .
+
+BIPV1:XvyWlCnH a occ:gp_Vec ;
+    oop:hasParameter ( "Nd646bf7ebaa149beb92aeec6d8b338e0" 412 542 5 ) .
+
+BIPV1:XyBrzGtk a occ:SetTranslation ;
+    oop:hasParameter BIPV1:kJlHEqOq .
+
+BIPV1:YGSgAoWM omg:hasComplexGeometryDescription BIPV1:VfDNwuDj .
+
+BIPV1:YGeaCRAs a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:CdTnaQVt ;
+    oop:hasParameter ( "Nc27973c4ec434d069a513d6ea6bf1634" BIPV1:kRluUJDn BIPV1:BKBWJDEw ) .
+
+BIPV1:YNEIkkQL a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:DrezansG ;
+    oop:hasParameter ( "N892ac4f69af04cbbb49db74e8e91753f" BIPV1:kRluUJDn BIPV1:jHJamfut ) .
+
+BIPV1:YRCFUkrm a occ:SetTranslation ;
+    oop:hasParameter BIPV1:AlYidAdL .
+
+BIPV1:YSWkniki omg:hasComplexGeometryDescription BIPV1:LxgjqOSx .
+
+BIPV1:YUJboQMM a occ:SetTranslation ;
+    oop:hasParameter BIPV1:akLckSjk .
+
+BIPV1:YkpybHvh a occ:SetTranslation ;
+    oop:hasParameter BIPV1:BPDqjRBq .
+
+BIPV1:YkwkDzXI a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:opSIDEkA .
+
+BIPV1:YovZWxEa a occ:gp_Vec ;
+    oop:hasParameter ( "N81a2c50277a64661b0eb3989392b433f" 668 798 5 ) .
+
+BIPV1:YqhYkzWX a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:StdNYyvV .
+
+BIPV1:ZMWHykzG omg:hasComplexGeometryDescription BIPV1:VtKFfXJi .
+
+BIPV1:ZRcHvAmN a occ:gp_Vec ;
+    oop:hasParameter ( "Na9548885383f406e95b109d37f89f7d5" 540 158 5 ) .
+
+BIPV1:ZTWhHSTw a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:TYeycFEi .
+
+BIPV1:ZUzHKPnp omg:hasComplexGeometryDescription BIPV1:lHJDODAQ .
+
+BIPV1:ZXoBeOeL omg:hasComplexGeometryDescription BIPV1:xONSXlMC .
+
+BIPV1:ZnkEdICk a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:CcIVcMjD ;
+    oop:hasParameter ( "Ndb122e7d7ba449d9a29a235255e1067f" BIPV1:kRluUJDn BIPV1:AmeUXFty ) .
+
+BIPV1:ZwzsXlLr a occ:SetTranslation ;
+    oop:hasParameter BIPV1:lZDVuwLv .
+
+BIPV1:aHWBuveC a occ:Shape .
+
+BIPV1:aKMXgMpT a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:inAcXVnv ;
+    oop:hasParameter ( "N99b68c61aa3348949420535d8cfe6c0a" BIPV1:kRluUJDn BIPV1:LQDlFiTK ) .
+
+BIPV1:aOvavCZM a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:IuHDYVDS ;
+    oop:hasParameter ( "Na4027265622d438180c1541e5cea2c24" BIPV1:kRluUJDn BIPV1:yqPRtEMl ) .
+
+BIPV1:aWxCvhOm omg:hasComplexGeometryDescription BIPV1:qAxfDDgh .
+
+BIPV1:aZNrJEFU a occ:BRepBuilderAPI_MakePolygon ;
+    oop:hasMethod ( "Ne9e41e1278fc4c3f85e8c708ac1e3fc6" BIPV1:MNvFiqjc BIPV1:EXadocPR BIPV1:lDfepPmu BIPV1:UscBUbDX BIPV1:qLhHAWFm BIPV1:DsVFnldL BIPV1:WtkFzqwQ BIPV1:abGkDNGD BIPV1:bYLDtQIT BIPV1:jzZMAasE ) .
+
+BIPV1:abGkDNGD a occ:Add ;
+    oop:hasParameter BIPV1:USXuSuBr .
+
+BIPV1:akLckSjk omg:hasComplexGeometryDescription BIPV1:CMKSFbHV .
+
+BIPV1:amlEXWSe a occ:SetTranslation ;
+    oop:hasParameter BIPV1:YSWkniki .
+
+BIPV1:apfpPSGJ a occ:Shape .
+
+BIPV1:awgsIxIe a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:KulpdSzv .
+
+BIPV1:bAFVUnUh a occ:BRepPrimAPI_MakeBox ;
+    oop:hasMethod BIPV1:BviZxXWI ;
+    oop:hasParameter ( "Nfb596ee4546443b6b0a4fbeb94b009be" "1090"^^xsd:float "1080"^^xsd:float "5"^^xsd:float ) .
+
+BIPV1:bOhzreFj a occ:gp_Vec ;
+    oop:hasParameter ( "Nc6ca60f32c5c47ec824f457d7321f87b" 156 542 5 ) .
+
+BIPV1:bPBZirCz omg:hasComplexGeometryDescription BIPV1:QMSeYcAB .
+
+BIPV1:bYLDtQIT a occ:Close .
+
+BIPV1:bYmOonIT omg:hasComplexGeometryDescription BIPV1:txcCZtKY .
+
+BIPV1:bdoftdNq a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:XJzZXcAe ;
+    oop:hasParameter ( "Nad8727738db444c487345b1cdf331967" BIPV1:kRluUJDn BIPV1:IGEejYxX ) .
+
+BIPV1:bjyaPgWC a occ:Shape .
+
+BIPV1:bkFhIcmO a occ:SetTranslation ;
+    oop:hasParameter BIPV1:TCCaYlgO .
+
+BIPV1:bmkoptCi a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:osqHdyqq .
+
+BIPV1:brGOnbfA a occ:gp_Vec ;
+    oop:hasParameter ( "N6c03dd01c62a4200ad8d5c2cd6dc2ef4" 540 414 5 ) .
+
+BIPV1:cEXiJvpO omg:hasComplexGeometryDescription BIPV1:XSIjmuGg .
+
+BIPV1:cFADTHOS a occ:gp_Vec ;
+    oop:hasParameter ( "N2681ba35b60f47799ef9872ed4a48c52" 924 798 5 ) .
+
+BIPV1:cNHfjcBV a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:DkDBSXCe .
+
+BIPV1:cQTCiGVx a occ:gp_Vec ;
+    oop:hasParameter ( "N16b4fedf2dc544bcbf5f7bf7223f0c05" 540 798 5 ) .
+
+BIPV1:cbKFVDul a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:iqlSxzNY .
+
+BIPV1:cmCunjUx a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:lpekmpgn .
+
+BIPV1:csDQMzwY a occ:gp_Vec ;
+    oop:hasParameter ( "N99c8fb5b3f0b4763933e0d7ec864c4e2" 668 670 5 ) .
+
+BIPV1:cxlIRdHN a occ:gp_Vec ;
+    oop:hasParameter ( "N7119b050989648c8b3f5dfd20f5c7b2c" 924 30 5 ) .
+
+BIPV1:cyYRBKPy omg:hasComplexGeometryDescription BIPV1:hEOPkAXF .
+
+BIPV1:dLiAfKbC omg:hasComplexGeometryDescription BIPV1:wbjbtGut .
+
+BIPV1:dOtvYbZd a occ:gp_Pnt ;
+    oop:hasParameter ( "N4a7f1c3c3fba476fa5ccb3d678becbcb" 0 115 0 ) .
+
+BIPV1:dQuQYSRv a occ:Shape .
+
+BIPV1:dRQDAcHu omg:hasComplexGeometryDescription BIPV1:MidTRFAc .
+
+BIPV1:dWcxZcKM a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:OQnjQUyn ;
+    oop:hasParameter ( "N318b66302fb942d5a2cb75d310e8e6c0" BIPV1:kRluUJDn BIPV1:mUzDJsfF ) .
+
+BIPV1:daREmlOX omg:hasComplexGeometryDescription BIPV1:ZTWhHSTw .
+
+BIPV1:dhYoYACh a occ:SetTranslation ;
+    oop:hasParameter BIPV1:xbnXMoUW .
+
+BIPV1:drYUBcZa a occ:SetTranslation ;
+    oop:hasParameter BIPV1:RrLsgZfJ .
+
+BIPV1:eNHmPXml a occ:SetTranslation ;
+    oop:hasParameter BIPV1:FlczQrDT .
+
+BIPV1:eZYiSYGS a occ:Shape .
+
+BIPV1:elfZoYVx a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:mYxzXgPf ;
+    oop:hasParameter ( "Ndcf88258d36e49c6b311673c5fe1b269" BIPV1:kRluUJDn BIPV1:sNAuQSoU ) .
+
+BIPV1:eniWwdaF a occ:Shape .
+
+BIPV1:eoUfxwTg a occ:gp_Vec ;
+    oop:hasParameter ( "N58234758f2ab4b668fa439e5a0f61976" 796 798 5 ) .
+
+BIPV1:eplMrMoM a occ:gp_Vec ;
+    oop:hasParameter ( "N24ba3e7927c14b0abd218d75f06364b6" 668 158 5 ) .
+
+BIPV1:ewMluQKf omg:hasComplexGeometryDescription BIPV1:KnticHQN .
+
+BIPV1:fAtkTCwY a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:xAghPrDQ ;
+    oop:hasParameter ( "N4b25ab646e0d46598a008f01a0695964" BIPV1:kRluUJDn BIPV1:mcsugUlz ) .
+
+BIPV1:fEWcqnDY omg:hasComplexGeometryDescription BIPV1:AWFGwCTr .
+
+BIPV1:fGaVVuXN omg:hasComplexGeometryDescription BIPV1:KUNybGbb .
+
+BIPV1:fLDryskO omg:hasComplexGeometryDescription BIPV1:rBstDIMC .
+
+BIPV1:fkXfqVlb a occ:gp_Vec ;
+    oop:hasParameter ( "N1147d8c47d974b599a21f6051af441b2" 796 670 5 ) .
+
+BIPV1:flPgLsFg a occ:Shape .
+
+BIPV1:fvbZUznw a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:MSPTkNNZ .
+
+BIPV1:gArUvwJT omg:hasComplexGeometryDescription BIPV1:brGOnbfA .
+
+BIPV1:gCFBqMnS a occ:gp_Vec ;
+    oop:hasParameter ( "Na907d1ae256b4ad9a7d9addf26d38266" 924 670 5 ) .
+
+BIPV1:gFOZaCYj a occ:Shape .
+
+BIPV1:gJtdtxeQ a occ:SetTranslation ;
+    oop:hasParameter BIPV1:NukqhZpZ .
+
+BIPV1:gVOmMjZt a occ:Shape .
+
+BIPV1:gWXDCTVK omg:hasComplexGeometryDescription BIPV1:DqkDCwEw .
+
+BIPV1:gZSarSSB a occ:Shape .
+
+BIPV1:gdcFiFQm a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:ZwzsXlLr .
+
+BIPV1:gmagXait a occ:Shape .
+
+BIPV1:gsvYOuNZ omg:hasComplexGeometryDescription BIPV1:KqiOlBVg .
+
+BIPV1:hEOPkAXF a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:zXJDFYZB .
+
+BIPV1:hEarOGDH a occ:SetTranslation ;
+    oop:hasParameter BIPV1:jbgZLIZy .
+
+BIPV1:hHBwhUcD a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:NlPRnJbw ;
+    oop:hasParameter ( "N71a131216e424b2c95a06dd59902a568" BIPV1:kRluUJDn BIPV1:VnzsPbcz ) .
+
+BIPV1:hISovvYH a occ:gp_Vec ;
+    oop:hasParameter ( "N7fe5384db2b8442ab9dd6deb629a3c75" 156 926 5 ) .
+
+BIPV1:hKYWKVAQ a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:aHWBuveC ;
+    oop:hasParameter ( "N9bf5329fffc74792ab8f5c7f931c24b7" BIPV1:kRluUJDn BIPV1:kVJtCBzo ) .
+
+BIPV1:hQBwEHyH a occ:Shape .
+
+BIPV1:hYOwJgVe a occ:SetTranslation ;
+    oop:hasParameter BIPV1:QUPicQvY .
+
+BIPV1:hoemctDM omg:hasComplexGeometryDescription BIPV1:cFADTHOS .
+
+BIPV1:hqRmJGyE omg:hasComplexGeometryDescription BIPV1:VkIQuhuP .
+
+BIPV1:hvmVAjbr a occ:SetTranslation ;
+    oop:hasParameter BIPV1:WfEXVsmj .
+
+BIPV1:hvzGoZBb a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:OGWTyizk ;
+    oop:hasParameter ( "Nacbd10ae9ca542e9ada41ddbc20249f3" BIPV1:kRluUJDn BIPV1:vzTIAPAv ) .
+
+BIPV1:hwhlsDSg a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:rjaIlsZC ;
+    oop:hasParameter ( "Nca2a852f0f97459ba4c8403a26fef111" BIPV1:kRluUJDn BIPV1:HBObXjpu ) .
+
+BIPV1:iAOeLNdW a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:vXGifaCK .
+
+BIPV1:iCQJbTKT omg:hasComplexGeometryDescription BIPV1:mRxFoZPt .
+
+BIPV1:iEohoeFx a occ:gp_Vec ;
+    oop:hasParameter ( "Nb2f3a23ec9014e39beb2983317664568" 28 670 5 ) .
+
+BIPV1:iGVbujtR omg:hasComplexGeometryDescription BIPV1:rawgFDDN .
+
+BIPV1:iMkhXPAw omg:hasComplexGeometryDescription BIPV1:ntUvjQkc .
+
+BIPV1:iOUgmOHr a occ:Shape .
+
+BIPV1:icRNYpOV a occ:Shape .
+
+BIPV1:iesMjLyE a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:SeCmmbpG ;
+    oop:hasParameter ( "Nb0cb1ee1717b4a4bb5f1284836d301aa" BIPV1:kRluUJDn BIPV1:NxRTLrJu ) .
+
+BIPV1:ihsBrkWS a occ:Shape .
+
+BIPV1:ijOdqsQn a occ:gp_Vec ;
+    oop:hasParameter ( "N5535f03cac2443678b0ae8b2730dbba6" 28 286 5 ) .
+
+BIPV1:inAcXVnv a occ:Shape .
+
+BIPV1:ipYIObiu a occ:SetTranslation ;
+    oop:hasParameter BIPV1:fLDryskO .
+
+BIPV1:ipoYooUk a occ:SetTranslation ;
+    oop:hasParameter BIPV1:JweytSGE .
+
+BIPV1:iqlSxzNY a occ:SetTranslation ;
+    oop:hasParameter BIPV1:HJrKbDeR .
+
+BIPV1:iuTABUxJ omg:hasComplexGeometryDescription BIPV1:vCVgTWDQ .
+
+BIPV1:ivcxhvYo a occ:SetTranslation ;
+    oop:hasParameter BIPV1:MOclXHGo .
+
+BIPV1:jHJamfut omg:hasComplexGeometryDescription BIPV1:jehDVQxq .
+
+BIPV1:jKSRalCl a occ:gp_Vec ;
+    oop:hasParameter ( "Nf6833ed1fe7241c4aa94c796e5e010b9" 668 414 5 ) .
+
+BIPV1:jNspCBuJ a occ:Shape .
+
+BIPV1:jQGikrpt omg:hasComplexGeometryDescription BIPV1:XeIAARsY .
+
+BIPV1:jRjkWyeD a occ:SetTranslation ;
+    oop:hasParameter BIPV1:VvvsPZRm .
+
+BIPV1:jTIrqtET a occ:Shape .
+
+BIPV1:jbgZLIZy omg:hasComplexGeometryDescription BIPV1:eplMrMoM .
+
+BIPV1:jbxLqrBa a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:nFjNnext ;
+    oop:hasParameter ( "N8042eecc41dc473ebd9ed68a3d038eaa" BIPV1:kRluUJDn BIPV1:bPBZirCz ) .
+
+BIPV1:jehDVQxq a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:oacUlTeR .
+
+BIPV1:jjZqvYct a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:hYOwJgVe .
+
+BIPV1:joKFfdQc a occ:gp_Pnt ;
+    oop:hasParameter ( "Nce8bf5e82d7e4e958086917b7081dce6" 115 125 0 ) .
+
+BIPV1:jsOdByki a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:OKLylxzQ ;
+    oop:hasParameter ( "Nf1338206f6c7442790eb9591d5784433" BIPV1:kRluUJDn BIPV1:cyYRBKPy ) .
+
+BIPV1:jzZMAasE a occ:Wire .
+
+BIPV1:kCYbEwlp a occ:gp_Vec ;
+    oop:hasParameter ( "N85851c69abab4e33a973233095c64c2e" 540 286 5 ) .
+
+BIPV1:kGYrbDmD a occ:gp_Vec ;
+    oop:hasParameter ( "Na108529981d84ed794a85e749c022d88" 668 30 5 ) .
+
+BIPV1:kJENBlIz omg:hasComplexGeometryDescription BIPV1:ovvDKcTi .
+
+BIPV1:kJlHEqOq omg:hasComplexGeometryDescription BIPV1:csDQMzwY .
+
+BIPV1:kQOVxhHs a occ:SetTranslation ;
+    oop:hasParameter BIPV1:KgKRkMfH .
+
+BIPV1:kVJtCBzo omg:hasComplexGeometryDescription BIPV1:AOWOesKB .
+
+BIPV1:kfoYzBjx a occ:BRepPrimAPI_MakePrism ;
+    oop:hasMethod BIPV1:XLeazdJD ;
+    oop:hasParameter ( "N9c8d149e00954034859ff054b6b62755" BIPV1:iuTABUxJ BIPV1:QtTcvCWw ) .
+
+BIPV1:koAMDbXP omg:hasComplexGeometryDescription BIPV1:pJaDuLXw .
+
+BIPV1:kpOkJdLC a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:FfChvPIy .
+
+BIPV1:ksgWIDhy a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:HRlpbfwx ;
+    oop:hasParameter ( "Ne1edb9f391ce497f88de320a87597dec" BIPV1:kRluUJDn BIPV1:OApNqsBB ) .
+
+BIPV1:lDfepPmu a occ:Add ;
+    oop:hasParameter BIPV1:AuGZQMWu .
+
+BIPV1:lHJDODAQ a occ:gp_Vec ;
+    oop:hasParameter ( "N54aa7e9ccc60484f9701996cc68ed93e" 156 670 5 ) .
+
+BIPV1:lVxXYTnT a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:HlxgONEo .
+
+BIPV1:lWuVmsCY a occ:Shape .
+
+BIPV1:lZDVuwLv omg:hasComplexGeometryDescription BIPV1:CmMJEbjF .
+
+BIPV1:lpekmpgn a occ:SetTranslation ;
+    oop:hasParameter BIPV1:yBTuNVTC .
+
+BIPV1:lxkUFPFN a occ:gp_Vec ;
+    oop:hasParameter ( "Nbbf66fb0355f40e09b78467d06bbe500" 412 414 5 ) .
+
+BIPV1:mFfKdrDg a occ:gp_Vec ;
+    oop:hasParameter ( "Ne98df6ed0cd9488688636261a1ecdf14" 796 926 5 ) .
+
+BIPV1:mRxFoZPt a occ:gp_Vec ;
+    oop:hasParameter ( "N7faf303a750a49548b2744c1241231ae" 156 286 5 ) .
+
+BIPV1:mTJfYPsX a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:qHYsfISl .
+
+BIPV1:mUzDJsfF omg:hasComplexGeometryDescription BIPV1:iAOeLNdW .
+
+BIPV1:mXffyQSo a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:LgjNhpCP ;
+    oop:hasParameter ( "Ncd9b1bea92c24abc8b0de0b267e14578" BIPV1:kRluUJDn BIPV1:fGaVVuXN ) .
+
+BIPV1:mYxzXgPf a occ:Shape .
+
+BIPV1:mcsugUlz omg:hasComplexGeometryDescription BIPV1:XbKeasQq .
+
+BIPV1:mgHXpTxT a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:ItJCRjQh ;
+    oop:hasParameter ( "N2ae79242e4a84aacabad85f8bc6a37b2" BIPV1:kRluUJDn BIPV1:wdbMhOqA ) .
+
+BIPV1:miXRkEFV a occ:SetTranslation ;
+    oop:hasParameter BIPV1:xtnZvIMG .
+
+BIPV1:mmrRzFcM a occ:Shape .
+
+BIPV1:nFMowfHd a occ:SetTranslation ;
+    oop:hasParameter BIPV1:AXdQYCGF .
+
+BIPV1:nFjNnext a occ:Shape .
+
+BIPV1:nMJfwIny a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:qFKwCsvz .
+
+BIPV1:nMkgisrc a occ:Shape .
+
+BIPV1:nSZYzHdQ a occ:Shape .
+
+BIPV1:ndbZdgPe a occ:gp_Vec ;
+    oop:hasParameter ( "N96117146177d45d2b9a2345ec4b8b61a" 412 158 5 ) .
+
+BIPV1:nmVdxCmQ a occ:Shape .
+
+BIPV1:ntUvjQkc a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:vfDioEKs .
+
+BIPV1:oAazjgoA a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:bkFhIcmO .
+
+BIPV1:oItEQVBk omg:hasComplexGeometryDescription BIPV1:cQTCiGVx .
+
+BIPV1:oSsDThMG omg:hasComplexGeometryDescription BIPV1:cxlIRdHN .
+
+BIPV1:oVpQoFRH a occ:gp_Vec ;
+    oop:hasParameter ( "Nc2c2666d29924f5c975c0384ca0c6e85" 412 30 5 ) .
+
+BIPV1:oZFzORyJ omg:hasComplexGeometryDescription BIPV1:TYMRymQo .
+
+BIPV1:oacUlTeR a occ:SetTranslation ;
+    oop:hasParameter BIPV1:LUxuPjBS .
+
+BIPV1:opSIDEkA a occ:SetTranslation ;
+    oop:hasParameter BIPV1:vjDrAYgS .
+
+BIPV1:osqHdyqq a occ:SetTranslation ;
+    oop:hasParameter BIPV1:gArUvwJT .
+
+BIPV1:ovvDKcTi a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:DHNpDnrm .
+
+BIPV1:pBeOkNhU omg:hasComplexGeometryDescription BIPV1:SkAOoDSn .
+
+BIPV1:pGirQpzx omg:hasComplexGeometryDescription BIPV1:gdcFiFQm .
+
+BIPV1:pJaDuLXw a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:jRjkWyeD .
+
+BIPV1:pJzNuSlC a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:FNtJxHbH ;
+    oop:hasParameter ( "N781e2bb78c0e47c8a7eca98104e5755b" BIPV1:kRluUJDn BIPV1:XNIKYhBA ) .
+
+BIPV1:pNhPXaVe a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:PoXbOSVf ;
+    oop:hasParameter ( "N0ba164c39e8d42aa9777fe63899a6d2a" BIPV1:kRluUJDn BIPV1:vXcUstyg ) .
+
+BIPV1:pXSvCNkn a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:gVOmMjZt ;
+    oop:hasParameter ( "Nae13ad5a00864da3a4dc724fa28522d3" BIPV1:kRluUJDn BIPV1:OzJNLuFm ) .
+
+BIPV1:pZDtbFUD a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:InwVJLSJ .
+
+BIPV1:peHCuUjU a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:KuvpKDHL ;
+    oop:hasParameter ( "Nf07dc8d1a83a4c60aa948a0363959642" BIPV1:kRluUJDn BIPV1:BayXtDgK ) .
+
+BIPV1:pkPyPuMX a occ:gp_Vec ;
+    oop:hasParameter ( "N6181e2a866a94c7b9b05ddac3eb46d63" 796 542 5 ) .
+
+BIPV1:pugbaqRa a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:uiWzFHIZ ;
+    oop:hasParameter ( "N8e81370536e24a5b8b14a2c7ef5b3cc6" BIPV1:kRluUJDn BIPV1:IQTExuCI ) .
+
+BIPV1:pxBbsANu omg:hasComplexGeometryDescription BIPV1:CkUcYjCB .
+
+BIPV1:qAxfDDgh a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:drYUBcZa .
+
+BIPV1:qFKwCsvz a occ:SetTranslation ;
+    oop:hasParameter BIPV1:FqsXiqny .
+
+BIPV1:qHYsfISl a occ:SetTranslation ;
+    oop:hasParameter BIPV1:NIHEGtJk .
+
+BIPV1:qLhHAWFm a occ:Add ;
+    oop:hasParameter BIPV1:SSxJJeai .
+
+BIPV1:qdWHGORV a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:yIVDFzla ;
+    oop:hasParameter ( "Ncce1622d122e4bdb99e7ecf68927a583" BIPV1:kRluUJDn BIPV1:daREmlOX ) .
+
+BIPV1:qmjrdHFy a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:nSZYzHdQ ;
+    oop:hasParameter ( "N89f43881f3954a53b7539953e0241d3d" BIPV1:kRluUJDn BIPV1:MZLkIMnj ) .
+
+BIPV1:rBstDIMC a occ:gp_Vec ;
+    oop:hasParameter ( "N47b689be88484febb796e5fc5e11a3ce" 668 542 5 ) .
+
+BIPV1:rQabgIEf a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:gJtdtxeQ .
+
+BIPV1:rXarMHZF a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:flPgLsFg ;
+    oop:hasParameter ( "N3848dcb321bf475e8139c98b58f2f00d" BIPV1:kRluUJDn BIPV1:ZMWHykzG ) .
+
+BIPV1:rawgFDDN a occ:gp_Vec ;
+    oop:hasParameter ( "Ne88c2c44b2fd44ec988251780fe7e823" 412 926 5 ) .
+
+BIPV1:rjDAEdQE a occ:gp_Vec ;
+    oop:hasParameter ( "N5c1765b3ccc04e86b27d7ccb465eb9e9" 28 158 5 ) .
+
+BIPV1:rjaIlsZC a occ:Shape .
+
+BIPV1:rkEimynq a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:uXniKYBU .
+
+BIPV1:sCutmUIN a occ:gp_Pnt ;
+    oop:hasParameter ( "Nde5e44e33ffe42d69cf8af7bba28433f" 125 115 0 ) .
+
+BIPV1:sNAuQSoU omg:hasComplexGeometryDescription BIPV1:bmkoptCi .
+
+BIPV1:sSlAqKmP a occ:gp_Vec ;
+    oop:hasParameter ( "N2569fca7ec0f45fa81e5068cadad9f41" 924 158 5 ) .
+
+BIPV1:siaAnrbh a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:xjaekdmH ;
+    oop:hasParameter ( "Nf2c53ed8d7194ba7bd31f10c22e94238" BIPV1:kRluUJDn BIPV1:zrXoXVez ) .
+
+BIPV1:sqGzLPeF a occ:gp_Vec ;
+    oop:hasParameter ( "Ne5e5d058d28a402eae395e17159ab723" 924 926 5 ) .
+
+BIPV1:stGDfOtC a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:gmagXait ;
+    oop:hasParameter ( "Ncbd053b972a6494f80a42c94c32fee04" BIPV1:kRluUJDn BIPV1:xnCZuYuq ) .
+
+BIPV1:tFYwZypp omg:hasComplexGeometryDescription BIPV1:UQmTylkG .
+
+BIPV1:tFqVvGTy omg:hasComplexGeometryDescription BIPV1:ZRcHvAmN .
+
+BIPV1:tJPsqKdX omg:hasComplexGeometryDescription BIPV1:jjZqvYct .
+
+BIPV1:tmvVJaqc a occ:SetTranslation ;
+    oop:hasParameter BIPV1:oItEQVBk .
+
+BIPV1:trUVTUvF omg:hasComplexGeometryDescription BIPV1:dOtvYbZd .
+
+BIPV1:tvzCdelQ a occ:Shape .
+
+BIPV1:twDKLzod a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:OzjIzBbQ ;
+    oop:hasParameter ( "Neae0919d13d44b1b83b25e08e2318270" BIPV1:kRluUJDn BIPV1:EossbtIO ) .
+
+BIPV1:txcCZtKY a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:hvmVAjbr .
+
+BIPV1:uDtToKDM omg:hasComplexGeometryDescription BIPV1:aZNrJEFU .
+
+BIPV1:uRkQgedq a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:iOUgmOHr ;
+    oop:hasParameter ( "Nc57ef0d49c3547ee9f5f33c23f0d79cf" BIPV1:kRluUJDn BIPV1:XHhIoHSE ) .
+
+BIPV1:uTKxyxlj a occ:Shape .
+
+BIPV1:uWNwRoIQ a occ:Shape .
+
+BIPV1:uXniKYBU a occ:SetTranslation ;
+    oop:hasParameter BIPV1:pBeOkNhU .
+
+BIPV1:uekpRDmo omg:hasComplexGeometryDescription BIPV1:CpBxejGK .
+
+BIPV1:uiWzFHIZ a occ:Shape .
+
+BIPV1:upzrXtUK a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:dQuQYSRv ;
+    oop:hasParameter ( "Nc07128b83423482db169cbff0cf08730" BIPV1:kRluUJDn BIPV1:AGbkKcsz ) .
+
+BIPV1:vCVgTWDQ a occ:BRepBuilderAPI_MakeFace ;
+    oop:hasMethod BIPV1:NkJCCDdm ;
+    oop:hasParameter BIPV1:uDtToKDM .
+
+BIPV1:vXGifaCK a occ:SetTranslation ;
+    oop:hasParameter BIPV1:VRGvIpkb .
+
+BIPV1:vXcUstyg omg:hasComplexGeometryDescription BIPV1:QHcMGcsp .
+
+BIPV1:vfDioEKs a occ:SetTranslation ;
+    oop:hasParameter BIPV1:RECcFqww .
+
+BIPV1:vjDrAYgS omg:hasComplexGeometryDescription BIPV1:XvyWlCnH .
+
+BIPV1:voFGFRWu a occ:SetTranslation ;
+    oop:hasParameter BIPV1:OHtZkeWC .
+
+BIPV1:vzTIAPAv omg:hasComplexGeometryDescription BIPV1:pZDtbFUD .
+
+BIPV1:wIlpgQdo a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:uWNwRoIQ ;
+    oop:hasParameter ( "Ncf35ff4e2a50480983b5074fce75977b" BIPV1:kRluUJDn BIPV1:KlkzgajK ) .
+
+BIPV1:wbjbtGut a occ:gp_Vec ;
+    oop:hasParameter ( "Ne51c8aed18784e94aa04e736c2e71a85" 540 30 5 ) .
+
+BIPV1:wdbMhOqA omg:hasComplexGeometryDescription BIPV1:ByhwgCjI .
+
+BIPV1:wlANoeup a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:hQBwEHyH ;
+    oop:hasParameter ( "N61e9f185b3d64529beb104cb17f1c981" BIPV1:kRluUJDn BIPV1:bYmOonIT ) .
+
+BIPV1:wsFgBDqM a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:PhVhZxuO ;
+    oop:hasParameter ( "N4dc4fc4f9768430b9ab361d23c8ddceb" BIPV1:kRluUJDn BIPV1:PdrVMfqB ) .
+
+BIPV1:wtbCTiQq a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:YkpybHvh .
+
+BIPV1:xAghPrDQ a occ:Shape .
+
+BIPV1:xHSTKjJZ a occ:SetTranslation ;
+    oop:hasParameter BIPV1:IrkHewsx .
+
+BIPV1:xJgXdejj a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:mmrRzFcM ;
+    oop:hasParameter ( "Nc8cba46dda0b4cdaacbdbe0aacde600f" BIPV1:kRluUJDn BIPV1:pGirQpzx ) .
+
+BIPV1:xONSXlMC a occ:gp_Vec ;
+    oop:hasParameter ( "N180fd40d719145298a5e4cae496c5ee6" 156 158 5 ) .
+
+BIPV1:xbnXMoUW omg:hasComplexGeometryDescription BIPV1:RBBTMyPl .
+
+BIPV1:xchIObpV omg:hasComplexGeometryDescription BIPV1:IIYTCyqH .
+
+BIPV1:xhJDIgvt omg:hasComplexGeometryDescription BIPV1:HHsWfYiy .
+
+BIPV1:xjaekdmH a occ:Shape .
+
+BIPV1:xnCZuYuq omg:hasComplexGeometryDescription BIPV1:lVxXYTnT .
+
+BIPV1:xtnZvIMG omg:hasComplexGeometryDescription BIPV1:ChFuHAiM .
+
+BIPV1:yBTuNVTC omg:hasComplexGeometryDescription BIPV1:PWFCJWpf .
+
+BIPV1:yCRLazeL a occ:Shape .
+
+BIPV1:yIVDFzla a occ:Shape .
+
+BIPV1:yOjEEjPY omg:hasComplexGeometryDescription BIPV1:FGEVUkQw .
+
+BIPV1:yVWdBrXF a occ:BRepBuilderAPI_Transform ;
+    oop:hasMethod BIPV1:icRNYpOV ;
+    oop:hasParameter ( "N92c90d290c284a09b8d0c45900e6a8b8" BIPV1:kRluUJDn BIPV1:aWxCvhOm ) .
+
+BIPV1:yiVeQGuZ a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:WsfhjCHS .
+
+BIPV1:ypyOXMeY a occ:gp_Vec ;
+    oop:hasParameter ( "N8b3f959f45dd41daa12d8e79c7ae319d" 796 158 5 ) .
+
+BIPV1:yqPRtEMl omg:hasComplexGeometryDescription BIPV1:QgJBIXfn .
+
+BIPV1:yyhRKSFF omg:hasComplexGeometryDescription BIPV1:HEzdGViQ .
+
+BIPV1:zMmgiYTn a occ:gp_Vec ;
+    oop:hasParameter ( "N20e460270fc54411a35ff8d6933dcb0d" 284 30 5 ) .
+
+BIPV1:zNbHysgE a occ:gp_Trsf ;
+    oop:hasMethod BIPV1:IzrDdMkg .
+
+BIPV1:zRBqCsLL omg:hasComplexGeometryDescription BIPV1:NUjMegVP .
+
+BIPV1:zXJDFYZB a occ:SetTranslation ;
+    oop:hasParameter BIPV1:oSsDThMG .
+
+BIPV1:zbBwdiRo a occ:gp_Vec ;
+    oop:hasParameter ( "N056d30b85aa5472c9cea8745f4d4b7a8" "0"^^xsd:float "0"^^xsd:float "0.76"^^xsd:float ) .
+
+BIPV1:zobdgXua a occ:SetTranslation ;
+    oop:hasParameter BIPV1:MqRSoRxz .
+
+BIPV1:zofsRsvq a occ:SetTranslation ;
+    oop:hasParameter BIPV1:fEWcqnDY .
+
+BIPV1:zrXoXVez omg:hasComplexGeometryDescription BIPV1:cmCunjUx .
+
+BIPV1:kRluUJDn omg:hasComplexGeometryDescription BIPV1:kfoYzBjx .
+

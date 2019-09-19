@@ -1,0 +1,16 @@
+
+version: '3'
+services:
+  fuseki-service:
+    build: .
+    image: fuseki-app-image
+    ports:
+      - "22631:22631"
+    container_name: fuseki-app-container
+    environment:
+      - "LC_ADDR_fuseki_db=${LC_ADDR_fuseki_db}"
+networks:
+    default:
+        external:
+            name: scope-net
+

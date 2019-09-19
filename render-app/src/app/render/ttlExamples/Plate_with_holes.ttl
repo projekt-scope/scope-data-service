@@ -1,0 +1,81 @@
+@prefix Object1: <https://projekt-scope.de/products/PlateWithHoles.ttl#> .
+@prefix occ: <https://projekt-scope.de/ontologies/occ#> .
+@prefix omg: <https://w3id.org/omg#> .
+@prefix oop: <https://projekt-scope.de/ontologies/oop#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+Object1:_IGhIvvTZ omg:hasGeometry Object1:_xRsbonxN .
+
+Object1:_CvdBEcYk a occ:Shape .
+
+Object1:_PpfjtqJu a occ:gp_Dir ;
+    oop:hasParameter ( "N8b1f0abe33b84b4c84c500aa4c9a2277" 0e+00 0e+00 1e+00 ) .
+
+Object1:_QVneZSpu a occ:BRepPrimAPI_MakeCylinder ;
+    oop:hasMethod Object1:_CvdBEcYk ;
+    oop:hasParameter ( "N65d720b00bc04aca99ebbe07f4c5403c" Object1:ax_2 1e+02 3e+02 ) .
+
+Object1:_TuqDDxiH a occ:BRepPrimAPI_MakeBox ;
+    oop:hasMethod Object1:_okLmySth ;
+    oop:hasParameter ( "N6bfbe1087e394b7ea0cb9da9d3c2b2ee" 2000 2000 300 ) .
+
+Object1:_VCqaUlbV a occ:Shape .
+
+Object1:_WVAYngvK a occ:Shape .
+
+Object1:_XhZoLyyk a occ:gp_Ax2 ;
+    oop:hasParameter ( "Ncdf97036bb1a439798060d1b9d3c9dce" Object1:point_2 Object1:dir_2 ) .
+
+Object1:_hCcGNtFV a occ:Shape .
+
+Object1:_hrmBqGZl a occ:BRepPrimAPI_MakeCylinder ;
+    oop:hasMethod Object1:_hCcGNtFV ;
+    oop:hasParameter ( "Nc1a28727a55844d7bb43ab0ee543a20e" Object1:ax_1 2e+01 3e+02 ) .
+
+Object1:_lyxAXORv a occ:gp_Dir ;
+    oop:hasParameter ( "N45b84229644847e695775471f68d546a" 0e+00 0e+00 1e+00 ) .
+
+Object1:_nSNgkuGc a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_WVAYngvK ;
+    oop:hasParameter ( "N7a50ceaa74ec49868f7eb805b5afe61f" Object1:_pnvjSxRK Object1:cylinder_2 ) .
+
+Object1:_oIWfHvHW a occ:gp_Ax2 ;
+    oop:hasParameter ( "Nc9b18beefcd34b54b5220b678e58ea9b" Object1:point_1 Object1:dir_1 ) .
+
+Object1:_okLmySth a occ:Shape .
+
+Object1:_pnvjSxRK omg:hasComplexGeometryDescription Object1:_ucqVeYFT .
+
+Object1:_rdzLzqJn a occ:gp_Pnt ;
+    oop:hasParameter ( "Nddb0300efd6b4fbd8f246736d38b16fa" 3e+02 3e+02 0e+00 ) .
+
+Object1:_ucqVeYFT a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_VCqaUlbV ;
+    oop:hasParameter ( "N4af13f84ff534559bec809c3b91dbc12" Object1:plate Object1:cylinder_1 ) .
+
+Object1:_xRsbonxN omg:hasComplexGeometryDescription Object1:_nSNgkuGc .
+
+Object1:_zcDjghYy a occ:gp_Pnt ;
+    oop:hasParameter ( "Nede6d3156c2e46ee8c94a2a20070daba" 6e+02 6e+02 0e+00 ) .
+
+Object1:ax_1 omg:hasComplexGeometryDescription Object1:_oIWfHvHW .
+
+Object1:ax_2 omg:hasComplexGeometryDescription Object1:_XhZoLyyk .
+
+Object1:cylinder_1 omg:hasComplexGeometryDescription Object1:_hrmBqGZl .
+
+Object1:cylinder_2 omg:hasComplexGeometryDescription Object1:_QVneZSpu .
+
+Object1:dir_1 omg:hasComplexGeometryDescription Object1:_lyxAXORv .
+
+Object1:dir_2 omg:hasComplexGeometryDescription Object1:_PpfjtqJu .
+
+Object1:plate omg:hasComplexGeometryDescription Object1:_TuqDDxiH .
+
+Object1:point_1 omg:hasComplexGeometryDescription Object1:_rdzLzqJn .
+
+Object1:point_2 omg:hasComplexGeometryDescription Object1:_zcDjghYy .
+

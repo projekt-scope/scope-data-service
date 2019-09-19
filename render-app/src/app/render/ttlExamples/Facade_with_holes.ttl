@@ -1,0 +1,2329 @@
+@prefix Object1: <https://projekt-scope.de/products/FacadeWithHoles.ttl#> .
+@prefix occ: <https://projekt-scope.de/ontologies/occ#> .
+@prefix omg: <https://w3id.org/omg#> .
+@prefix oop: <https://projekt-scope.de/ontologies/oop#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+Object1:_RYFhidLn omg:hasGeometry Object1:_FLWKrnlC .
+
+Object1:_AEbflaDM a occ:gp_Pnt ;
+    oop:hasParameter ( "N41d994430262429c9b512391c5dadc64" 3e+02 1.8e+03 5.2e+02 ) .
+
+Object1:_AGqbJCzt a occ:Shape .
+
+Object1:_APZUcLrr omg:hasComplexGeometryDescription Object1:_ZcbxrtUm .
+
+Object1:_AQyQxfpw a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_rrUAzkoJ ;
+    oop:hasParameter ( "N0b168988696d4f1ca624cd7da8868da9" Object1:_WlqRsvOG Object1:_wMoygldS ) .
+
+Object1:_ATCtrkZN omg:hasComplexGeometryDescription Object1:_jQNptaPi .
+
+Object1:_AURBfWYA omg:hasComplexGeometryDescription Object1:_RsCSsBhI .
+
+Object1:_AUnvkiFf omg:hasComplexGeometryDescription Object1:_olnrhvEr .
+
+Object1:_AUyqYkBA a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_XzuApcng ;
+    oop:hasParameter ( "Nf05f2c7e7b88427b899657839232a73c" Object1:_gnmmryML 6e+01 ) .
+
+Object1:_AZAomvbh a occ:Shape .
+
+Object1:_AaSSiYoQ omg:hasComplexGeometryDescription Object1:_kuzKzkly .
+
+Object1:_AeBVFMTf omg:hasComplexGeometryDescription Object1:_xxXODiiC .
+
+Object1:_AjNdWspF omg:hasComplexGeometryDescription Object1:_tuCVdqAj .
+
+Object1:_AnWjHfEe a occ:Shape .
+
+Object1:_ApLaudyx a occ:gp_Pnt ;
+    oop:hasParameter ( "Nf5338ba643b040ca9debb509f79d0935" 3e+02 1.4e+03 1.72e+03 ) .
+
+Object1:_AscaWlgX omg:hasComplexGeometryDescription Object1:_BmQkYTKE .
+
+Object1:_AsqIrKOT a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_bcMwZEcW ;
+    oop:hasParameter ( "N55f80cd2d77e4c31b8b3a5715fe497ff" Object1:_JQpgBHjd 6e+01 ) .
+
+Object1:_AuJSSIjW a occ:Shape .
+
+Object1:_AwbKFsSx a occ:Shape .
+
+Object1:_AxKgfqbY a occ:Shape .
+
+Object1:_AyUqYqGi a occ:gp_Pnt ;
+    oop:hasParameter ( "N06f6bed5ced345acb7e592bb80522114" 3e+02 1.6e+03 3.2e+02 ) .
+
+Object1:_BAzLSsNP a occ:Shape .
+
+Object1:_BMXsPTTY omg:hasComplexGeometryDescription Object1:_QabZNOCK .
+
+Object1:_BTlbuOPT omg:hasComplexGeometryDescription Object1:_giVwbotr .
+
+Object1:_BVbRdDQW a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_DbbSbUHy ;
+    oop:hasParameter ( "N889c6fb4be4c4fbdb0829e30f14b52bd" Object1:_EMIUSClx 6e+01 ) .
+
+Object1:_BVxPjRoT omg:hasComplexGeometryDescription Object1:_JgPictzF .
+
+Object1:_BWeRJzRp a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_aqYMQjeG ;
+    oop:hasParameter ( "Nb5d8ce08015247a6bf0c4bb81ce453b7" Object1:_hOlNqHDl Object1:_QSbythXw ) .
+
+Object1:_BemkJuxS omg:hasComplexGeometryDescription Object1:_ookJVqkm .
+
+Object1:_BguJScmo omg:hasComplexGeometryDescription Object1:_gJRhfXLi .
+
+Object1:_BjhXcqFt a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_WVFURjhO ;
+    oop:hasParameter ( "Nea48b70e68b54417b6afb2b6e33fd67d" Object1:_eWIdEIOk 6e+01 ) .
+
+Object1:_BkkTJhHW a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_ExifvNGY ;
+    oop:hasParameter ( "Nb710bd874d324fa4934ad3746f825798" Object1:_aIchccHu 6e+01 ) .
+
+Object1:_BmQkYTKE a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_nDXfiAdm ;
+    oop:hasParameter ( "N327f6bb94504460994379283b23e1116" Object1:_tzfyzJwS Object1:_oOYegQnB ) .
+
+Object1:_BnduugGR a occ:Shape .
+
+Object1:_BruiColw omg:hasComplexGeometryDescription Object1:_ZdRjEqwt .
+
+Object1:_BzqpOlvf omg:hasComplexGeometryDescription Object1:_zAnvCFqO .
+
+Object1:_CHeFvNGG a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_SSVFzpIM ;
+    oop:hasParameter ( "N6bc7103eedc74f3fbae8a2e0c50c570c" Object1:_BVxPjRoT Object1:_fAQUyXpj ) .
+
+Object1:_CJdlCjXz a occ:Shape .
+
+Object1:_CJjDRSIT omg:hasComplexGeometryDescription Object1:_DYpJuhtJ .
+
+Object1:_CRrhhVZJ omg:hasComplexGeometryDescription Object1:_zCSTpVdw .
+
+Object1:_CSuKEogp omg:hasComplexGeometryDescription Object1:_hSSeUEOb .
+
+Object1:_CUJnPOtW omg:hasComplexGeometryDescription Object1:_xtvdbcQD .
+
+Object1:_CUpgaEWk a occ:gp_Pnt ;
+    oop:hasParameter ( "N8f3979eae4d349aca97632fce3bfe21a" 3e+02 4e+02 1.12e+03 ) .
+
+Object1:_CUrGzwyk omg:hasComplexGeometryDescription Object1:_yRehdLMR .
+
+Object1:_CaFuXAmw a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_KGoQiQjS ;
+    oop:hasParameter ( "N49fceac03c704cda87c67242b9524615" Object1:_mOTbGgQU 6e+01 ) .
+
+Object1:_CafmSoKD omg:hasComplexGeometryDescription Object1:_fuIAXdMd .
+
+Object1:_CamxOTvT a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_jgFAwupB ;
+    oop:hasParameter ( "N159b7fd902fa459c8a6e7888821177b8" Object1:_mulbpxMe 6e+01 ) .
+
+Object1:_CeQjZTOO a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_gGOlAAjt ;
+    oop:hasParameter ( "Ndbda840bba574632bccd15bdf11aca59" Object1:_VWZKhqmZ Object1:_eINVePYN ) .
+
+Object1:_CfrUWlZO omg:hasComplexGeometryDescription Object1:_YwxUFkLA .
+
+Object1:_CglLMqOU omg:hasComplexGeometryDescription Object1:_JLxEravq .
+
+Object1:_CkNTulxW a occ:gp_Pnt ;
+    oop:hasParameter ( "N00d64d5b46d94af5a72b598c9cb0128b" 3e+02 1.6e+03 1.52e+03 ) .
+
+Object1:_CnrDzHCH a occ:gp_Pnt ;
+    oop:hasParameter ( "N484d37cda7bd4c5ab78e1051f7dad101" 3e+02 8e+02 1.32e+03 ) .
+
+Object1:_CoHrTmtg omg:hasComplexGeometryDescription Object1:_uDJxOZAm .
+
+Object1:_CqymzVPl a occ:gp_Pnt ;
+    oop:hasParameter ( "N34bb8973e8ba4a469c3d433d0218ca15" 3e+02 2e+03 1.72e+03 ) .
+
+Object1:_CyRrWocz omg:hasComplexGeometryDescription Object1:_sWhgpLJp .
+
+Object1:_DEVuPmme omg:hasComplexGeometryDescription Object1:_JIiTlfth .
+
+Object1:_DJCjrFME omg:hasComplexGeometryDescription Object1:_jWkQcYfT .
+
+Object1:_DLJegdxN a occ:gp_Pnt ;
+    oop:hasParameter ( "N21ba21d8030945f9b8c259f82bdbea2a" 3e+02 1.6e+03 1.32e+03 ) .
+
+Object1:_DLfoGlBC a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_rLiNabDh ;
+    oop:hasParameter ( "N742cde464d374e3dbf878f415ce4bdff" Object1:_JCOLmTvH Object1:_GsnROQzT ) .
+
+Object1:_DLvsheea omg:hasComplexGeometryDescription Object1:_bYRxoteF .
+
+Object1:_DQXsGeqq omg:hasComplexGeometryDescription Object1:_uDIwKNAQ .
+
+Object1:_DSNkNudG a occ:Shape .
+
+Object1:_DWZmHLPX a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_KpbPJqjR ;
+    oop:hasParameter ( "Naafb0d3eb3a44bb3aab66fecebd61563" Object1:_RdkiBXaj 6e+01 ) .
+
+Object1:_DYpJuhtJ a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_owvquRyy ;
+    oop:hasParameter ( "N538a1c9534ec4a4392f074f3c14bb693" Object1:_VbcNADhp 6e+01 ) .
+
+Object1:_DbbSbUHy a occ:Shape .
+
+Object1:_DjclBwkg a occ:Shape .
+
+Object1:_DwVEVXtm omg:hasComplexGeometryDescription Object1:_ensmTMCC .
+
+Object1:_DwneaiPg a occ:gp_Pnt ;
+    oop:hasParameter ( "N3452f1f0291e47e7b73db6f36033773b" 3e+02 2e+02 3.2e+02 ) .
+
+Object1:_DxlQgyNi a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_OvRzxfOA ;
+    oop:hasParameter ( "Nf5589e1d34dd40728c9864031abbcde4" Object1:_aoTlQnZE 6e+01 ) .
+
+Object1:_EAOBZVQy a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_YXdBmhAu ;
+    oop:hasParameter ( "N518c2ff568c448c4aa51b8795644c910" Object1:_DwVEVXtm 6e+01 ) .
+
+Object1:_EFgIvnsJ a occ:Shape .
+
+Object1:_EHItaivi a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_ZUabplPa ;
+    oop:hasParameter ( "N3cc64ed359204f7591c3b27c705cd17a" Object1:_wznUQMat Object1:_sSprECKd ) .
+
+Object1:_EImBtakA a occ:Shape .
+
+Object1:_EMIUSClx omg:hasComplexGeometryDescription Object1:_JDNRWFdM .
+
+Object1:_EPGmbTsV omg:hasComplexGeometryDescription Object1:_CeQjZTOO .
+
+Object1:_ETiZUMlB a occ:Shape .
+
+Object1:_EWHvNXDX omg:hasComplexGeometryDescription Object1:_IHcDXnWM .
+
+Object1:_EWxZGbRu a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_AuJSSIjW ;
+    oop:hasParameter ( "N9fad3bc356724504bbdacb19d9b79992" Object1:_rydQxzPP 6e+01 ) .
+
+Object1:_EbWlkdVH a occ:gp_Pnt ;
+    oop:hasParameter ( "N2fa1773600ee400394fe1eac7a3b6293" 3e+02 4e+02 5.2e+02 ) .
+
+Object1:_EmgsWRei a occ:Shape .
+
+Object1:_EqoUVvbw omg:hasComplexGeometryDescription Object1:_ojBuVlOI .
+
+Object1:_ErKaIECr a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_gqrSwMqh ;
+    oop:hasParameter ( "N1c5a233664634900ba82efd2fbd43d4a" Object1:_yTPfUjCt 6e+01 ) .
+
+Object1:_EuXWdedw omg:hasComplexGeometryDescription Object1:_UGSuKvOH .
+
+Object1:_EulgxuvJ a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_pMUPYyov ;
+    oop:hasParameter ( "Nd74c9108f7084997aa77ad4f712f5b3c" Object1:_lnDJjJxB 6e+01 ) .
+
+Object1:_EvsnPBLy omg:hasComplexGeometryDescription Object1:_ubTHZjXU .
+
+Object1:_EwOMluDJ omg:hasComplexGeometryDescription Object1:_nOKynRMd .
+
+Object1:_EwRnqFzT a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_RPOnwNHO ;
+    oop:hasParameter ( "Na38b19ff92904abe8bf9445918208116" Object1:_MRdRDAWm 6e+01 ) .
+
+Object1:_EwVPavtb omg:hasComplexGeometryDescription Object1:_bcIyBSTN .
+
+Object1:_ExifvNGY a occ:Shape .
+
+Object1:_FLWKrnlC omg:hasComplexGeometryDescription Object1:_bcGnaeUY .
+
+Object1:_FMPudVRc a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_aOMLobgL ;
+    oop:hasParameter ( "Na6e80c7c66204b7088983410e65245f9" Object1:_CUrGzwyk Object1:_TQPSfPUR ) .
+
+Object1:_FOytXYrs omg:hasComplexGeometryDescription Object1:_JPjKGORr .
+
+Object1:_FPoGcpAS a occ:Shape .
+
+Object1:_FSoqJXaK a occ:gp_Pnt ;
+    oop:hasParameter ( "N0ba977465fce4ab09a7fd4d8dfc03493" 3e+02 0e+00 9.2e+02 ) .
+
+Object1:_FUBuHxcZ a occ:Shape .
+
+Object1:_FitDpvqK omg:hasComplexGeometryDescription Object1:_HHZLEKkL .
+
+Object1:_FksAkjxm omg:hasComplexGeometryDescription Object1:_uFmrKgcB .
+
+Object1:_FlpHNSxu a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_MbyFiuRh ;
+    oop:hasParameter ( "Nb01cd8c6969c45fa84d2919c78866ead" Object1:_vVghESkb Object1:_GZCFpYGk ) .
+
+Object1:_FlwaNtJy omg:hasComplexGeometryDescription Object1:_pSXaSBSd .
+
+Object1:_FnImwrFZ a occ:Shape .
+
+Object1:_FoegofEF omg:hasComplexGeometryDescription Object1:_PTlERNdZ .
+
+Object1:_GJKTVbgv omg:hasComplexGeometryDescription Object1:_kNTPyRzf .
+
+Object1:_GMDEtjBU a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_ZMXxkwLC ;
+    oop:hasParameter ( "Nc395b7f7fb7d472aa20c90db2ed8ebc9" Object1:_lIRmwWUE 6e+01 ) .
+
+Object1:_GQRYLyTl a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_yEsTqmWs ;
+    oop:hasParameter ( "Nd4534173987b401a8dc8c7b8184ec12b" Object1:_XKcWYytY Object1:_tDHwLrPX ) .
+
+Object1:_GRNxWacV a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_PRXDiKjn ;
+    oop:hasParameter ( "Ne469c97a9ddb46d6b2e47049b6604b8c" Object1:_LwDuEdvw Object1:_HCKwiopt ) .
+
+Object1:_GYbGoggv omg:hasComplexGeometryDescription Object1:_WPSGGFrU .
+
+Object1:_GZCFpYGk omg:hasComplexGeometryDescription Object1:_DxlQgyNi .
+
+Object1:_GZWpjAun omg:hasComplexGeometryDescription Object1:_WulEXCYQ .
+
+Object1:_GjevkyQm a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_vcyWlszq ;
+    oop:hasParameter ( "N8e2f934f7417470c817dbaa955534842" Object1:_wxJyxgvv 6e+01 ) .
+
+Object1:_GlJkpKxM a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_gMIftLhN ;
+    oop:hasParameter ( "N81ef3bcceef04845a3d69d7a22e6814e" Object1:_TvhApnxj 6e+01 ) .
+
+Object1:_GmrqpOgJ a occ:Shape .
+
+Object1:_GsnROQzT omg:hasComplexGeometryDescription Object1:_JmVNNKiI .
+
+Object1:_GuTBTTNk omg:hasComplexGeometryDescription Object1:_UoLyblJt .
+
+Object1:_HALIqqVp omg:hasComplexGeometryDescription Object1:_UxUSZRGl .
+
+Object1:_HCHefWZI omg:hasComplexGeometryDescription Object1:_oGPObQGx .
+
+Object1:_HCKwiopt omg:hasComplexGeometryDescription Object1:_xJDEFoPy .
+
+Object1:_HEdkwZzY a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_WOmWtGRL ;
+    oop:hasParameter ( "N98d0f2fe849146b9a2e82b28e8deaf6b" Object1:_TwPXnyUR Object1:_KFalrfgr ) .
+
+Object1:_HEyuJALM a occ:Shape .
+
+Object1:_HHZLEKkL a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_EImBtakA ;
+    oop:hasParameter ( "Nb305dc24e50f46bbafc9a5db77b903bb" Object1:_TgrkCPzi Object1:_kMEyzDMf ) .
+
+Object1:_HImbRHsJ a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_NnCkUTcm ;
+    oop:hasParameter ( "N78af0fd6f96c48899f02e447931e5ad1" Object1:_gUWXxvns 6e+01 ) .
+
+Object1:_HLjtHXjB a occ:gp_Pnt ;
+    oop:hasParameter ( "N962717e99c774c20b5c6fc963d353d2d" 3e+02 2e+03 3.2e+02 ) .
+
+Object1:_HONOuaOg a occ:Shape .
+
+Object1:_HOQtplck a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_IWeyJJiQ ;
+    oop:hasParameter ( "N906310f349fd4b22b5325ca2f15a992f" Object1:_dVdcmrqS Object1:_KSghpiBF ) .
+
+Object1:_HPTmbvqx a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_pNWNYhZz ;
+    oop:hasParameter ( "N51964838e3b64e61a742ed07cef15b4e" Object1:_EPGmbTsV Object1:_nwywzUkj ) .
+
+Object1:_HZdUTDzI a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_FUBuHxcZ ;
+    oop:hasParameter ( "Na58f23603a054800987cd3ea7ef3dbc9" Object1:_WvrxOlnf 6e+01 ) .
+
+Object1:_HcEQSysZ a occ:gp_Pnt ;
+    oop:hasParameter ( "N6cfcb42040d7410ab53a89ca7f76e410" 3e+02 4e+02 1.32e+03 ) .
+
+Object1:_HefhcGji a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_BnduugGR ;
+    oop:hasParameter ( "Nd7fe99e38b2649feb989b07f9680ae57" Object1:_BguJScmo 6e+01 ) .
+
+Object1:_HlKdKQYa a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_WOyVjFrc ;
+    oop:hasParameter ( "N6d38207131464a3bb0aeec06de08ad40" Object1:_fDFqzrNI Object1:_eLvPAVtZ ) .
+
+Object1:_HmJqConM omg:hasComplexGeometryDescription Object1:_yBJRbzYw .
+
+Object1:_HmwwLzfY a occ:gp_Pnt ;
+    oop:hasParameter ( "N384a845313094e1daef852ebf800513a" 3e+02 8e+02 7.2e+02 ) .
+
+Object1:_HyMUBVhR a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_XHtsXwbg ;
+    oop:hasParameter ( "N168380e178cf4810bf3c00ae21d74da3" Object1:_oPBhMqol 6e+01 ) .
+
+Object1:_IHcDXnWM a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_wLcNlwNA ;
+    oop:hasParameter ( "N1ae04af2162c457ab50bad87e98eca25" Object1:_LpNTMRJd Object1:_ZCWSUghx ) .
+
+Object1:_IMVqfKUa omg:hasComplexGeometryDescription Object1:_IOkMQDKL .
+
+Object1:_IOCbYjey omg:hasComplexGeometryDescription Object1:_JhbUrQkA .
+
+Object1:_IOkMQDKL a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_RzlairmX ;
+    oop:hasParameter ( "Ne3f9b453ec86425ebdc53c6294bdf5e2" Object1:_VPRMEjVc 6e+01 ) .
+
+Object1:_IOlMRqEQ a occ:gp_Pnt ;
+    oop:hasParameter ( "Nd917fdc6d6e145b6b77b1d2b4069142d" 3e+02 0e+00 1.92e+03 ) .
+
+Object1:_IPELkoqo omg:hasComplexGeometryDescription Object1:_NNmMWbMc .
+
+Object1:_IPFliTbx omg:hasComplexGeometryDescription Object1:_SKxtbQmU .
+
+Object1:_IRvAuRYs omg:hasComplexGeometryDescription Object1:_LnsaMbOd .
+
+Object1:_ISLRmlvR omg:hasComplexGeometryDescription Object1:_DwneaiPg .
+
+Object1:_ITAeDiBl a occ:gp_Pnt ;
+    oop:hasParameter ( "N4617214bfb7d4f969c1aeabde03e034f" 3e+02 1e+03 1.72e+03 ) .
+
+Object1:_IWeyJJiQ a occ:Shape .
+
+Object1:_IabbNwhq a occ:Shape .
+
+Object1:_IbAsdCaM omg:hasComplexGeometryDescription Object1:_weUTLMHC .
+
+Object1:_IdEBKWtx a occ:Shape .
+
+Object1:_InDPzLFS omg:hasComplexGeometryDescription Object1:_zuTqplmb .
+
+Object1:_IsliOCCd omg:hasComplexGeometryDescription Object1:_uGTpvngT .
+
+Object1:_IuEvLcat a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_OEpTCGIx ;
+    oop:hasParameter ( "N5576a93115da46e7b7d202e4cddfec4a" Object1:_RnlsmtCs Object1:_AjNdWspF ) .
+
+Object1:_IuhFifTB omg:hasComplexGeometryDescription Object1:_iqKPYkFc .
+
+Object1:_IuvhqsxZ a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_OTnPgorj ;
+    oop:hasParameter ( "N5014661d251d49f69788da47d58679e3" Object1:_EvsnPBLy Object1:_rrJMyyew ) .
+
+Object1:_IxLLQNuK a occ:Shape .
+
+Object1:_JCOLmTvH omg:hasComplexGeometryDescription Object1:_NmEStfXS .
+
+Object1:_JDNRWFdM a occ:gp_Pnt ;
+    oop:hasParameter ( "N553d990ffe8f42f68907a24cdc0f5c9a" 3e+02 1e+03 1.32e+03 ) .
+
+Object1:_JIiTlfth a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_PAJbSZrN ;
+    oop:hasParameter ( "Nafe52d047e8b4edab47c35a2bccfcab2" Object1:_OVZeBzDf Object1:_IPFliTbx ) .
+
+Object1:_JLxEravq a occ:gp_Pnt ;
+    oop:hasParameter ( "Nb2ad08ce07d640fd9e37bd6c507049d2" 3e+02 2e+03 9.2e+02 ) .
+
+Object1:_JNTwJUHl omg:hasComplexGeometryDescription Object1:_gBBekgbO .
+
+Object1:_JPKehyoO a occ:gp_Pnt ;
+    oop:hasParameter ( "Ne912b850b1594e71a50049d5a8f65383" 3e+02 6e+02 9.2e+02 ) .
+
+Object1:_JPjKGORr a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_ETiZUMlB ;
+    oop:hasParameter ( "Ndc601fefa29146e5adb9b06379f415b9" Object1:_XEyqCIsP Object1:_JYxdyRyW ) .
+
+Object1:_JQpgBHjd omg:hasComplexGeometryDescription Object1:_jfIysaFD .
+
+Object1:_JWVefkmz omg:hasComplexGeometryDescription Object1:_QWQGvsMV .
+
+Object1:_JYpGcANg omg:hasComplexGeometryDescription Object1:_hjoIPBzB .
+
+Object1:_JYxdyRyW omg:hasComplexGeometryDescription Object1:_MWJtCFKb .
+
+Object1:_JZOoVZZL omg:hasComplexGeometryDescription Object1:_HImbRHsJ .
+
+Object1:_JblGNEtV a occ:gp_Pnt ;
+    oop:hasParameter ( "Ne840ed558d6a4f8aba24bb64c24e2677" 3e+02 8e+02 1.12e+03 ) .
+
+Object1:_JbufVAbX a occ:gp_Pnt ;
+    oop:hasParameter ( "N3ca0f8632226410cb1b167621af9dd7f" 3e+02 1.4e+03 1.2e+02 ) .
+
+Object1:_JcrXnWgm a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_fZXmWInR ;
+    oop:hasParameter ( "N7096e8176628461b97597b4f923d7293" Object1:_ATCtrkZN Object1:_gBkNzYFD ) .
+
+Object1:_JduPjMnU a occ:gp_Pnt ;
+    oop:hasParameter ( "Ncf5baa84eb6841858bb55d1cb039d30b" 3e+02 1e+03 1.92e+03 ) .
+
+Object1:_JewVfEkf omg:hasComplexGeometryDescription Object1:_fmSsqEkU .
+
+Object1:_JgPictzF a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_aBXpVsbg ;
+    oop:hasParameter ( "N51ae13a7aef244d58bb139672d5bbc0b" Object1:_fIvZxYbL Object1:_MItqXIFl ) .
+
+Object1:_JhbUrQkA a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_eVSCfPLj ;
+    oop:hasParameter ( "N1a1e7cf04f88474ca505c88d83795d85" Object1:_QXhAJKiC Object1:_HALIqqVp ) .
+
+Object1:_JiVqQJao a occ:Shape .
+
+Object1:_JmVNNKiI a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_axzcpKWp ;
+    oop:hasParameter ( "Ne03c746dcfbf47c0bc43872cb901123b" Object1:_aAzfTuyx 6e+01 ) .
+
+Object1:_JsyjYvpX a occ:Shape .
+
+Object1:_KCPFNSSH a occ:Shape .
+
+Object1:_KFalrfgr omg:hasComplexGeometryDescription Object1:_VzZkWyzd .
+
+Object1:_KGoQiQjS a occ:Shape .
+
+Object1:_KNMKGToz a occ:Shape .
+
+Object1:_KOLkDsFM omg:hasComplexGeometryDescription Object1:_NpCQHXiB .
+
+Object1:_KRzZiSys a occ:Shape .
+
+Object1:_KSghpiBF omg:hasComplexGeometryDescription Object1:_mBhmhGzs .
+
+Object1:_KTJgBHIp omg:hasComplexGeometryDescription Object1:_zIqquVRH .
+
+Object1:_KTqiUQvI omg:hasComplexGeometryDescription Object1:_cIpBexCv .
+
+Object1:_KWBBkbes omg:hasComplexGeometryDescription Object1:_NfVlxIth .
+
+Object1:_KZqbTrKo omg:hasComplexGeometryDescription Object1:_rwmtewVs .
+
+Object1:_KcBDZfAL omg:hasComplexGeometryDescription Object1:_eXyMfhTG .
+
+Object1:_KhwtMruy a occ:Shape .
+
+Object1:_KjSdLDNj a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_erPOvELF ;
+    oop:hasParameter ( "N03e0e99376fd46a8b6266d7259316fc1" Object1:_IOCbYjey Object1:_tsBRjLjK ) .
+
+Object1:_KpbPJqjR a occ:Shape .
+
+Object1:_KpudAEfT a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_EFgIvnsJ ;
+    oop:hasParameter ( "Nce37f8ccf13d437a8df99ca4bc41436d" Object1:_xHLDVffW 6e+01 ) .
+
+Object1:_KtJanqNK a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_dtiYENaY ;
+    oop:hasParameter ( "N87ea77fbeee14b89a1a7ef5f144ce91f" Object1:_ctmmhFAO Object1:_CoHrTmtg ) .
+
+Object1:_KtrAGGDe omg:hasComplexGeometryDescription Object1:_EWxZGbRu .
+
+Object1:_KvcXNoba omg:hasComplexGeometryDescription Object1:_bfLBkUpC .
+
+Object1:_KxLXHQlH a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_vWVfbXeV ;
+    oop:hasParameter ( "N8b76ca0d34474bd598844a374cd64aa7" Object1:_vpcNsJGE Object1:_LIEgJxSI ) .
+
+Object1:_LATWSAda a occ:Shape .
+
+Object1:_LCCzndxs a occ:gp_Pnt ;
+    oop:hasParameter ( "Ne3ccb56fede447d785921916d909f2f3" 3e+02 1.4e+03 1.92e+03 ) .
+
+Object1:_LEPTUFGT a occ:gp_Pnt ;
+    oop:hasParameter ( "N7f2de6d1b4e74e62a9f10ec3688f48f5" 3e+02 0e+00 1.12e+03 ) .
+
+Object1:_LGMzPDSj a occ:Shape .
+
+Object1:_LIEgJxSI omg:hasComplexGeometryDescription Object1:_EAOBZVQy .
+
+Object1:_LIyXeHud a occ:Shape .
+
+Object1:_LJBWrngf omg:hasComplexGeometryDescription Object1:_dmiwVTpv .
+
+Object1:_LQfPfWLe a occ:gp_Pnt ;
+    oop:hasParameter ( "N582fa55b976a4932846d268f64bddb93" 3e+02 1.2e+03 1.2e+02 ) .
+
+Object1:_LZgdAYWM omg:hasComplexGeometryDescription Object1:_WhPzdiou .
+
+Object1:_LbnmWwIs omg:hasComplexGeometryDescription Object1:_ciJvhszG .
+
+Object1:_LeYlzIjh omg:hasComplexGeometryDescription Object1:_spkYgGMT .
+
+Object1:_LgQFDEuj a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_nAOhJESa ;
+    oop:hasParameter ( "Nc748e3131155487ba20bf0b15d6a17f3" Object1:_hWldmrzu 6e+01 ) .
+
+Object1:_LjTQvUDa omg:hasComplexGeometryDescription Object1:_SFfoFrCw .
+
+Object1:_LnsaMbOd a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_jfvgEAcD ;
+    oop:hasParameter ( "N59414e9e682c4e05b783fcd00d950ead" Object1:_xAQxIVYj 6e+01 ) .
+
+Object1:_LpNTMRJd omg:hasComplexGeometryDescription Object1:_XUHjceRy .
+
+Object1:_LuaNgLyU omg:hasComplexGeometryDescription Object1:_DWZmHLPX .
+
+Object1:_LvyJwWPd a occ:Shape .
+
+Object1:_LwDuEdvw omg:hasComplexGeometryDescription Object1:_IuvhqsxZ .
+
+Object1:_MBYHIRZu a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_UCHYUBKm ;
+    oop:hasParameter ( "N37af1dc4d77c49abb7e026e9c620e7b3" Object1:_EWHvNXDX Object1:_hMyZqLTq ) .
+
+Object1:_MCUFYoXV a occ:Shape .
+
+Object1:_MDREmXlZ a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_OUPkQRGA ;
+    oop:hasParameter ( "Naad8c651378b42fa9e5626c01c11d06b" Object1:_iPfofAct 6e+01 ) .
+
+Object1:_MItqXIFl omg:hasComplexGeometryDescription Object1:_dcIBLHGV .
+
+Object1:_MPFSfMah a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_aBLRCnCM ;
+    oop:hasParameter ( "Nabfe4c65df5f4a9b92fe5815b5731ff7" Object1:_rMPOJDxU 6e+01 ) .
+
+Object1:_MPjOyVUL a occ:gp_Pnt ;
+    oop:hasParameter ( "N2a760f8419f948e78a3701f30f59d852" 3e+02 0e+00 1.72e+03 ) .
+
+Object1:_MRdRDAWm omg:hasComplexGeometryDescription Object1:_VhCxSZNZ .
+
+Object1:_MRflDBPa a occ:Shape .
+
+Object1:_MSDTPSeY a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_rETvdKtT ;
+    oop:hasParameter ( "Na68e3c1582984bdcac6c0e5e57c7746d" Object1:_PLTybJHy Object1:_koxLMMXG ) .
+
+Object1:_MTvHVela a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_zQIklhoj ;
+    oop:hasParameter ( "N0c906881e38d408580dd8aaad887aab5" Object1:_hBBWBSmq Object1:_egqOCilS ) .
+
+Object1:_MWJtCFKb a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_wjGTUmja ;
+    oop:hasParameter ( "Nf5b58574d217471cb79f18bac98ae03d" Object1:_upaXjiml 6e+01 ) .
+
+Object1:_MYsnkctq omg:hasComplexGeometryDescription Object1:_PLrTwNZZ .
+
+Object1:_MbyFiuRh a occ:Shape .
+
+Object1:_MdVnrndH a occ:Shape .
+
+Object1:_MkmNoSpt a occ:Shape .
+
+Object1:_MmZzuRcl omg:hasComplexGeometryDescription Object1:_PJlqkrqW .
+
+Object1:_MwZSeURQ omg:hasComplexGeometryDescription Object1:_KtJanqNK .
+
+Object1:_MzKwTOZN a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_hAquVJuE ;
+    oop:hasParameter ( "N4876c93da9f04a9ba68014fcddf8a470" Object1:_ytgMjPQv 6e+01 ) .
+
+Object1:_NAjNGORb a occ:Shape .
+
+Object1:_NKYDmztc a occ:Shape .
+
+Object1:_NNmMWbMc a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_lcAiVajB ;
+    oop:hasParameter ( "Nad04d7a7249b408b9c73e87552f96125" Object1:_sWHhKzif 6e+01 ) .
+
+Object1:_NPYaFUnK a occ:Shape .
+
+Object1:_NVcFNLhu a occ:gp_Pnt ;
+    oop:hasParameter ( "N6b7df573c6984112b396ee20fe8a6919" 3e+02 8e+02 5.2e+02 ) .
+
+Object1:_NWBNTXJX a occ:Shape .
+
+Object1:_NWkoaIGP a occ:Shape .
+
+Object1:_NXYUFtiG omg:hasComplexGeometryDescription Object1:_AsqIrKOT .
+
+Object1:_NfVlxIth a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_xNfTAxVy ;
+    oop:hasParameter ( "N893e21dc56d74f4b90a2b349b9792710" Object1:_sKwAjCMB 6e+01 ) .
+
+Object1:_NgUKqsBW omg:hasComplexGeometryDescription Object1:_fuOKLWKp .
+
+Object1:_NmEStfXS a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_UiaZNNJe ;
+    oop:hasParameter ( "N2e91af425459466daeff3bbe5f4a3519" Object1:_QnYqwoav Object1:_WPoPklZZ ) .
+
+Object1:_NmOclWty a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_dYCgPjzB ;
+    oop:hasParameter ( "Nfca0918cb0fd48bab6639fee49883568" Object1:_KTqiUQvI 6e+01 ) .
+
+Object1:_NnCkUTcm a occ:Shape .
+
+Object1:_NpCQHXiB a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_nPQjAVzD ;
+    oop:hasParameter ( "N58e0a1eef8a8429da807e9cb11f99fe8" Object1:_QFvACZYO Object1:_nflJzODP ) .
+
+Object1:_NqKhtZbS a occ:Shape .
+
+Object1:_NseOUYoK a occ:Shape .
+
+Object1:_NuiaTqzT a occ:gp_Pnt ;
+    oop:hasParameter ( "N01b09a2893a14037bf2f83ce62b7d857" 3e+02 1.6e+03 7.2e+02 ) .
+
+Object1:_NwRLMwgK omg:hasComplexGeometryDescription Object1:_mQASAhmF .
+
+Object1:_NyOdlZsS a occ:Shape .
+
+Object1:_NzLamvGe a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_hTizlojP ;
+    oop:hasParameter ( "Nd0232a2b51b2466187eb1588822d009a" Object1:_RctsJsbK Object1:_APZUcLrr ) .
+
+Object1:_OBErIKIi a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_iAgcWsvU ;
+    oop:hasParameter ( "N8e2749c939e14ecc9433c1d80ecae165" Object1:_kNwMxKmr 6e+01 ) .
+
+Object1:_OBklKDnA a occ:Shape .
+
+Object1:_OBoMbBev omg:hasComplexGeometryDescription Object1:_HefhcGji .
+
+Object1:_OCumpBvu a occ:gp_Pnt ;
+    oop:hasParameter ( "N4452452c408f47dd98280353d5554f80" 3e+02 4e+02 1.72e+03 ) .
+
+Object1:_OEpTCGIx a occ:Shape .
+
+Object1:_OIyLhJFu a occ:gp_Pnt ;
+    oop:hasParameter ( "N51b4c03dca6a4b2d9763428595fc9d63" 3e+02 0e+00 1.32e+03 ) .
+
+Object1:_OTnPgorj a occ:Shape .
+
+Object1:_OUPkQRGA a occ:Shape .
+
+Object1:_OVZeBzDf omg:hasComplexGeometryDescription Object1:_kYWjewtj .
+
+Object1:_OdTwkRTc a occ:Shape .
+
+Object1:_OfUOhwbH a occ:Shape .
+
+Object1:_OnoJzTwF omg:hasComplexGeometryDescription Object1:_PZRrPlZX .
+
+Object1:_OvRzxfOA a occ:Shape .
+
+Object1:_OvWgmIRr a occ:Shape .
+
+Object1:_OvtYmhGk a occ:Shape .
+
+Object1:_OxBuYkNt a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_PYMGgjoK ;
+    oop:hasParameter ( "N36c12ce5a9754bc0b9b42899aa3836f5" Object1:_CfrUWlZO Object1:_utcEBrJv ) .
+
+Object1:_PAJbSZrN a occ:Shape .
+
+Object1:_PCsnmPVO omg:hasComplexGeometryDescription Object1:_JcrXnWgm .
+
+Object1:_PDjPONod a occ:Shape .
+
+Object1:_PDnQpxvx a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_iuOEQPXt ;
+    oop:hasParameter ( "Nfe2c2ddb43034d348e5a3e7e7e44dc4a" Object1:_MmZzuRcl 6e+01 ) .
+
+Object1:_PGOXiWlY a occ:Shape .
+
+Object1:_PJSeZtwm a occ:gp_Pnt ;
+    oop:hasParameter ( "N320e0eb98e6f4fa1993b9616e7546957" 3e+02 1.6e+03 1.92e+03 ) .
+
+Object1:_PJlqkrqW a occ:gp_Pnt ;
+    oop:hasParameter ( "N6cb9a0d42fd642a0a238ce0b9cbf9d5b" 3e+02 0e+00 3.2e+02 ) .
+
+Object1:_PLTybJHy omg:hasComplexGeometryDescription Object1:_EHItaivi .
+
+Object1:_PLrTwNZZ a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_zUGGrecu ;
+    oop:hasParameter ( "N1ca5ddca45d74b41aee66bc0672a4167" Object1:_VwiKLLAA 6e+01 ) .
+
+Object1:_PQRQerxP a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_RcJUxxsD ;
+    oop:hasParameter ( "Nef44e3b96d8a4cac9d3184c35210f7cb" Object1:_LjTQvUDa 6e+01 ) .
+
+Object1:_PRXDiKjn a occ:Shape .
+
+Object1:_PTlERNdZ a occ:gp_Pnt ;
+    oop:hasParameter ( "N28f40f02ce6946029a5ed39963eac248" 3e+02 2e+02 1.12e+03 ) .
+
+Object1:_PYMGgjoK a occ:Shape .
+
+Object1:_PZRrPlZX a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_NKYDmztc ;
+    oop:hasParameter ( "Nd592c6db38a844a6802afbeccce65d3f" Object1:_vyijvaKB Object1:_NwRLMwgK ) .
+
+Object1:_PahEDQEb omg:hasComplexGeometryDescription Object1:_qEMcvzAV .
+
+Object1:_PeBQBvxF a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_oiwdvxMS ;
+    oop:hasParameter ( "N684026ae84ff4953b56cf12ee63bb0bd" Object1:_prriVyex 6e+01 ) .
+
+Object1:_PfMZgSDb omg:hasComplexGeometryDescription Object1:_zqVpifbU .
+
+Object1:_PlFvcvza a occ:Shape .
+
+Object1:_PlXQzqDv a occ:gp_Pnt ;
+    oop:hasParameter ( "N1df662b5aecf492a9ca96e8be98214b6" 3e+02 4e+02 9.2e+02 ) .
+
+Object1:_PvOPgawF a occ:Shape .
+
+Object1:_PwMxAfbN a occ:gp_Pnt ;
+    oop:hasParameter ( "N2a41aabd603d4684b7aa844bd25d2497" 3e+02 0e+00 5.2e+02 ) .
+
+Object1:_PyQlVPyk a occ:Shape .
+
+Object1:_PylzHChK omg:hasComplexGeometryDescription Object1:_GRNxWacV .
+
+Object1:_QCAofUsf a occ:Shape .
+
+Object1:_QEMNErPl omg:hasComplexGeometryDescription Object1:_QMpmMRlQ .
+
+Object1:_QFvACZYO omg:hasComplexGeometryDescription Object1:_HOQtplck .
+
+Object1:_QGkDHrKz omg:hasComplexGeometryDescription Object1:_BWeRJzRp .
+
+Object1:_QJAHoNki a occ:gp_Pnt ;
+    oop:hasParameter ( "N6b13372a02fb4e4fa423fdddf9164694" 3e+02 1.2e+03 1.32e+03 ) .
+
+Object1:_QMaAMKeP a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_ZZZjUPps ;
+    oop:hasParameter ( "N197a3ff903754ae6b4ef9cc157e6d0dc" Object1:_ISLRmlvR 6e+01 ) .
+
+Object1:_QMpmMRlQ a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_AxKgfqbY ;
+    oop:hasParameter ( "N9b2905e9538d4eb8a1cc2cc0c1b718ce" Object1:_KOLkDsFM Object1:_rzjwdBzH ) .
+
+Object1:_QSbythXw omg:hasComplexGeometryDescription Object1:_iorFQJet .
+
+Object1:_QWQGvsMV a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_LATWSAda ;
+    oop:hasParameter ( "N5c0e9bbfbf0a45a0baf3e9dd524fc74b" Object1:_cwGOjYyW Object1:_evPjQtZE ) .
+
+Object1:_QXhAJKiC omg:hasComplexGeometryDescription Object1:_MBYHIRZu .
+
+Object1:_QZbyJADm a occ:Shape .
+
+Object1:_QabZNOCK a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_SjyXMOrM ;
+    oop:hasParameter ( "N65259dc6db5d4d24a5747f2da176f0e0" Object1:_pMgRhIac Object1:_KWBBkbes ) .
+
+Object1:_QcoMDLka a occ:Shape .
+
+Object1:_QivkeXNw omg:hasComplexGeometryDescription Object1:_ZhnABYch .
+
+Object1:_QnYqwoav omg:hasComplexGeometryDescription Object1:_HEdkwZzY .
+
+Object1:_QpRTEyIt a occ:gp_Pnt ;
+    oop:hasParameter ( "Ncce58935a20c46dd8c9f2689b3c78db1" 3e+02 6e+02 5.2e+02 ) .
+
+Object1:_RABfaDrl omg:hasComplexGeometryDescription Object1:_ipdWZHiy .
+
+Object1:_RCLZbLsD omg:hasComplexGeometryDescription Object1:_tDkMPKjS .
+
+Object1:_RFGilXXg a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_PGOXiWlY ;
+    oop:hasParameter ( "N7116680b3cc44e2c89b038818932b61e" Object1:_EwOMluDJ 6e+01 ) .
+
+Object1:_RFoYWsLJ a occ:Shape .
+
+Object1:_RHSKJvqA a occ:gp_Pnt ;
+    oop:hasParameter ( "Nd4c91e3c8132466c870c751353c536f0" 3e+02 8e+02 9.2e+02 ) .
+
+Object1:_RLSrdSrS omg:hasComplexGeometryDescription Object1:_ipQkmWmM .
+
+Object1:_ROUthYBB a occ:gp_Pnt ;
+    oop:hasParameter ( "Nd6cdbcef57154403ad0c3217f3d76bbf" 3e+02 1.2e+03 7.2e+02 ) .
+
+Object1:_RPENyVmH a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_bIhllhpB ;
+    oop:hasParameter ( "N4942e548510b4a728ef5e8746fd05d33" Object1:_YlUtZcSk 6e+01 ) .
+
+Object1:_RPOnwNHO a occ:Shape .
+
+Object1:_RXoRNeEB omg:hasComplexGeometryDescription Object1:_tjIUfFxQ .
+
+Object1:_RYFFpvge omg:hasComplexGeometryDescription Object1:_ovjeHWEh .
+
+Object1:_RcJUxxsD a occ:Shape .
+
+Object1:_RctsJsbK omg:hasComplexGeometryDescription Object1:_TpDegDtP .
+
+Object1:_RdkiBXaj omg:hasComplexGeometryDescription Object1:_VhxkOgUT .
+
+Object1:_RjjZAsHH a occ:Shape .
+
+Object1:_RnlsmtCs omg:hasComplexGeometryDescription Object1:_fPXXasrz .
+
+Object1:_RoXAsFnl a occ:Shape .
+
+Object1:_RqkDBmhU a occ:gp_Pnt ;
+    oop:hasParameter ( "N8ef85eecddff43808a352e3502172ad8" 3e+02 2e+02 1.32e+03 ) .
+
+Object1:_RsCSsBhI a occ:gp_Pnt ;
+    oop:hasParameter ( "N6926beadc17d4b629526d58221aeab96" 3e+02 2e+02 9.2e+02 ) .
+
+Object1:_RypPHcbW a occ:gp_Pnt ;
+    oop:hasParameter ( "N4b22074bc2e54a2bb302de45641e22a9" 3e+02 1e+03 1.52e+03 ) .
+
+Object1:_Ryrnijod a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_IdEBKWtx ;
+    oop:hasParameter ( "N5ab9750a87bd46629d3f78c3fd2e918b" Object1:_dKZosLWr Object1:_nUBtZTxU ) .
+
+Object1:_RzlairmX a occ:Shape .
+
+Object1:_SCquIDJa a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_NPYaFUnK ;
+    oop:hasParameter ( "N527670fa45bf455a8e33b9a2166f2420" Object1:_CSuKEogp Object1:_bislbXWt ) .
+
+Object1:_SEBYgIHD a occ:Shape .
+
+Object1:_SFfoFrCw a occ:gp_Pnt ;
+    oop:hasParameter ( "Nc24001346e884698822f9798d094f2e6" 3e+02 8e+02 1.2e+02 ) .
+
+Object1:_SGLNnmSy omg:hasComplexGeometryDescription Object1:_KxLXHQlH .
+
+Object1:_SKxtbQmU a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_dPJzbDTZ ;
+    oop:hasParameter ( "N9392e4ec46794aaf8895d4d70d72cfa2" Object1:_FoegofEF 6e+01 ) .
+
+Object1:_SPIhtAev omg:hasComplexGeometryDescription Object1:_NuiaTqzT .
+
+Object1:_SQFHrpAQ omg:hasComplexGeometryDescription Object1:_dyehZUDe .
+
+Object1:_SQnttIRZ a occ:Shape .
+
+Object1:_SSVFzpIM a occ:Shape .
+
+Object1:_SZTTTmPz a occ:Shape .
+
+Object1:_SbAzqFAg omg:hasComplexGeometryDescription Object1:_TlmSXqcJ .
+
+Object1:_SgiPPOcj a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_NWkoaIGP ;
+    oop:hasParameter ( "N4ef8e130c6504852945c1a51139dcf96" Object1:_gbDaFksx Object1:_gybCEnkG ) .
+
+Object1:_ShYEiWpB a occ:gp_Pnt ;
+    oop:hasParameter ( "N72d91cd237bc441795932c1c3dc6f757" 3e+02 2e+03 1.92e+03 ) .
+
+Object1:_SjWfKyAB omg:hasComplexGeometryDescription Object1:_mKvLsFQt .
+
+Object1:_SjyXMOrM a occ:Shape .
+
+Object1:_SoEQrlSv a occ:Shape .
+
+Object1:_SrjJeMoC a occ:Shape .
+
+Object1:_SvUyidfy a occ:Shape .
+
+Object1:_SwwdSMKX omg:hasComplexGeometryDescription Object1:_JduPjMnU .
+
+Object1:_TLwfAiUZ omg:hasComplexGeometryDescription Object1:_RqkDBmhU .
+
+Object1:_TOblsavV omg:hasComplexGeometryDescription Object1:_jOfcicph .
+
+Object1:_TQPSfPUR omg:hasComplexGeometryDescription Object1:_geGJaYzW .
+
+Object1:_TQhrjsXo a occ:gp_Pnt ;
+    oop:hasParameter ( "Na5252accb0534da5bfdad6b7f10e349a" 3e+02 2e+02 5.2e+02 ) .
+
+Object1:_TZDnDtMO a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_FnImwrFZ ;
+    oop:hasParameter ( "Nd582d2d962cd4ae0b1b2867521158500" Object1:_aFfPsRfY Object1:_YBKGuaNk ) .
+
+Object1:_TgrkCPzi omg:hasComplexGeometryDescription Object1:_ciUBBBrO .
+
+Object1:_TgwvXlQT a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_HONOuaOg ;
+    oop:hasParameter ( "N05734a44ffdc463daddbe97cec776e83" Object1:_uUeOjHaZ Object1:_IMVqfKUa ) .
+
+Object1:_TlmSXqcJ a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_ezIeeSrZ ;
+    oop:hasParameter ( "Na600734858214a29b58d85f63698990b" Object1:_ztDnJamU Object1:_gHXdMGWz ) .
+
+Object1:_TpDegDtP a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_iErhiLUk ;
+    oop:hasParameter ( "Nd9c1721983d44c7f9f8140fddbaf1399" Object1:_vpJbhCZp Object1:_patpuMPN ) .
+
+Object1:_TtawecOF omg:hasComplexGeometryDescription Object1:_BjhXcqFt .
+
+Object1:_TvhApnxj omg:hasComplexGeometryDescription Object1:_sJBjVvlH .
+
+Object1:_TwPXnyUR omg:hasComplexGeometryDescription Object1:_vdXBqYws .
+
+Object1:_TzvswiiU a occ:Shape .
+
+Object1:_UCHYUBKm a occ:Shape .
+
+Object1:_UEfUqDSL omg:hasComplexGeometryDescription Object1:_XsBibnsr .
+
+Object1:_UGSuKvOH a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_SQnttIRZ ;
+    oop:hasParameter ( "N95f5e8d358d046d292695dcb39f1285d" Object1:_PCsnmPVO Object1:_LeYlzIjh ) .
+
+Object1:_UHXjNrsk a occ:gp_Pnt ;
+    oop:hasParameter ( "Nd9bfc248ab6944b09635e8944812f6d7" 3e+02 4e+02 1.92e+03 ) .
+
+Object1:_UMCxhBLk omg:hasComplexGeometryDescription Object1:_cBOTjbty .
+
+Object1:_UMYweHJZ a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_uBBdUPXB ;
+    oop:hasParameter ( "Naf901887dd704b339265b05606d15ff5" Object1:_VFxtmIWc Object1:_cZzosYtG ) .
+
+Object1:_UNbaTChH omg:hasComplexGeometryDescription Object1:_MPjOyVUL .
+
+Object1:_UZryCqVC a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_cErBGHvB ;
+    oop:hasParameter ( "N9b52dfec9bba449cb864a0a7e9930e2b" Object1:_VJMqAgPF 6e+01 ) .
+
+Object1:_UdAQCCGr omg:hasComplexGeometryDescription Object1:_NmOclWty .
+
+Object1:_UiaZNNJe a occ:Shape .
+
+Object1:_UlPveQiL omg:hasComplexGeometryDescription Object1:_TQhrjsXo .
+
+Object1:_UoLyblJt a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_YcuYnpdD ;
+    oop:hasParameter ( "N9bdce28b8d7d4de0b7ca98e48dd17516" Object1:_epLDvNel 6e+01 ) .
+
+Object1:_UqYyKtaU a occ:Shape .
+
+Object1:_UtHPQOZn omg:hasComplexGeometryDescription Object1:_bXAbvBMA .
+
+Object1:_UvJEbbtz omg:hasComplexGeometryDescription Object1:_BVbRdDQW .
+
+Object1:_UxUSZRGl a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_wZtFRseL ;
+    oop:hasParameter ( "Nc78e5b11db8148daa1cc766bb7df0b63" Object1:_AaSSiYoQ 6e+01 ) .
+
+Object1:_VCCuiVWo a occ:Shape .
+
+Object1:_VCLAYwrX a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_IabbNwhq ;
+    oop:hasParameter ( "N6867357c3ded4dbdb16423692f64c16b" Object1:_UlPveQiL 6e+01 ) .
+
+Object1:_VCRcqtyp a occ:Shape .
+
+Object1:_VCvVzovB a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_ZEWySEUP ;
+    oop:hasParameter ( "Na7c3fadea0134602842f8eed053a60d8" Object1:_knyptfcy Object1:_CJjDRSIT ) .
+
+Object1:_VFxtmIWc omg:hasComplexGeometryDescription Object1:_TZDnDtMO .
+
+Object1:_VJMqAgPF omg:hasComplexGeometryDescription Object1:_cmYCVCLl .
+
+Object1:_VKxJcBXx omg:hasComplexGeometryDescription Object1:_PJSeZtwm .
+
+Object1:_VPRMEjVc omg:hasComplexGeometryDescription Object1:_dCdSMjvW .
+
+Object1:_VWZKhqmZ omg:hasComplexGeometryDescription Object1:_zbhqmstt .
+
+Object1:_VbcNADhp omg:hasComplexGeometryDescription Object1:_ietJNNrE .
+
+Object1:_VhCxSZNZ a occ:gp_Pnt ;
+    oop:hasParameter ( "N5e2bcf6df439419c9da791547169498a" 3e+02 1.2e+03 1.92e+03 ) .
+
+Object1:_Vhctcjed omg:hasComplexGeometryDescription Object1:_kdjHJpWT .
+
+Object1:_VhxkOgUT a occ:gp_Pnt ;
+    oop:hasParameter ( "N97388ac876b14c8a94fbbe6e3991dcc2" 3e+02 1.4e+03 1.12e+03 ) .
+
+Object1:_ViZduaVm omg:hasComplexGeometryDescription Object1:_QJAHoNki .
+
+Object1:_VlrvcBFy omg:hasComplexGeometryDescription Object1:_wdesgnFH .
+
+Object1:_VvETWtSh omg:hasComplexGeometryDescription Object1:_VCLAYwrX .
+
+Object1:_VwiKLLAA omg:hasComplexGeometryDescription Object1:_YZErggmn .
+
+Object1:_VzZkWyzd a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_gKJWTscq ;
+    oop:hasParameter ( "N861b94cbeb5543e7a7516ce2e8850a1c" Object1:_UtHPQOZn 6e+01 ) .
+
+Object1:_WBkfhVyX omg:hasComplexGeometryDescription Object1:_pTgNwcwv .
+
+Object1:_WOjCjOCT a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_tWNpIVKx ;
+    oop:hasParameter ( "N9a0024d400044392bed74f5157df1cb8" Object1:_BruiColw Object1:_rPfRbYhv ) .
+
+Object1:_WOmWtGRL a occ:Shape .
+
+Object1:_WOyVjFrc a occ:Shape .
+
+Object1:_WPSGGFrU a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_OdTwkRTc ;
+    oop:hasParameter ( "N382c829c8d8c4fc89a2fa9fe1d1d24a8" Object1:_ewqPzieM 6e+01 ) .
+
+Object1:_WPoPklZZ omg:hasComplexGeometryDescription Object1:_KpudAEfT .
+
+Object1:_WQmUeLoE a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_SoEQrlSv ;
+    oop:hasParameter ( "N002623770422411c8405e2e55ded1960" Object1:_dYZvfIch Object1:_UEfUqDSL ) .
+
+Object1:_WRQOeGrm a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_kaZSPbSv ;
+    oop:hasParameter ( "N76dcce39ac904d4ea2f06e27039c5a0e" Object1:_rJDzQMop Object1:_mgNEdsDe ) .
+
+Object1:_WSEdfXKX omg:hasComplexGeometryDescription Object1:_LEPTUFGT .
+
+Object1:_WVFURjhO a occ:Shape .
+
+Object1:_WeyuaaCl a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_kuHKYagB ;
+    oop:hasParameter ( "N3ab15f47f7a5481b8dd27cc138924f26" Object1:_JewVfEkf 6e+01 ) .
+
+Object1:_WhPzdiou a occ:gp_Pnt ;
+    oop:hasParameter ( "N0dce4e617436476cbd529bf69eb72ea7" 3e+02 2e+02 1.2e+02 ) .
+
+Object1:_WkBoDvzo omg:hasComplexGeometryDescription Object1:_rROxZwuR .
+
+Object1:_WkPuopNn a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_PDjPONod ;
+    oop:hasParameter ( "N04aa10b51b6f4d4085c1b7860ce98a3d" Object1:_yiGtPBsg 6e+01 ) .
+
+Object1:_WlqRsvOG omg:hasComplexGeometryDescription Object1:_nSZRllQd .
+
+Object1:_WpOLKAPb a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_QcoMDLka ;
+    oop:hasParameter ( "Ne35773419aef4b998d3bbed894822cce" Object1:_ZxMQrnrC 6e+01 ) .
+
+Object1:_WrwhCnIX omg:hasComplexGeometryDescription Object1:_unTQHRgw .
+
+Object1:_WulEXCYQ a occ:gp_Pnt ;
+    oop:hasParameter ( "N170a5baaa26347bdaad15e7b9e65ca26" 3e+02 0e+00 1.2e+02 ) .
+
+Object1:_WvrxOlnf omg:hasComplexGeometryDescription Object1:_ITAeDiBl .
+
+Object1:_XEyqCIsP omg:hasComplexGeometryDescription Object1:_NzLamvGe .
+
+Object1:_XHSagHvd omg:hasComplexGeometryDescription Object1:_QMaAMKeP .
+
+Object1:_XHtsXwbg a occ:Shape .
+
+Object1:_XKcWYytY omg:hasComplexGeometryDescription Object1:_HlKdKQYa .
+
+Object1:_XOpvreOt omg:hasComplexGeometryDescription Object1:_RHSKJvqA .
+
+Object1:_XTFusBoz omg:hasComplexGeometryDescription Object1:_HZdUTDzI .
+
+Object1:_XUHjceRy a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_KCPFNSSH ;
+    oop:hasParameter ( "Nb0d364480519464fabb7b56f47182e23" Object1:_mjjmowUV Object1:_hDmpuRDq ) .
+
+Object1:_XVEPhIEQ a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_AZAomvbh ;
+    oop:hasParameter ( "Nfbccf3e7897542eeac26d70496c7a4e7" Object1:_gKohwyIu Object1:_uPNghHGh ) .
+
+Object1:_XbSEuEgZ omg:hasComplexGeometryDescription Object1:_OIyLhJFu .
+
+Object1:_XdhjvrrB a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_CJdlCjXz ;
+    oop:hasParameter ( "N6d873ca816ef4d569a769df788558562" Object1:_SGLNnmSy Object1:_fATQzGfK ) .
+
+Object1:_XkwrPoHk a occ:Shape .
+
+Object1:_XsBibnsr a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_KRzZiSys ;
+    oop:hasParameter ( "Nc31a14ed0182423889b33e79dfc63007" Object1:_SwwdSMKX 6e+01 ) .
+
+Object1:_XxQfruEE a occ:Shape .
+
+Object1:_XzuApcng a occ:Shape .
+
+Object1:_YAtsvvce omg:hasComplexGeometryDescription Object1:_SCquIDJa .
+
+Object1:_YBKGuaNk omg:hasComplexGeometryDescription Object1:_gKXJZNwx .
+
+Object1:_YCmJdwsn a occ:gp_Pnt ;
+    oop:hasParameter ( "N1c7dc989e6ac426f957f391e576d7f69" 3e+02 1.2e+03 1.52e+03 ) .
+
+Object1:_YEcBmwqY a occ:Shape .
+
+Object1:_YJkkaTip omg:hasComplexGeometryDescription Object1:_PlXQzqDv .
+
+Object1:_YXWXqnhS omg:hasComplexGeometryDescription Object1:_CamxOTvT .
+
+Object1:_YXdBmhAu a occ:Shape .
+
+Object1:_YZErggmn a occ:gp_Pnt ;
+    oop:hasParameter ( "Nce83771cc4ba46c5b9dcd2d885b43579" 3e+02 8e+02 1.92e+03 ) .
+
+Object1:_YcuYnpdD a occ:Shape .
+
+Object1:_YdROLtcv a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_AnWjHfEe ;
+    oop:hasParameter ( "N4c18f5484f8243718f8a92c6face4f7b" Object1:_tuhFSUQt Object1:_XTFusBoz ) .
+
+Object1:_YeyeoDEi omg:hasComplexGeometryDescription Object1:_skZIPaGn .
+
+Object1:_YlUtZcSk omg:hasComplexGeometryDescription Object1:_ajzpDewV .
+
+Object1:_YucakyrE a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_jelkthiQ ;
+    oop:hasParameter ( "N64384e09414e4a1da8497bab1ea442cb" Object1:_napzyYyn 6e+01 ) .
+
+Object1:_YwxUFkLA a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_JsyjYvpX ;
+    oop:hasParameter ( "N3aeed13ea802470ca3120e02640b863b" Object1:_vIGSBUjO Object1:_qpyUFxaO ) .
+
+Object1:_ZCWSUghx omg:hasComplexGeometryDescription Object1:_GjevkyQm .
+
+Object1:_ZENtvsWB omg:hasComplexGeometryDescription Object1:_AUyqYkBA .
+
+Object1:_ZEWySEUP a occ:Shape .
+
+Object1:_ZLDmtJJu a occ:Shape .
+
+Object1:_ZLfeVbkW omg:hasComplexGeometryDescription Object1:_akKlFQFH .
+
+Object1:_ZMXxkwLC a occ:Shape .
+
+Object1:_ZQIUZUuw omg:hasComplexGeometryDescription Object1:_CnrDzHCH .
+
+Object1:_ZTFVJFcN a occ:Shape .
+
+Object1:_ZUabplPa a occ:Shape .
+
+Object1:_ZZZjUPps a occ:Shape .
+
+Object1:_ZZzzUJGy a occ:Shape .
+
+Object1:_ZcbxrtUm a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_ljTUeman ;
+    oop:hasParameter ( "Na2f29ec080ec49cba4715a06f6528e06" Object1:_PahEDQEb 6e+01 ) .
+
+Object1:_ZcjnfkNs omg:hasComplexGeometryDescription Object1:_vEXzCgHf .
+
+Object1:_ZdRjEqwt a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_niapYEEo ;
+    oop:hasParameter ( "N0e9726571e47473ab6960bef8b886980" Object1:_RYFFpvge Object1:_VlrvcBFy ) .
+
+Object1:_ZhnABYch a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_jCbYNbcZ ;
+    oop:hasParameter ( "Nc3498faa92e748ec928528a7251feb1d" Object1:_sWgovLPX Object1:_RABfaDrl ) .
+
+Object1:_ZofULNHi a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_jCEOyFdO ;
+    oop:hasParameter ( "N82aa3d50d02045eaad56e7fe52fa6986" Object1:_nZdrpIOj Object1:_UvJEbbtz ) .
+
+Object1:_ZxMQrnrC omg:hasComplexGeometryDescription Object1:_dYCZgCXn .
+
+Object1:_aAzfTuyx omg:hasComplexGeometryDescription Object1:_CkNTulxW .
+
+Object1:_aBLRCnCM a occ:Shape .
+
+Object1:_aBXpVsbg a occ:Shape .
+
+Object1:_aFfPsRfY omg:hasComplexGeometryDescription Object1:_ypJZNgbS .
+
+Object1:_aIchccHu omg:hasComplexGeometryDescription Object1:_LCCzndxs .
+
+Object1:_aOMLobgL a occ:Shape .
+
+Object1:_aQJBDjUm a occ:Shape .
+
+Object1:_aTGyiLWF omg:hasComplexGeometryDescription Object1:_qQQZAEBS .
+
+Object1:_abLvNxRt a occ:Shape .
+
+Object1:_aiPCPkaU omg:hasComplexGeometryDescription Object1:_askCAEGv .
+
+Object1:_ajiVpGCL omg:hasComplexGeometryDescription Object1:_JPKehyoO .
+
+Object1:_ajzpDewV a occ:gp_Pnt ;
+    oop:hasParameter ( "N47d9178820144245a884280174694b6f" 3e+02 2e+02 1.52e+03 ) .
+
+Object1:_akAHfaog a occ:Shape .
+
+Object1:_akKlFQFH a occ:gp_Pnt ;
+    oop:hasParameter ( "N6902b5d3e33d4bfc8933c2c8ff42f34c" 3e+02 1e+03 9.2e+02 ) .
+
+Object1:_alMQGDOY a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_dZuJEWWf ;
+    oop:hasParameter ( "N22f1ec64f95741978d9ef1df9e7dda0f" Object1:_tiDgrkSZ Object1:_xVgRmpSG ) .
+
+Object1:_aoTlQnZE omg:hasComplexGeometryDescription Object1:_LQfPfWLe .
+
+Object1:_aqYMQjeG a occ:Shape .
+
+Object1:_aqdBrVTS a occ:Shape .
+
+Object1:_askCAEGv a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_FPoGcpAS ;
+    oop:hasParameter ( "N80da4f0a62d04b0fbdf508f93cd5bb45" Object1:_WSEdfXKX 6e+01 ) .
+
+Object1:_axzcpKWp a occ:Shape .
+
+Object1:_bIhllhpB a occ:Shape .
+
+Object1:_bLqeOIWY a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_jqPjOxbs ;
+    oop:hasParameter ( "Nad50199f1ff245b0b0761ae1bbef3a00" Object1:_leqJRhOS 6e+01 ) .
+
+Object1:_bNNARZNC a occ:gp_Pnt ;
+    oop:hasParameter ( "Na50ca95af42247bf8755169ea297f695" 3e+02 1.6e+03 9.2e+02 ) .
+
+Object1:_bUpyhFNR a occ:gp_Pnt ;
+    oop:hasParameter ( "N0eb738b9438d49a0b6da2893e1147742" 3e+02 1e+03 7.2e+02 ) .
+
+Object1:_bWsAyZQC a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_aQJBDjUm ;
+    oop:hasParameter ( "N13be2e28fec7479d90f1942a6bff2f50" Object1:_CglLMqOU 6e+01 ) .
+
+Object1:_bXAbvBMA a occ:gp_Pnt ;
+    oop:hasParameter ( "N9d8cdaed8072432aa4e224912e00b225" 3e+02 1.6e+03 1.12e+03 ) .
+
+Object1:_bXyumCgV a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_SEBYgIHD ;
+    oop:hasParameter ( "N0b4fa89cfe0e416b9d049fbea61d46da" Object1:_YAtsvvce Object1:_YXWXqnhS ) .
+
+Object1:_bYRxoteF a occ:gp_Pnt ;
+    oop:hasParameter ( "N781c0dc82030415e8ec4d0dbd157bb21" 3e+02 6e+02 1.52e+03 ) .
+
+Object1:_bcGnaeUY a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_MkmNoSpt ;
+    oop:hasParameter ( "N6fa72a294e004d49868cdd44f696dbe0" Object1:_InDPzLFS Object1:_CRrhhVZJ ) .
+
+Object1:_bcIyBSTN a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_VCCuiVWo ;
+    oop:hasParameter ( "Na50d4cc765cd4e86a3c55a8dbe2d9a6f" Object1:_ZLfeVbkW 6e+01 ) .
+
+Object1:_bcMwZEcW a occ:Shape .
+
+Object1:_bdqugAFW a occ:Shape .
+
+Object1:_bfLBkUpC a occ:gp_Pnt ;
+    oop:hasParameter ( "Nf6f0de9200f9480fbd88434a0cdd1895" 3e+02 1.2e+03 5.2e+02 ) .
+
+Object1:_bislbXWt omg:hasComplexGeometryDescription Object1:_BkkTJhHW .
+
+Object1:_buFuyDPw a occ:Shape .
+
+Object1:_bynlDltx a occ:Shape .
+
+Object1:_cBOTjbty a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_HEyuJALM ;
+    oop:hasParameter ( "Nbfffd346990e42e2a885f366cb162db4" Object1:_ekWoHCxv 6e+01 ) .
+
+Object1:_cBwgHvIe a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_DSNkNudG ;
+    oop:hasParameter ( "N3f11ac782e0d40399166dda6a4e1cc37" Object1:_OnoJzTwF Object1:_MYsnkctq ) .
+
+Object1:_cELfXnkh a occ:Shape .
+
+Object1:_cErBGHvB a occ:Shape .
+
+Object1:_cHRJGpny a occ:gp_Pnt ;
+    oop:hasParameter ( "N55e17f88334d4233a204f5706c8141f7" 3e+02 0e+00 1.52e+03 ) .
+
+Object1:_cIpBexCv a occ:gp_Pnt ;
+    oop:hasParameter ( "N96e919e6d6f64e20bd2b533fb4751cc2" 3e+02 1.4e+03 9.2e+02 ) .
+
+Object1:_cUSBhCKJ a occ:gp_Pnt ;
+    oop:hasParameter ( "N4bce58e77095480d880e09f21f99451c" 3e+02 4e+02 1.52e+03 ) .
+
+Object1:_cUwAXlfw omg:hasComplexGeometryDescription Object1:_iOuGhuQJ .
+
+Object1:_cZzosYtG omg:hasComplexGeometryDescription Object1:_PDnQpxvx .
+
+Object1:_ciJogCDJ a occ:gp_Pnt ;
+    oop:hasParameter ( "N6395ba6d41304f4582eaea5f665f0618" 3e+02 2e+03 1.2e+02 ) .
+
+Object1:_ciJvhszG a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_YEcBmwqY ;
+    oop:hasParameter ( "Nbba1f250c4c844928e629da867572850" Object1:_YJkkaTip 6e+01 ) .
+
+Object1:_ciUBBBrO a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_ZTFVJFcN ;
+    oop:hasParameter ( "Nabdcd401606a422d960978f850449083" Object1:_QGkDHrKz Object1:_GYbGoggv ) .
+
+Object1:_cmYCVCLl a occ:gp_Pnt ;
+    oop:hasParameter ( "Nf03f475433754dc28620e0f7244ae20d" 3e+02 1.4e+03 1.32e+03 ) .
+
+Object1:_cranqQpK a occ:Shape .
+
+Object1:_ctmmhFAO omg:hasComplexGeometryDescription Object1:_phWfFqYn .
+
+Object1:_cwGOjYyW omg:hasComplexGeometryDescription Object1:_SgiPPOcj .
+
+Object1:_dCdSMjvW a occ:gp_Pnt ;
+    oop:hasParameter ( "N17e907e9e1114337827fd02f2a62b985" 3e+02 1.8e+03 1.92e+03 ) .
+
+Object1:_dKZosLWr omg:hasComplexGeometryDescription Object1:_xadLDkOC .
+
+Object1:_dPJzbDTZ a occ:Shape .
+
+Object1:_dTQNnTtk a occ:Shape .
+
+Object1:_dVSlaIBO omg:hasComplexGeometryDescription Object1:_zmypkMxj .
+
+Object1:_dVdcmrqS omg:hasComplexGeometryDescription Object1:_WOjCjOCT .
+
+Object1:_dXrLqyEV omg:hasComplexGeometryDescription Object1:_sejxNeeR .
+
+Object1:_dYCZgCXn a occ:gp_Pnt ;
+    oop:hasParameter ( "N49854a0a62f049269f45fc3a691754fb" 3e+02 2e+03 1.12e+03 ) .
+
+Object1:_dYCgPjzB a occ:Shape .
+
+Object1:_dYZvfIch omg:hasComplexGeometryDescription Object1:_YdROLtcv .
+
+Object1:_dZuJEWWf a occ:Shape .
+
+Object1:_dcIBLHGV a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_MdVnrndH ;
+    oop:hasParameter ( "N5305580495e74876ae6a6ad9f4256278" Object1:_VKxJcBXx 6e+01 ) .
+
+Object1:_deezXztX a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_nvoKXwlX ;
+    oop:hasParameter ( "N4703b783552b45c2a8f027dc099d2510" Object1:_RCLZbLsD 6e+01 ) .
+
+Object1:_dmiwVTpv a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_LIyXeHud ;
+    oop:hasParameter ( "N48ccb82321f7493b932b3df95576f784" Object1:_XOpvreOt 6e+01 ) .
+
+Object1:_dpUkPZqN omg:hasComplexGeometryDescription Object1:_jHDFllaw .
+
+Object1:_dtiYENaY a occ:Shape .
+
+Object1:_duTsFEJL a occ:Shape .
+
+Object1:_dyehZUDe a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_PlFvcvza ;
+    oop:hasParameter ( "N27d972002a2c449e989f1c1e63f038ad" Object1:_opEMXAkP 6e+01 ) .
+
+Object1:_eBbWMmRx omg:hasComplexGeometryDescription Object1:_jQJBvAFv .
+
+Object1:_eFqEVQGZ a occ:Shape .
+
+Object1:_eINVePYN omg:hasComplexGeometryDescription Object1:_OBErIKIi .
+
+Object1:_eKyTFEZX omg:hasComplexGeometryDescription Object1:_oobchkgM .
+
+Object1:_eLvPAVtZ omg:hasComplexGeometryDescription Object1:_MDREmXlZ .
+
+Object1:_eQJZOaEq omg:hasComplexGeometryDescription Object1:_hsVhjHsH .
+
+Object1:_eVSCfPLj a occ:Shape .
+
+Object1:_eWIdEIOk omg:hasComplexGeometryDescription Object1:_UHXjNrsk .
+
+Object1:_eXyMfhTG a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_zaaTkYrs ;
+    oop:hasParameter ( "N8f4a680791b54b3392b3f874256f2d83" Object1:_cUwAXlfw Object1:_IRvAuRYs ) .
+
+Object1:_egqOCilS omg:hasComplexGeometryDescription Object1:_LgQFDEuj .
+
+Object1:_eipwlTAO omg:hasComplexGeometryDescription Object1:_UMYweHJZ .
+
+Object1:_ekWoHCxv omg:hasComplexGeometryDescription Object1:_zkHXDMnM .
+
+Object1:_ensmTMCC a occ:gp_Pnt ;
+    oop:hasParameter ( "N6513b7165b19489fa7320dccc810c783" 3e+02 2e+03 7.2e+02 ) .
+
+Object1:_epLDvNel omg:hasComplexGeometryDescription Object1:_outMeGRf .
+
+Object1:_erPOvELF a occ:Shape .
+
+Object1:_evPjQtZE omg:hasComplexGeometryDescription Object1:_bLqeOIWY .
+
+Object1:_ewqPzieM omg:hasComplexGeometryDescription Object1:_AEbflaDM .
+
+Object1:_ezIeeSrZ a occ:Shape .
+
+Object1:_fAQUyXpj omg:hasComplexGeometryDescription Object1:_GlJkpKxM .
+
+Object1:_fATQzGfK omg:hasComplexGeometryDescription Object1:_bWsAyZQC .
+
+Object1:_fCrBxNWk a occ:gp_Pnt ;
+    oop:hasParameter ( "N6ac5ee78535d4cceb8da36bbced393df" 3e+02 1.8e+03 1.32e+03 ) .
+
+Object1:_fDFqzrNI omg:hasComplexGeometryDescription Object1:_FlpHNSxu .
+
+Object1:_fIvZxYbL omg:hasComplexGeometryDescription Object1:_pWHDNWeG .
+
+Object1:_fNBTNbNe a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_SZTTTmPz ;
+    oop:hasParameter ( "N0841105515574f699cfa2e35bd7d24b0" Object1:_jBseDTfy Object1:_TtawecOF ) .
+
+Object1:_fNwiWXDq omg:hasComplexGeometryDescription Object1:_AyUqYqGi .
+
+Object1:_fPXXasrz a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_KNMKGToz ;
+    oop:hasParameter ( "N6785022f1949443cbe3f7e5d0bf597ea" Object1:_FksAkjxm Object1:_EwVPavtb ) .
+
+Object1:_fZXmWInR a occ:Shape .
+
+Object1:_fkZHdQmy a occ:gp_Pnt ;
+    oop:hasParameter ( "N7becf815ec5245cb8d59ceb29b6b0c4e" 3e+02 1e+03 5.2e+02 ) .
+
+Object1:_fkgOmoCu a occ:gp_Pnt ;
+    oop:hasParameter ( "Nb57bc6dec4d145d9aaa96b5cc41d2b24" 3e+02 4e+02 3.2e+02 ) .
+
+Object1:_fmSsqEkU a occ:gp_Pnt ;
+    oop:hasParameter ( "N85a86227c97647508726a32ce0fd6604" 3e+02 4e+02 7.2e+02 ) .
+
+Object1:_fuIAXdMd a occ:gp_Pnt ;
+    oop:hasParameter ( "N5f2c79f698434adea4815993ed02f5c2" 3e+02 2e+02 7.2e+02 ) .
+
+Object1:_fuOKLWKp a occ:gp_Pnt ;
+    oop:hasParameter ( "Nf7c7161c578140fc843df23a3b2bb47e" 3e+02 8e+02 1.52e+03 ) .
+
+Object1:_fuXPmbCP omg:hasComplexGeometryDescription Object1:_bXyumCgV .
+
+Object1:_fvaBveiv omg:hasComplexGeometryDescription Object1:_cUSBhCKJ .
+
+Object1:_fzRGqnox a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_LvyJwWPd ;
+    oop:hasParameter ( "N9c42989894d342c69ae2ba94c5be18f2" Object1:_LZgdAYWM 6e+01 ) .
+
+Object1:_gBBekgbO a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_QCAofUsf ;
+    oop:hasParameter ( "N98cb580a57a248b596bab71e6a587be4" Object1:_JWVefkmz Object1:_BemkJuxS ) .
+
+Object1:_gBkNzYFD omg:hasComplexGeometryDescription Object1:_tftXicZP .
+
+Object1:_gGOlAAjt a occ:Shape .
+
+Object1:_gHXdMGWz omg:hasComplexGeometryDescription Object1:_ErKaIECr .
+
+Object1:_gJRhfXLi a occ:gp_Pnt ;
+    oop:hasParameter ( "N6cbfd77c64b54297835b649916c41d90" 3e+02 8e+02 3.2e+02 ) .
+
+Object1:_gKJWTscq a occ:Shape .
+
+Object1:_gKXJZNwx a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_itmUlqTv ;
+    oop:hasParameter ( "N8fb15bd467a54ad693691064b5fc3d03" Object1:_GZWpjAun 6e+01 ) .
+
+Object1:_gKohwyIu omg:hasComplexGeometryDescription Object1:_ngqJdJdz .
+
+Object1:_gMIftLhN a occ:Shape .
+
+Object1:_gUWXxvns omg:hasComplexGeometryDescription Object1:_ApLaudyx .
+
+Object1:_gZGAVFCJ omg:hasComplexGeometryDescription Object1:_hDNxCeew .
+
+Object1:_gbDaFksx omg:hasComplexGeometryDescription Object1:_uUecxTtj .
+
+Object1:_gbnSdDgc omg:hasComplexGeometryDescription Object1:_deezXztX .
+
+Object1:_geGJaYzW a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_TzvswiiU ;
+    oop:hasParameter ( "Nf7063a3509184dd1a64abe28abb723aa" Object1:_NgUKqsBW 6e+01 ) .
+
+Object1:_geSotohN a occ:Shape .
+
+Object1:_gekUvDao a occ:gp_Pnt ;
+    oop:hasParameter ( "Ncd67645bbe3641e1977584bcc51c8f05" 3e+02 2e+03 5.2e+02 ) .
+
+Object1:_giVwbotr a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_sAoMFkUy ;
+    oop:hasParameter ( "N56f63b2e1e5946e7b5805a4f0a51f9b0" Object1:_voFGcJCa 6e+01 ) .
+
+Object1:_gncDxkvn omg:hasComplexGeometryDescription Object1:_RypPHcbW .
+
+Object1:_gnmmryML omg:hasComplexGeometryDescription Object1:_bUpyhFNR .
+
+Object1:_gqrSwMqh a occ:Shape .
+
+Object1:_gtQcDbpM a occ:Shape .
+
+Object1:_guTxxLtX a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_gtQcDbpM ;
+    oop:hasParameter ( "Nd1641f3ad10947388a70846c5eaec198" Object1:_GJKTVbgv Object1:_IbAsdCaM ) .
+
+Object1:_gybCEnkG omg:hasComplexGeometryDescription Object1:_GMDEtjBU .
+
+Object1:_hAoRKOMv omg:hasComplexGeometryDescription Object1:_DLfoGlBC .
+
+Object1:_hAquVJuE a occ:Shape .
+
+Object1:_hBBWBSmq omg:hasComplexGeometryDescription Object1:_AQyQxfpw .
+
+Object1:_hCqYKHyA a occ:gp_Pnt ;
+    oop:hasParameter ( "N5bf55635f43b473b9d6b08feca90cd92" 3e+02 2e+02 1.72e+03 ) .
+
+Object1:_hDNxCeew a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_NqKhtZbS ;
+    oop:hasParameter ( "N06444a24482d464ea7ba805edc47ad08" Object1:_plVTnKwp 6e+01 ) .
+
+Object1:_hDmpuRDq omg:hasComplexGeometryDescription Object1:_EwRnqFzT .
+
+Object1:_hGZoZfDJ a occ:Shape .
+
+Object1:_hHzJisMk a occ:gp_Pnt ;
+    oop:hasParameter ( "N277bb3af01d9445899b238533e49e7e8" 3e+02 1.8e+03 1.72e+03 ) .
+
+Object1:_hMyZqLTq omg:hasComplexGeometryDescription Object1:_lAITdKTL .
+
+Object1:_hOlNqHDl omg:hasComplexGeometryDescription Object1:_CHeFvNGG .
+
+Object1:_hSSeUEOb a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_XxQfruEE ;
+    oop:hasParameter ( "N01cba16b857744a29e234fdb5005eca9" Object1:_BzqpOlvf Object1:_JZOoVZZL ) .
+
+Object1:_hSnsADuq a occ:Shape .
+
+Object1:_hTizlojP a occ:Shape .
+
+Object1:_hWldmrzu omg:hasComplexGeometryDescription Object1:_hCqYKHyA .
+
+Object1:_hjoIPBzB a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_OvtYmhGk ;
+    oop:hasParameter ( "N45a245daebab4cf7801216eb7cba719c" Object1:_TOblsavV Object1:_IPELkoqo ) .
+
+Object1:_hoszonvd omg:hasComplexGeometryDescription Object1:_kyxKNomY .
+
+Object1:_hsVhjHsH a occ:gp_Pnt ;
+    oop:hasParameter ( "N2cdb1371ff734efc914aeefb075ab362" 3e+02 1.4e+03 3.2e+02 ) .
+
+Object1:_htsllTiH a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_duTsFEJL ;
+    oop:hasParameter ( "Nd770ff86e9644fe8baa5ced1325962ea" Object1:_tBbuaJfH 6e+01 ) .
+
+Object1:_hvOtQShj a occ:Shape .
+
+Object1:_iAgcWsvU a occ:Shape .
+
+Object1:_iErhiLUk a occ:Shape .
+
+Object1:_iLXnnTGV a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_pcqfrWZe ;
+    oop:hasParameter ( "Na682eb93b9de426d91893f471f92e98e" Object1:_Vhctcjed 6e+01 ) .
+
+Object1:_iOuGhuQJ a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_vbHzmPPR ;
+    oop:hasParameter ( "N9d6db09491a74e5a93744f4969655142" Object1:_PylzHChK Object1:_LJBWrngf ) .
+
+Object1:_iPfofAct omg:hasComplexGeometryDescription Object1:_yOTmlACZ .
+
+Object1:_iYQHtsbd a occ:gp_Pnt ;
+    oop:hasParameter ( "N859abadb839844ebb0245cc9ae5907fc" 3e+02 6e+02 1.32e+03 ) .
+
+Object1:_ietJNNrE a occ:gp_Pnt ;
+    oop:hasParameter ( "Ne8773e314b0d4963a824d83a1d98f874" 3e+02 1.2e+03 9.2e+02 ) .
+
+Object1:_iorFQJet a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_xzdGAoVy ;
+    oop:hasParameter ( "N121a4bdf673741a987ece4b4cba5fe0f" Object1:_IuhFifTB 6e+01 ) .
+
+Object1:_ipQkmWmM a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_PyQlVPyk ;
+    oop:hasParameter ( "Naa847b049f0640c793e7a44ac96d3918" Object1:_ZQIUZUuw 6e+01 ) .
+
+Object1:_ipdWZHiy a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_jbPSxeJV ;
+    oop:hasParameter ( "Nc19811feacfc4e40b91c2103e7f05af3" Object1:_SPIhtAev 6e+01 ) .
+
+Object1:_iqKPYkFc a occ:gp_Pnt ;
+    oop:hasParameter ( "N1257b8ef183f4b1596fb0ce4fbadeb3a" 3e+02 1.8e+03 3.2e+02 ) .
+
+Object1:_itmUlqTv a occ:Shape .
+
+Object1:_iuOEQPXt a occ:Shape .
+
+Object1:_jBseDTfy omg:hasComplexGeometryDescription Object1:_mORBaASw .
+
+Object1:_jCEOyFdO a occ:Shape .
+
+Object1:_jCbYNbcZ a occ:Shape .
+
+Object1:_jHDFllaw a occ:gp_Pnt ;
+    oop:hasParameter ( "N6803622baaad474bbc1e10201ae27652" 3e+02 2e+03 1.52e+03 ) .
+
+Object1:_jHkzIclo omg:hasComplexGeometryDescription Object1:_vIoxjZip .
+
+Object1:_jIfkUVBx a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_yhcbvLqg ;
+    oop:hasParameter ( "N585b43c7da864b06b701e30712171863" Object1:_zSvKKguu Object1:_qquMAAvp ) .
+
+Object1:_jOfcicph a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_hvOtQShj ;
+    oop:hasParameter ( "N47f5398dc80144b1ba3449ac2ee314e4" Object1:_BMXsPTTY Object1:_UMCxhBLk ) .
+
+Object1:_jQJBvAFv a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_NWBNTXJX ;
+    oop:hasParameter ( "Nf223abc1bb104e3193dc7ddf3ac2d5d0" Object1:_QEMNErPl Object1:_XHSagHvd ) .
+
+Object1:_jQNptaPi a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_hSnsADuq ;
+    oop:hasParameter ( "N9cf13351c40d457ab8a6a0f977724fbf" Object1:_ovUewcgb Object1:_xMWhFuNk ) .
+
+Object1:_jQtgcHfp a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_NAjNGORb ;
+    oop:hasParameter ( "N012586270cc649098f02a2f152dd3f82" Object1:_jcsOYyoP Object1:_gZGAVFCJ ) .
+
+Object1:_jWkQcYfT a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_sonZfebC ;
+    oop:hasParameter ( "N6f0b588fcfb44bf08f491417f6bc4162" Object1:_DLvsheea 6e+01 ) .
+
+Object1:_jbPSxeJV a occ:Shape .
+
+Object1:_jcsOYyoP omg:hasComplexGeometryDescription Object1:_HPTmbvqx .
+
+Object1:_jelkthiQ a occ:Shape .
+
+Object1:_jfIysaFD a occ:gp_Pnt ;
+    oop:hasParameter ( "Nf04765924bf54237afc0a6c4466aaa53" 3e+02 1.6e+03 5.2e+02 ) .
+
+Object1:_jfvgEAcD a occ:Shape .
+
+Object1:_jgFAwupB a occ:Shape .
+
+Object1:_jggvFHuL omg:hasComplexGeometryDescription Object1:_oCDwqPUS .
+
+Object1:_jmjLNWim a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_ppKObXDr ;
+    oop:hasParameter ( "Nb82b7254da8045a98db7ade26141539a" Object1:_ymMWfUjH 6e+01 ) .
+
+Object1:_jqPjOxbs a occ:Shape .
+
+Object1:_jyzySCPu omg:hasComplexGeometryDescription Object1:_WeyuaaCl .
+
+Object1:_kBjpGCpd a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_EmgsWRei ;
+    oop:hasParameter ( "N8c45eac79620436f9e8739ce0d47989a" Object1:_fuXPmbCP Object1:_aTGyiLWF ) .
+
+Object1:_kDlvvrUz a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_RFoYWsLJ ;
+    oop:hasParameter ( "N9e0792f89ca4469180a72b06aa20a406" Object1:_AUnvkiFf Object1:_DJCjrFME ) .
+
+Object1:_kEKAUqSc omg:hasComplexGeometryDescription Object1:_UZryCqVC .
+
+Object1:_kMEyzDMf omg:hasComplexGeometryDescription Object1:_pYBBIWSN .
+
+Object1:_kNTPyRzf a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_SrjJeMoC ;
+    oop:hasParameter ( "N27d0b9b19b744336b2952c806618bed3" Object1:_eBbWMmRx Object1:_VvETWtSh ) .
+
+Object1:_kNwMxKmr omg:hasComplexGeometryDescription Object1:_fCrBxNWk .
+
+Object1:_kYWjewtj a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_AGqbJCzt ;
+    oop:hasParameter ( "N4bf02abf7c3340e8bf8a9425a5f82573" Object1:_lfAeLimd Object1:_PfMZgSDb ) .
+
+Object1:_kZFzWtVe omg:hasComplexGeometryDescription Object1:_znWjrYoc .
+
+Object1:_kaZSPbSv a occ:Shape .
+
+Object1:_kcQcDaNK omg:hasComplexGeometryDescription Object1:_jIfkUVBx .
+
+Object1:_kdjHJpWT a occ:gp_Pnt ;
+    oop:hasParameter ( "N00ab210303de4c588d05ac9bd6ea873d" 3e+02 6e+02 1.92e+03 ) .
+
+Object1:_kftGwwKg a occ:Shape .
+
+Object1:_knyptfcy omg:hasComplexGeometryDescription Object1:_WRQOeGrm .
+
+Object1:_koxLMMXG omg:hasComplexGeometryDescription Object1:_iLXnnTGV .
+
+Object1:_kuHKYagB a occ:Shape .
+
+Object1:_kuzKzkly a occ:gp_Pnt ;
+    oop:hasParameter ( "Nb668b27c4e6d441c8f39a71c83e36f1c" 3e+02 1.4e+03 5.2e+02 ) .
+
+Object1:_kvEtWchc omg:hasComplexGeometryDescription Object1:_wYUALVLV .
+
+Object1:_kvcVNyph a occ:gp_Pnt ;
+    oop:hasParameter ( "N40063f495ed94e16b9b25adfefbc999f" 3e+02 6e+02 1.2e+02 ) .
+
+Object1:_kyxKNomY a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_OBklKDnA ;
+    oop:hasParameter ( "N453a217c8aab47e3b2e3af739cc98c31" Object1:_jggvFHuL 6e+01 ) .
+
+Object1:_lAITdKTL a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_hGZoZfDJ ;
+    oop:hasParameter ( "N9666ea1cd3d94be89d6f831af7ea5990" Object1:_eQJZOaEq 6e+01 ) .
+
+Object1:_lERATkun a occ:Shape .
+
+Object1:_lIRmwWUE omg:hasComplexGeometryDescription Object1:_CUpgaEWk .
+
+Object1:_lJffbCYO a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_AwbKFsSx ;
+    oop:hasParameter ( "Ne9b9ebb2c77e4273bec17fbdb61b3daf" Object1:_HmJqConM 6e+01 ) .
+
+Object1:_lKPoiOVb omg:hasComplexGeometryDescription Object1:_iYQHtsbd .
+
+Object1:_lLZbkMls a occ:Shape .
+
+Object1:_lPmKsCvU a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_buFuyDPw ;
+    oop:hasParameter ( "N91d93f412f3549d4b38c51967a91673b" Object1:_DQXsGeqq 6e+01 ) .
+
+Object1:_lcAiVajB a occ:Shape .
+
+Object1:_leqJRhOS omg:hasComplexGeometryDescription Object1:_HcEQSysZ .
+
+Object1:_lfAeLimd omg:hasComplexGeometryDescription Object1:_guTxxLtX .
+
+Object1:_ljTUeman a occ:Shape .
+
+Object1:_lnDJjJxB omg:hasComplexGeometryDescription Object1:_yThOXDwE .
+
+Object1:_lrgNvGZU a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_geSotohN ;
+    oop:hasParameter ( "N6dfd1e74012e43f596039a35319e5bd5" Object1:_sEDlylLY Object1:_NXYUFtiG ) .
+
+Object1:_lxEycWcA a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_cELfXnkh ;
+    oop:hasParameter ( "Na9fbff4fe6b0480492599e24b5104254" Object1:_FlwaNtJy 6e+01 ) .
+
+Object1:_lzaWxLFN a occ:gp_Pnt ;
+    oop:hasParameter ( "Na5f6e58dfb3b4ed7946180e310448eca" 3e+02 1.4e+03 1.52e+03 ) .
+
+Object1:_lziRbSui a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_LGMzPDSj ;
+    oop:hasParameter ( "N0cc335d2634644a3a5e8cbb0e9c1bbab" Object1:_TLwfAiUZ 6e+01 ) .
+
+Object1:_mBhmhGzs a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_vVsadDgj ;
+    oop:hasParameter ( "Nd15a4debe3944853a2c1a4b62c2e4f02" Object1:_UNbaTChH 6e+01 ) .
+
+Object1:_mJUhmiJX a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_MRflDBPa ;
+    oop:hasParameter ( "Ncb28d7d615c4420f810db74fd4d0c6aa" Object1:_qYCPfwpn 6e+01 ) .
+
+Object1:_mKvLsFQt a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_BAzLSsNP ;
+    oop:hasParameter ( "Nd6ee9610f4d74a94b2f8acb82b79a0b5" Object1:_ajiVpGCL 6e+01 ) .
+
+Object1:_mORBaASw a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_akAHfaog ;
+    oop:hasParameter ( "N831fd68f4dd84867a21023bace7bc18e" Object1:_JNTwJUHl Object1:_peuobcem ) .
+
+Object1:_mOTbGgQU omg:hasComplexGeometryDescription Object1:_tfCAfrsY .
+
+Object1:_mQASAhmF a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_JiVqQJao ;
+    oop:hasParameter ( "Na0e53ea893354e75bc4f0779a38ce886" Object1:_WrwhCnIX 6e+01 ) .
+
+Object1:_meRURWPr a occ:gp_Pnt ;
+    oop:hasParameter ( "Nc36c03a25267414692ca610349b6916d" 3e+02 1e+03 1.12e+03 ) .
+
+Object1:_mgNEdsDe omg:hasComplexGeometryDescription Object1:_qTrTYgpH .
+
+Object1:_mjAiElXT a occ:Shape .
+
+Object1:_mjjmowUV omg:hasComplexGeometryDescription Object1:_thAbhlHO .
+
+Object1:_mulbpxMe omg:hasComplexGeometryDescription Object1:_tGxmPzuz .
+
+Object1:_nAOhJESa a occ:Shape .
+
+Object1:_nDXfiAdm a occ:Shape .
+
+Object1:_nOKynRMd a occ:gp_Pnt ;
+    oop:hasParameter ( "Nfcc5e944dda4480bb0fbd6ee718a7c15" 3e+02 6e+02 1.12e+03 ) .
+
+Object1:_nPQjAVzD a occ:Shape .
+
+Object1:_nSZRllQd a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_RoXAsFnl ;
+    oop:hasParameter ( "N4eef57ea58ab4bcebafef6c925a6c71d" Object1:_DEVuPmme Object1:_rLiQoFuY ) .
+
+Object1:_nUBtZTxU omg:hasComplexGeometryDescription Object1:_PeBQBvxF .
+
+Object1:_nWdcjclF a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_bynlDltx ;
+    oop:hasParameter ( "Nf3cf2daf6eb14880a8c974d1dcc40864" Object1:_KvcXNoba 6e+01 ) .
+
+Object1:_nXcAWifz a occ:Shape .
+
+Object1:_nZdrpIOj omg:hasComplexGeometryDescription Object1:_IuEvLcat .
+
+Object1:_napzyYyn omg:hasComplexGeometryDescription Object1:_QpRTEyIt .
+
+Object1:_nflJzODP omg:hasComplexGeometryDescription Object1:_oKwhMGBt .
+
+Object1:_ngqJdJdz a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_kftGwwKg ;
+    oop:hasParameter ( "Nd1a452aecc9d4519932496287f9d8aa3" Object1:_AscaWlgX Object1:_SjWfKyAB ) .
+
+Object1:_niapYEEo a occ:Shape .
+
+Object1:_nipKgfTh a occ:Shape .
+
+Object1:_nnVWpwxO a occ:Shape .
+
+Object1:_nsLqcVqB omg:hasComplexGeometryDescription Object1:_ZofULNHi .
+
+Object1:_nvoKXwlX a occ:Shape .
+
+Object1:_nwywzUkj omg:hasComplexGeometryDescription Object1:_lxEycWcA .
+
+Object1:_oCDwqPUS a occ:gp_Pnt ;
+    oop:hasParameter ( "Ne5a86a4791a6413cadad53eb2f83a945" 3e+02 1.2e+03 1.72e+03 ) .
+
+Object1:_oETApWdX omg:hasComplexGeometryDescription Object1:_CqymzVPl .
+
+Object1:_oGPObQGx a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_qIqhpaMq ;
+    oop:hasParameter ( "N7012f2326e124e509280615897ed962a" Object1:_CyRrWocz Object1:_gbnSdDgc ) .
+
+Object1:_oKwhMGBt a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_RjjZAsHH ;
+    oop:hasParameter ( "N02fefb56d02e4d1ca8477dbd7c80000b" Object1:_vNOFzLKM 6e+01 ) .
+
+Object1:_oOYegQnB omg:hasComplexGeometryDescription Object1:_EulgxuvJ .
+
+Object1:_oPBhMqol omg:hasComplexGeometryDescription Object1:_bNNARZNC .
+
+Object1:_oapVtGsR omg:hasComplexGeometryDescription Object1:_EbWlkdVH .
+
+Object1:_oiwdvxMS a occ:Shape .
+
+Object1:_ojBuVlOI a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_wUsEFvqD ;
+    oop:hasParameter ( "Nb00fe5ab7b02463483f7e8eb60a5e420" Object1:_HCHefWZI Object1:_AeBVFMTf ) .
+
+Object1:_olnrhvEr a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_urzzbrBQ ;
+    oop:hasParameter ( "N1a5e8cbf7e244041a6a3d23796c4224a" Object1:_ykRaPhWG Object1:_YeyeoDEi ) .
+
+Object1:_oobchkgM a occ:gp_Pnt ;
+    oop:hasParameter ( "N00317ffd0cc64d6cb0e10f90cfe6dfd2" 3e+02 2e+03 1.32e+03 ) .
+
+Object1:_ookJVqkm a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_ZZzzUJGy ;
+    oop:hasParameter ( "N8252c57c927e4eb1adfebbbb653770db" Object1:_fvaBveiv 6e+01 ) .
+
+Object1:_opEMXAkP omg:hasComplexGeometryDescription Object1:_HLjtHXjB .
+
+Object1:_outMeGRf a occ:gp_Pnt ;
+    oop:hasParameter ( "N0e7ab8b31e3d41c4904d7093eca71d8e" 3e+02 1.6e+03 1.72e+03 ) .
+
+Object1:_ovUewcgb omg:hasComplexGeometryDescription Object1:_XdhjvrrB .
+
+Object1:_ovjeHWEh a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_zmIrnleK ;
+    oop:hasParameter ( "N18c084f31ae5485cae6c978449eb86cf" Object1:_EqoUVvbw Object1:_aiPCPkaU ) .
+
+Object1:_owvquRyy a occ:Shape .
+
+Object1:_pMUPYyov a occ:Shape .
+
+Object1:_pMgRhIac omg:hasComplexGeometryDescription Object1:_MTvHVela .
+
+Object1:_pNWNYhZz a occ:Shape .
+
+Object1:_pQgVpdXi omg:hasComplexGeometryDescription Object1:_ShYEiWpB .
+
+Object1:_pSXaSBSd a occ:gp_Pnt ;
+    oop:hasParameter ( "Ne1b1b65a4c284ee2812c2fa36d1cffdd" 3e+02 1.8e+03 1.52e+03 ) .
+
+Object1:_pTgNwcwv a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_xcwsopQT ;
+    oop:hasParameter ( "N80fed5b9100a4b8586a6aa621cc14eec" Object1:_KTJgBHIp Object1:_jyzySCPu ) .
+
+Object1:_pWHDNWeG a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_cranqQpK ;
+    oop:hasParameter ( "N7bf6cc38c08a46ec9cbb16c24cab2b9f" Object1:_hAoRKOMv Object1:_GuTBTTNk ) .
+
+Object1:_pYBBIWSN a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_aqdBrVTS ;
+    oop:hasParameter ( "Ndeaaa998cf7e4fc084126c440909d49f" Object1:_WkBoDvzo 6e+01 ) .
+
+Object1:_patpuMPN omg:hasComplexGeometryDescription Object1:_xSOJhYTY .
+
+Object1:_pcqfrWZe a occ:Shape .
+
+Object1:_peuobcem omg:hasComplexGeometryDescription Object1:_jmjLNWim .
+
+Object1:_phWfFqYn a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_dTQNnTtk ;
+    oop:hasParameter ( "Na5d0c7dadd904483beac6626f5728240" Object1:_SbAzqFAg Object1:_dVSlaIBO ) .
+
+Object1:_plHhFxmm a occ:Shape .
+
+Object1:_plVTnKwp omg:hasComplexGeometryDescription Object1:_hHzJisMk .
+
+Object1:_ppKObXDr a occ:Shape .
+
+Object1:_prBjyzyo omg:hasComplexGeometryDescription Object1:_HyMUBVhR .
+
+Object1:_prriVyex omg:hasComplexGeometryDescription Object1:_gekUvDao .
+
+Object1:_qEMcvzAV a occ:gp_Pnt ;
+    oop:hasParameter ( "N49b8de2986ba4c0fbe511d5b75a96c2f" 3e+02 1e+03 3.2e+02 ) .
+
+Object1:_qFFHvdWH omg:hasComplexGeometryDescription Object1:_FSoqJXaK .
+
+Object1:_qIqhpaMq a occ:Shape .
+
+Object1:_qQQZAEBS a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_XkwrPoHk ;
+    oop:hasParameter ( "N91da67724c83417f9f9122d78004a934" Object1:_fNwiWXDq 6e+01 ) .
+
+Object1:_qTrTYgpH a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_PvOPgawF ;
+    oop:hasParameter ( "N3b7aaf820d864649a0fdfa876b5b84af" Object1:_zfMbXFha 6e+01 ) .
+
+Object1:_qYCPfwpn omg:hasComplexGeometryDescription Object1:_cHRJGpny .
+
+Object1:_qjHciRlw a occ:Shape .
+
+Object1:_qoUUXRwE a occ:Shape .
+
+Object1:_qpyUFxaO omg:hasComplexGeometryDescription Object1:_lJffbCYO .
+
+Object1:_qqeKQZFw omg:hasComplexGeometryDescription Object1:_meRURWPr .
+
+Object1:_qquMAAvp omg:hasComplexGeometryDescription Object1:_WkPuopNn .
+
+Object1:_qutyoYHT a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_NseOUYoK ;
+    oop:hasParameter ( "Ned3c0c5bbfde4895aa47bc0e6ad3d876" Object1:_CUJnPOtW Object1:_LuaNgLyU ) .
+
+Object1:_rETvdKtT a occ:Shape .
+
+Object1:_rGeHqCfG omg:hasComplexGeometryDescription Object1:_MPFSfMah .
+
+Object1:_rHATleqh a occ:Shape .
+
+Object1:_rJDzQMop omg:hasComplexGeometryDescription Object1:_GQRYLyTl .
+
+Object1:_rLiNabDh a occ:Shape .
+
+Object1:_rLiQoFuY omg:hasComplexGeometryDescription Object1:_lziRbSui .
+
+Object1:_rMPOJDxU omg:hasComplexGeometryDescription Object1:_zeoEqAaL .
+
+Object1:_rPfRbYhv omg:hasComplexGeometryDescription Object1:_mJUhmiJX .
+
+Object1:_rROxZwuR a occ:gp_Pnt ;
+    oop:hasParameter ( "N866f5a89b883498c8a2ad4117c91ca50" 3e+02 1.8e+03 7.2e+02 ) .
+
+Object1:_rVInDVfc a occ:Shape .
+
+Object1:_rrJMyyew omg:hasComplexGeometryDescription Object1:_MzKwTOZN .
+
+Object1:_rrUAzkoJ a occ:Shape .
+
+Object1:_rwmtewVs a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_VCRcqtyp ;
+    oop:hasParameter ( "Nbb3c3bd93b14476e9c1d62496d3c3722" Object1:_oapVtGsR 6e+01 ) .
+
+Object1:_rydQxzPP omg:hasComplexGeometryDescription Object1:_PwMxAfbN .
+
+Object1:_rzjwdBzH omg:hasComplexGeometryDescription Object1:_fzRGqnox .
+
+Object1:_sAoMFkUy a occ:Shape .
+
+Object1:_sEDlylLY omg:hasComplexGeometryDescription Object1:_kBjpGCpd .
+
+Object1:_sJBjVvlH a occ:gp_Pnt ;
+    oop:hasParameter ( "Na611bac2416447669e5a2cb3860222a7" 3e+02 1.8e+03 1.2e+02 ) .
+
+Object1:_sKwAjCMB omg:hasComplexGeometryDescription Object1:_zmFYlHBM .
+
+Object1:_sNNFvZKN a occ:Shape .
+
+Object1:_sSprECKd omg:hasComplexGeometryDescription Object1:_uqvJzbPL .
+
+Object1:_sWHhKzif omg:hasComplexGeometryDescription Object1:_fkgOmoCu .
+
+Object1:_sWgovLPX omg:hasComplexGeometryDescription Object1:_lrgNvGZU .
+
+Object1:_sWhgpLJp a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_wWQazTpo ;
+    oop:hasParameter ( "Ne6ef6d4b167b49b38847e076bc647edb" Object1:_eipwlTAO Object1:_KtrAGGDe ) .
+
+Object1:_sejxNeeR a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_thdQgAWg ;
+    oop:hasParameter ( "N618cdcc7af5d4c6cafaa8e7ab31efcaa" Object1:_wZKxCaDs Object1:_kEKAUqSc ) .
+
+Object1:_skZIPaGn a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_DjclBwkg ;
+    oop:hasParameter ( "Nebc09bfe670c473cb25a7a38bfc858be" Object1:_lKPoiOVb 6e+01 ) .
+
+Object1:_sonZfebC a occ:Shape .
+
+Object1:_spkYgGMT a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_tqrHThgs ;
+    oop:hasParameter ( "N96230f19226f414b9b8647f956617cf7" Object1:_dpUkPZqN 6e+01 ) .
+
+Object1:_spuPcpWg omg:hasComplexGeometryDescription Object1:_KjSdLDNj .
+
+Object1:_tBbuaJfH omg:hasComplexGeometryDescription Object1:_kvcVNyph .
+
+Object1:_tDHwLrPX omg:hasComplexGeometryDescription Object1:_nWdcjclF .
+
+Object1:_tDkMPKjS a occ:gp_Pnt ;
+    oop:hasParameter ( "N67a8d9f54eeb46f4bf06befafdfa0e6c" 3e+02 0e+00 7.2e+02 ) .
+
+Object1:_tGxmPzuz a occ:gp_Pnt ;
+    oop:hasParameter ( "Nfc055331b5924ef5b5b97fbfe89e5fe5" 3e+02 1.6e+03 1.2e+02 ) .
+
+Object1:_tWNpIVKx a occ:Shape .
+
+Object1:_tfCAfrsY a occ:gp_Pnt ;
+    oop:hasParameter ( "N56e23c990c6945aebfd8a2ee64c051f2" 3e+02 1.8e+03 1.12e+03 ) .
+
+Object1:_tftXicZP a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_KhwtMruy ;
+    oop:hasParameter ( "N7035eb72931346eea82ff49d2460e02d" Object1:_eKyTFEZX 6e+01 ) .
+
+Object1:_thAbhlHO a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_qjHciRlw ;
+    oop:hasParameter ( "N4e0d6dfb9caa453f95557fb715fda1e7" Object1:_MwZSeURQ Object1:_hoszonvd ) .
+
+Object1:_thdQgAWg a occ:Shape .
+
+Object1:_tiDgrkSZ omg:hasComplexGeometryDescription Object1:_fNBTNbNe .
+
+Object1:_tjIUfFxQ a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_sNNFvZKN ;
+    oop:hasParameter ( "N6a4a3e8610f84f40a38d13b4498db96f" Object1:_oETApWdX 6e+01 ) .
+
+Object1:_tqrHThgs a occ:Shape .
+
+Object1:_tsBRjLjK omg:hasComplexGeometryDescription Object1:_lPmKsCvU .
+
+Object1:_tuCVdqAj a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_NyOdlZsS ;
+    oop:hasParameter ( "Nd1c5b844193342518bfd3d5960d70f27" Object1:_qqeKQZFw 6e+01 ) .
+
+Object1:_tuhFSUQt omg:hasComplexGeometryDescription Object1:_xeCjZYjo .
+
+Object1:_tzfyzJwS omg:hasComplexGeometryDescription Object1:_OxBuYkNt .
+
+Object1:_uBBdUPXB a occ:Shape .
+
+Object1:_uDIwKNAQ a occ:gp_Pnt ;
+    oop:hasParameter ( "N1da311da299a45b7a97aeadf59f71614" 3e+02 1.4e+03 7.2e+02 ) .
+
+Object1:_uDJxOZAm a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_rVInDVfc ;
+    oop:hasParameter ( "N894fd21e9c834d0aa84dff65c5b3ff42" Object1:_ujOOkkUB 6e+01 ) .
+
+Object1:_uFKYkbCy a occ:gp_Pnt ;
+    oop:hasParameter ( "Nb0e2c202155c4c90bb3c4154a7b1db27" 3e+02 1.2e+03 1.12e+03 ) .
+
+Object1:_uFmrKgcB a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_IxLLQNuK ;
+    oop:hasParameter ( "N562118f3c7e148d7a502ac2dac9edecf" Object1:_FOytXYrs Object1:_ZENtvsWB ) .
+
+Object1:_uGTpvngT a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_qoUUXRwE ;
+    oop:hasParameter ( "Nb50dec5228974c1f9af137e13a239db9" Object1:_FitDpvqK Object1:_rGeHqCfG ) .
+
+Object1:_uPNghHGh omg:hasComplexGeometryDescription Object1:_RFGilXXg .
+
+Object1:_uUeOjHaZ omg:hasComplexGeometryDescription Object1:_jQtgcHfp .
+
+Object1:_uUecxTtj a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_wTsyqsqX ;
+    oop:hasParameter ( "Nfa385609e55c442bbec8e3aff226104f" Object1:_WBkfhVyX Object1:_LbnmWwIs ) .
+
+Object1:_ubTHZjXU a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_nXcAWifz ;
+    oop:hasParameter ( "Nd4b989bef43149449adab870ec418f50" Object1:_kZFzWtVe Object1:_OBoMbBev ) .
+
+Object1:_ubVuKDCa omg:hasComplexGeometryDescription Object1:_PQRQerxP .
+
+Object1:_ujOOkkUB omg:hasComplexGeometryDescription Object1:_YCmJdwsn .
+
+Object1:_unTQHRgw a occ:gp_Pnt ;
+    oop:hasParameter ( "Nb01330924e29449d8c067f833f5e6fa6" 3e+02 8e+02 1.72e+03 ) .
+
+Object1:_upaXjiml omg:hasComplexGeometryDescription Object1:_fkZHdQmy .
+
+Object1:_uqvJzbPL a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_SvUyidfy ;
+    oop:hasParameter ( "N52bf67a87d2444d1b038b2deb63d9f04" Object1:_jHkzIclo 6e+01 ) .
+
+Object1:_urzzbrBQ a occ:Shape .
+
+Object1:_utcEBrJv omg:hasComplexGeometryDescription Object1:_YucakyrE .
+
+Object1:_uxcyyMAS omg:hasComplexGeometryDescription Object1:_CaFuXAmw .
+
+Object1:_vEXzCgHf a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_mjAiElXT ;
+    oop:hasParameter ( "Nfa8c21c4d54d4b54ac53d67318f254e7" Object1:_gncDxkvn 6e+01 ) .
+
+Object1:_vIGSBUjO omg:hasComplexGeometryDescription Object1:_alMQGDOY .
+
+Object1:_vIoxjZip a occ:gp_Pnt ;
+    oop:hasParameter ( "Nd9c61d3f0b5941adb7af3f9b5fcba696" 3e+02 6e+02 1.72e+03 ) .
+
+Object1:_vJbpcZRG a occ:Shape .
+
+Object1:_vNOFzLKM omg:hasComplexGeometryDescription Object1:_IOlMRqEQ .
+
+Object1:_vVghESkb omg:hasComplexGeometryDescription Object1:_WQmUeLoE .
+
+Object1:_vVsadDgj a occ:Shape .
+
+Object1:_vWVfbXeV a occ:Shape .
+
+Object1:_vZosBBjF omg:hasComplexGeometryDescription Object1:_HmwwLzfY .
+
+Object1:_vbHzmPPR a occ:Shape .
+
+Object1:_vcyWlszq a occ:Shape .
+
+Object1:_vdXBqYws a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_lERATkun ;
+    oop:hasParameter ( "N8da3bf30e18f45b1af55ed1c81ece8de" Object1:_QivkeXNw Object1:_prBjyzyo ) .
+
+Object1:_voFGcJCa omg:hasComplexGeometryDescription Object1:_lzaWxLFN .
+
+Object1:_vpJbhCZp omg:hasComplexGeometryDescription Object1:_cBwgHvIe .
+
+Object1:_vpcNsJGE omg:hasComplexGeometryDescription Object1:_Ryrnijod .
+
+Object1:_vyijvaKB omg:hasComplexGeometryDescription Object1:_FMPudVRc .
+
+Object1:_wLcNlwNA a occ:Shape .
+
+Object1:_wMoygldS omg:hasComplexGeometryDescription Object1:_RPENyVmH .
+
+Object1:_wNjQqlCF a occ:Shape .
+
+Object1:_wTsyqsqX a occ:Shape .
+
+Object1:_wUsEFvqD a occ:Shape .
+
+Object1:_wWQazTpo a occ:Shape .
+
+Object1:_wYUALVLV a occ:gp_Pnt ;
+    oop:hasParameter ( "N3db55fc7976c4a36ae01e551fd0fca54" 3e+02 1e+03 1.2e+02 ) .
+
+Object1:_wZKxCaDs omg:hasComplexGeometryDescription Object1:_qutyoYHT .
+
+Object1:_wZtFRseL a occ:Shape .
+
+Object1:_wdesgnFH a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_eFqEVQGZ ;
+    oop:hasParameter ( "Ne64d274bbb7d4c65aa34df0dfb416998" Object1:_XbSEuEgZ 6e+01 ) .
+
+Object1:_weUTLMHC a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_GmrqpOgJ ;
+    oop:hasParameter ( "Ncfd73c97f2a24a6d9b134521885defb8" Object1:_CafmSoKD 6e+01 ) .
+
+Object1:_wjGTUmja a occ:Shape .
+
+Object1:_wxJyxgvv omg:hasComplexGeometryDescription Object1:_JbufVAbX .
+
+Object1:_wznUQMat omg:hasComplexGeometryDescription Object1:_kDlvvrUz .
+
+Object1:_xAQxIVYj omg:hasComplexGeometryDescription Object1:_JblGNEtV .
+
+Object1:_xHLDVffW omg:hasComplexGeometryDescription Object1:_DLJegdxN .
+
+Object1:_xIHBHXBY omg:hasComplexGeometryDescription Object1:_MSDTPSeY .
+
+Object1:_xJDEFoPy a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_OfUOhwbH ;
+    oop:hasParameter ( "Nead0f991b1714893ae84a54f587108af" Object1:_vZosBBjF 6e+01 ) .
+
+Object1:_xMWhFuNk omg:hasComplexGeometryDescription Object1:_WpOLKAPb .
+
+Object1:_xNfTAxVy a occ:Shape .
+
+Object1:_xSOJhYTY a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_xhNpptDU ;
+    oop:hasParameter ( "N74b84959dd3846c3b4d493266684590f" Object1:_kvEtWchc 6e+01 ) .
+
+Object1:_xVgRmpSG omg:hasComplexGeometryDescription Object1:_htsllTiH .
+
+Object1:_xadLDkOC a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_nipKgfTh ;
+    oop:hasParameter ( "N9fc53bb7cebc45a3ad26420e27d4e46b" Object1:_kcQcDaNK Object1:_SQFHrpAQ ) .
+
+Object1:_xcwsopQT a occ:Shape .
+
+Object1:_xeCjZYjo a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_rHATleqh ;
+    oop:hasParameter ( "Ne15f327780594bc8b1297baa404af241" Object1:_nsLqcVqB Object1:_ZcjnfkNs ) .
+
+Object1:_xhNpptDU a occ:Shape .
+
+Object1:_xtvdbcQD a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_nnVWpwxO ;
+    oop:hasParameter ( "N6c60c05805b0426ba891657050ef077c" Object1:_spuPcpWg Object1:_UdAQCCGr ) .
+
+Object1:_xxXODiiC a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_OvWgmIRr ;
+    oop:hasParameter ( "N2897556e94174ee1aee839bde9f0924e" Object1:_qFFHvdWH 6e+01 ) .
+
+Object1:_xzdGAoVy a occ:Shape .
+
+Object1:_yBJRbzYw a occ:gp_Pnt ;
+    oop:hasParameter ( "N8dd6ba3e615b4024b292a5663f7008e0" 3e+02 6e+02 3.2e+02 ) .
+
+Object1:_yEsTqmWs a occ:Shape .
+
+Object1:_yOTmlACZ a occ:gp_Pnt ;
+    oop:hasParameter ( "N3535bcabefa041a4901f42899f436b40" 3e+02 1.2e+03 3.2e+02 ) .
+
+Object1:_yRehdLMR a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_UqYyKtaU ;
+    oop:hasParameter ( "N98d265c0d90f4bb0804e05c4c7b66d66" Object1:_KcBDZfAL Object1:_RLSrdSrS ) .
+
+Object1:_yTPfUjCt omg:hasComplexGeometryDescription Object1:_uFKYkbCy .
+
+Object1:_yThOXDwE a occ:gp_Pnt ;
+    oop:hasParameter ( "Na15a2e3067de48e9bb3b84720946f744" 3e+02 6e+02 7.2e+02 ) .
+
+Object1:_yhcbvLqg a occ:Shape .
+
+Object1:_yiGtPBsg omg:hasComplexGeometryDescription Object1:_ciJogCDJ .
+
+Object1:_ykRaPhWG omg:hasComplexGeometryDescription Object1:_XVEPhIEQ .
+
+Object1:_ymMWfUjH omg:hasComplexGeometryDescription Object1:_OCumpBvu .
+
+Object1:_ypJZNgbS a occ:BRepPrimAPI_MakeBox ;
+    oop:hasMethod Object1:_bdqugAFW ;
+    oop:hasParameter ( "N8be03b81b9454ae1b225112476c41e78" 300 2000 2000 ) .
+
+Object1:_ytgMjPQv omg:hasComplexGeometryDescription Object1:_NVcFNLhu .
+
+Object1:_zAnvCFqO a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_QZbyJADm ;
+    oop:hasParameter ( "N00f7a5c6adad413a93651932967dd99b" Object1:_dXrLqyEV Object1:_BTlbuOPT ) .
+
+Object1:_zCSTpVdw a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_plHhFxmm ;
+    oop:hasParameter ( "Ne236c3245c6a4937bb35ca05c94ba6b7" Object1:_pQgVpdXi 6e+01 ) .
+
+Object1:_zIqquVRH a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_lLZbkMls ;
+    oop:hasParameter ( "Nd7e603b145724defb0a927cccb67984a" Object1:_JYpGcANg Object1:_KZqbTrKo ) .
+
+Object1:_zQIklhoj a occ:Shape .
+
+Object1:_zSvKKguu omg:hasComplexGeometryDescription Object1:_TgwvXlQT .
+
+Object1:_zUGGrecu a occ:Shape .
+
+Object1:_zaaTkYrs a occ:Shape .
+
+Object1:_zbhqmstt a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_wNjQqlCF ;
+    oop:hasParameter ( "Nd8ce7248406f4494beee77e4f637dad8" Object1:_IsliOCCd Object1:_uxcyyMAS ) .
+
+Object1:_zeoEqAaL a occ:gp_Pnt ;
+    oop:hasParameter ( "N3456bdd9b00a4e34a2f5b5c6b37a5e29" 3e+02 1.8e+03 9.2e+02 ) .
+
+Object1:_zfMbXFha omg:hasComplexGeometryDescription Object1:_ROUthYBB .
+
+Object1:_zkHXDMnM a occ:gp_Pnt ;
+    oop:hasParameter ( "Nf4e29d3ebfa240ef90da3f0b26c689fd" 3e+02 4e+02 1.2e+02 ) .
+
+Object1:_zmFYlHBM a occ:gp_Pnt ;
+    oop:hasParameter ( "Ndc4d6f7354f447b184afa542b96a8378" 3e+02 2e+02 1.92e+03 ) .
+
+Object1:_zmIrnleK a occ:Shape .
+
+Object1:_zmypkMxj a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_vJbpcZRG ;
+    oop:hasParameter ( "N0c66d9df91874e758ae7daacfb661dad" Object1:_ViZduaVm 6e+01 ) .
+
+Object1:_znWjrYoc a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_MCUFYoXV ;
+    oop:hasParameter ( "Nba98b0dc0a8c4ffab368b0a039ee9ee9" Object1:_xIHBHXBY Object1:_ubVuKDCa ) .
+
+Object1:_zqVpifbU a occ:BRepPrimAPI_MakeSphere ;
+    oop:hasMethod Object1:_abLvNxRt ;
+    oop:hasParameter ( "Nfc0d64053235431b9147ca72d5b38eaf" Object1:_AURBfWYA 6e+01 ) .
+
+Object1:_ztDnJamU omg:hasComplexGeometryDescription Object1:_VCvVzovB .
+
+Object1:_zuTqplmb a occ:BRepAlgoAPI_Cut ;
+    oop:hasMethod Object1:_ZLDmtJJu ;
+    oop:hasParameter ( "N3acad1ce01294b57bf6cf4aeb0cb085b" Object1:_EuXWdedw Object1:_RXoRNeEB ) .
+

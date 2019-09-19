@@ -1,0 +1,25 @@
+
+
+version: '3'
+
+services:
+  fuseki:
+    container_name: fuseki-db
+    image: stain/jena-fuseki
+    volumes:
+     - ./data:/fuseki
+    ports:
+     - "22630:3030"
+    environment:
+     - ADMIN_PASSWORD="admin"
+    networks:
+     - default
+
+networks:
+    default:
+        external:
+            name: scope-net
+
+
+
+

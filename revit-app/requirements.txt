@@ -1,0 +1,6 @@
+flask
+rdflib
+numpy
+requests
+flask-restplus
+scipy

@@ -1,0 +1,51 @@
+image: "python:3.6"
+
+
+
+stages:
+  - Static Analysis
+
+flake8:
+  before_script:
+    - python --version
+    - pip install -r requirements.txt
+    - pip install flake8 --ignore-installed entrypoints
+  stage: Static Analysis
+  tags:
+    - docker
+  script:
+  - flake8 --max-line-length=120 src/*.py
+
+pylint:
+  before_script:
+    - python --version
+    - pip install -r requirements.txt
+    - pip install pylint
+  stage: Static Analysis
+  tags:
+    - docker
+  allow_failure: true
+  script:
+  - cd src/app
+  - pylint *.py **/*.py
+#  - pylint -d C0301 src/*.py
+
+#code_quality:
+#  stage: Static Analysis
+#  image: docker:stable
+#  tags:
+#    - docker
+#  variables:
+#    DOCKER_DRIVER: overlay2
+#  allow_failure: true
+#  services:
+#    - docker:stable-dind
+#  script:
+#    - export SP_VERSION=$(echo "$CI_SERVER_VERSION" | sed 's/^\([0-9]*\)\.\([0-9]*\).*/\1-\2-stable/')
+#    - docker run
+#        --env SOURCE_CODE="$PWD"
+#        --volume "$PWD":/code
+#        --volume /var/run/docker.sock:/var/run/docker.sock
+#        "registry.gitlab.com/gitlab-org/security-products/codequality:$SP_VERSION" /code
+#  artifacts:
+#      paths: [gl-code-quality-report.json]
