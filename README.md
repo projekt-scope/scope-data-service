@@ -26,6 +26,11 @@ The SCOPE data service allows to create, store and visualize complex geometrical
 - [x] Directly export Revit information into the Fuseki database
 
 
+## Acknowledgments
+
+The code development is done within the German research project SCOPE (www.projekt-scope.de), funded by the Federal Ministry for Economic Affairs and Energy.
+
+
 ## Contact persons
 
 - Christian Nothstein +49 711 7883 8978
