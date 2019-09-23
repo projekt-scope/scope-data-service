@@ -9,7 +9,7 @@ Add a dataset named "data" to the fuseki database via the graphical user interfa
 
 ## Test run
 
-Database content can be created via Autodesk Revit 2019 and RevitPythonShell. Copy/paste the script readRevit.py located in the client folder to the interactive RevitPythonShell and run the script.
+Database content can be created via Autodesk Revit 2019 and RevitPythonShell. Copy/paste the script readRevit.py located in the client folder to the interactive RevitPythonShell and run the script. At the moment, only the following Revit families are partially exported: Walls, ceilings, floors, columns, and opening elements for windows and doors.
 
 The script will create a file called Revit-ProjectName.ttl on your desktop. "ProjectName" is the project name from your Revit project. This name can be set or changed in Revit via Manage -- Project Information -- Other. Resulting examples are already available in the client folder.
 
@@ -21,15 +21,12 @@ The script should create a web service that can be called via http://Your_IP_num
 
 The SCOPE data service allows to create, store and visualize complex geometrical information with the help of the open-source geometry kernel openCASCADE. It consists of an Autodesk Revit 2019 exporter based on RevitPythonShell and a small GUI for visualizing the 3D geometry and its RDF graph representation. It uses the OCC ontology published at w3id.org/occ.
 
-
 ## ToDo
 - [x] Directly export Revit information into the Fuseki database
 
-
 ## Acknowledgments
 
-The code development is done within the German research project SCOPE (www.projekt-scope.de), funded by the Federal Ministry for Economic Affairs and Energy.
-
+The code development is done within the German research project SCOPE (www.projekt-scope.de), funded by the Federal Ministry for Economic Affairs and Energy. The packages three.js (https://threejs.org/) and pythonOCC (https://github.com/tpaviot/pythonocc) are used in the code.
 
 ## Contact persons
 
