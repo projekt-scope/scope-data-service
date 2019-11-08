@@ -1,5 +1,0 @@
-flask
-pre-commit
-rdflib
-SPARQLWrapper
-requests

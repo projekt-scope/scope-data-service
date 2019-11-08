@@ -1,0 +1,21 @@
+# Production environment overrides of the base configuration
+version: '3'
+
+services:
+  shared:
+    restart: always
+  
+  fuseki-db:
+    restart: always
+
+  fuseki-app:
+    restart: always
+
+  revit-app:
+    restart: always
+
+  render-app:
+    restart: always
+
+  geom2pickle:
+    restart: always

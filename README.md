@@ -1,36 +1,39 @@
+<img src="scope.png" width="200"/>
+
+
 # SCOPE data service
 
 Data service for RDF-based BIM representation including geometry.
 
-## Installation
-
-Docker is required. Start each microservice (fuseki-app, fuseki-db, geom2str, occvis-app, render-app, revit-app) with docker-compose up.
-Add a dataset named "data" to the fuseki database via the graphical user interface on IP:22630. 
-
-## Test run
-
-Database content can be created via Autodesk Revit 2019 and RevitPythonShell. Copy/paste the script readRevit.py located in the client folder to the interactive RevitPythonShell and run the script. At the moment, only the following Revit families are partially exported: Walls, ceilings, floors, columns, and opening elements for windows and doors.
-
-The script will create a file called Revit-ProjectName.ttl on your desktop. "ProjectName" is the project name from your Revit project. This name can be set or changed in Revit via Manage -- Project Information -- Other. Resulting examples are already available in the client folder.
-
-In the client folder, run the following script: `python test_run.py YourRevitProjectName`, with YourRevitProjectName being a string representing the project name. With the already existing example, the command is: `python test_run.py SimpleExample`.
-
-The script should create a web service that can be called via http://Your_IP_number:22634/TS, with the docker server as the IP number.   
 
 ## Description
 
-The SCOPE data service allows to create, store and visualize complex geometrical information with the help of the open-source geometry kernel openCASCADE. It consists of an Autodesk Revit 2019 exporter based on RevitPythonShell and a small GUI for visualizing the 3D geometry and its RDF graph representation. It uses the OCC ontology published at w3id.org/occ.
+The SCOPE data service consists of:
+- Web service with Fuseki database
+- Plugin for Autodesk Revit 2019 to export geometric and semantic information to Fuseki
+- GUI for geometry visualization and SPARQL queries
 
-## ToDo
-- [x] Directly export Revit information into the Fuseki database
+Developed within:  SCOPE (www.projekt-scope.de)<br/>
+SCOPE is a German research project funded by the BMWi (Bundesministerium für Wirtschaft und Energie).
 
-## Acknowledgments
+The SCOPE data service allows to create, store and visualize complex geometrical information with the help of the open-source geometry kernel openCASCADE. It consists of an Autodesk Revit 2019 exporter based on RevitPythonShell and a GUI for visualizing the 3D geometry and its RDF graph representation. The RDF representation in Fuseki mainly uses the ontologies w3id.org/bot and w3id.org/occ.
 
-The code development is done within the German research project SCOPE (www.projekt-scope.de), funded by the Federal Ministry for Economic Affairs and Energy. The packages three.js (https://threejs.org/) and pythonOCC (https://github.com/tpaviot/pythonocc) are used in the code.
+## Installation
+
+Docker and Make are required. In the base folder and with a running docker engine, start the services with "make up".
+
+### Test run with python3:
+
+Call "python serverTest.py" in ./services/client. The script creates some geometry in the Fuseki TDB which can be visualized at localhost:22634 after a couple of seconds.
+
+### Test run with Autodesk Revit 2019 / RevitPythonShell:
+
+Copy the script sendRevitdatatoTDB.py in ./services/client to RevitPythonShell and run it. The script exports some basic Revit families. Revit example files can be found in the same folder. Visualizing at localhost:22634 might take some minutes, we are currently working on improving the speed.
+
+
 
 ## Contact persons
 
 - Christian Nothstein +49 711 7883 8978
 - Tim Huyeng +49 6151 16-21333
 - Dr. Wendelin Sprenger +49 711 7883 8692
-

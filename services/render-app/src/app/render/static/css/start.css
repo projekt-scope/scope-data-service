@@ -1,0 +1,20 @@
+body {
+    background: url('https://www.projekt-scope.de/wp-content/uploads/2019/01/AdobeStock_196578807_72dpi.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .centered {
+    position: fixed; /* or absolute */
+    top: 40%;
+    left: 40%;
+    color: white
+  }
+
+  .btnchoose {
+    width: 200 px,
+    
+
+  }

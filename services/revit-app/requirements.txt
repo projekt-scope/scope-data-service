@@ -1,0 +1,6 @@
+flask==1.1.1
+rdflib===4.2.2
+# numpy==1.16.4 # is installed in the Dockerfile via `apk add py3-numpy`, see https://pkgs.alpinelinux.org/package/v3.10/community/x86_64/py3-numpy
+requests==2.22.0
+flask-restplus==0.13.0
+# scipy==1.2.1 # is installed in the Dockerfile via `apk add py3-scipy`, see https://pkgs.alpinelinux.org/package/v3.10/community/ppc64le/py3-scipy

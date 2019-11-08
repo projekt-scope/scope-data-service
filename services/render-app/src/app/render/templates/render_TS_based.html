@@ -1,0 +1,300 @@
+{% extends "layout.html" %}
+{%block body%}
+
+<link rel="stylesheet" href="{{url_for('render_bp.static', filename='css/style.css')}}" />
+<link rel="stylesheet" href="{{url_for('render_bp.static', filename='css/graph.css')}}" />
+
+
+<!-- <div class="container"> -->
+<div class="row">
+    <div class="col-sm-6" style="padding-bottom: 100px;">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">SCOPE</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link sel_link" onclick="scrollToElement('container_query')">SPARQL Query</a>
+                    <a class="nav-item nav-link sel_link" onclick="scrollToElement('container_output')">SPARQL
+                        Output</a>
+                        {%if insert_attribute %}
+                    <a class="nav-item nav-link sel_link" onclick="scrollToElement('container_insert_attribute')">Insert
+                        Attribute</a>
+                        {%endif%}
+                    <a class="nav-item nav-link sel_link" onclick="scrollToElement('container_ttl')">Information</a>
+                    <a class="nav-item nav-link sel_link" onclick="scrollToElement('container_graph')">Graph
+                        Visualizer</a>
+
+                </div>
+            </div>
+        </nav>
+
+        <div class="scrollside" id="scrollside">
+
+            <!-- sparql Input -->
+            <div id="container_query">
+                <div id="containerheader">
+                    <span class="left">
+                        <a class="headertext stretched-link" data-toggle="collapse" href="#showSPARQLquery"
+                            role="button" aria-expanded="true" aria-controls="collapseExample">
+                            SPARQL Query
+                        </a>
+                    </span>
+
+                    <span class="right">
+                        <button type="button" class="btn  btn-secondary" onclick="run_sparql()">
+                            Run
+                        </button>
+
+                    </span>
+                </div>
+
+                <div class="collapse" id="showSPARQLquery">
+                    <form>
+                        <textarea id="sparql_input" name="sparql_input">PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX occ: <https://projekt-scope.de/ontologies/occ#> 
+PREFIX omg: <https://w3id.org/omg#> 
+PREFIX oop: <https://projekt-scope.de/ontologies/oop#>
+PREFIX bot: <https://w3id.org/bot#> 
+PREFIX BIM: <https://projekt-scope.de/ontologies/BIM#>
+
+
+SELECT ?s ?p ?o WHERE { GRAPH ?g { ?s omg:hasGeometry ?o } }  
+                            </textarea>
+                    </form>
+                </div>
+            </div>
+
+
+            <!-- sparql output -->
+            <div id="container_output">
+                <div id="containerheader">
+                    <span class="left">
+                        <a class="headertext" data-toggle="collapse" href="#showSPARQLoutput" role="button"
+                            aria-expanded="false" aria-controls="collapseExample">
+                            SPARQL Output
+                        </a>
+                    </span>
+                    <span class="right">
+
+                    </span>
+                </div>
+
+
+                <div class="collapse" id="showSPARQLoutput">
+                    <table class="table" id="table">
+
+                    </table>
+                </div>
+            </div>
+
+            {%if insert_attribute %}
+            <!-- insert Attribute -->
+            <div id="container_insert_attribute">
+                <div id="containerheader">
+                    <span class="left">
+
+                        <a class="headertext" data-toggle="collapse" href="#insertattribute" role="button"
+                            aria-expanded="true" aria-controls="collapseExample">
+                            Insert Attribute
+                        </a>
+                    </span>
+                    <span class="right">
+
+                    </span>
+                </div>
+
+                <div class="collapse" id="insertattribute" aria-expanded="true" aria-controls="collapseOne">
+
+
+                    <div class="input-group input-group-sm mb-3 mt-1 mr-1 ml-1">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="inputGroup-sizing-sm">
+                                Graph
+                            </span>
+                        </div>
+                        <input id="graph" type="text" class="form-control" aria-label="Small"
+                            aria-describedby="inputGroup-sizing-sm">
+                    </div>
+
+                    <div class="input-group input-group-sm mb-3 mt-1 mr-1 ml-1">
+                        <div class="input-group-prepend">
+                            <button class="btn btn-outline-secondary dropdown-toggle"
+                                style="background: rgb(240, 240, 240); border: 1px solid #c6c8ca;" type="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Element</button>
+                            <div class="dropdown-menu" id="dropdown-menu_element">
+
+                            </div>
+                        </div>
+                        <input id="element" type="text" class="form-control" aria-label="Small">
+                    </div>
+
+
+
+                    <div class="input-group input-group-sm mb-3 mt-1 mr-4 ml-1">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="inputGroup-sizing-sm">
+                                New Attribute (bpo)(bssd)
+                            </span>
+                        </div>
+                        <input id="new_attribute" type="text" class="form-control" aria-label="Small"
+                            aria-describedby="inputGroup-sizing-sm">
+                    </div>
+
+                    <div class="input-group input-group-sm mb-3 mt-1 mr-1 ml-1">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="inputGroup-sizing-sm">
+                                Value
+                            </span>
+                        </div>
+                        <input id="value" type="text" class="form-control" aria-label="Small"
+                            aria-describedby="inputGroup-sizing-sm">
+                    </div>
+
+                    <button type="button" class="btn btn-secondary btn-lg btn-block"
+                        style="background-color: lightslategray;border: 1px solid #c6c8ca;"
+                        onclick=insert_sparql()>Submit</button>
+
+
+
+
+                </div>
+            </div>
+
+            <!-- insert Attribute -->
+            {%endif%}
+
+
+            <div id="container_ttl">
+
+                <div id="containerheader">
+                    <span class="left">
+                        <a class="headertext stretched-link" data-toggle="collapse" href="#showInfos" role="button"
+                            aria-expanded="true" aria-controls="collapseExample">
+                            Information of clicked Element
+                        </a>
+                    </span>
+
+                </div>
+
+                <div class="collapse" id="showInfos">
+                    <form>
+                        <textarea id="code" name="code">
+                                </textarea>
+                    </form>
+                </div>
+            </div>
+
+
+
+            <!-- Graph Container -->
+            <div id="container_graph">
+                <div id="containerheader">
+                    <span class="left">
+                        <a class="headertext" data-toggle="collapse" href="#graphContainer" role="button">
+                            Graph Visualizer
+                        </a>
+                    </span>
+
+                    <span class="right">
+                        Max-Nodes
+                        <input id="trimnumber" type="number" value="250">
+                    </span>
+
+
+                </div>
+
+                <div class="collapse" id="graphContainer">
+                    <div id="svg-body" class="panel-body">
+                    </div>
+                </div>
+                <div style="height:100px">
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <div class="col-sm-6">
+
+
+        <!-- Render -->
+        <div id="render">
+
+        </div>
+
+    </div>
+
+</div>
+<!-- </div> -->
+
+
+<div id="loader"></div>
+
+<script type="text/javascript">
+    //---- json name list //
+    var jsonNameList = [];
+    var ts = true;
+</script>
+
+</div>
+
+</div>
+
+
+<img id="logo" src="{{url_for('render_bp.static', filename='SCOPE Logo final.png')}}">
+
+<div id="container"></div>
+<div id="render_about">
+    Render for graphbased geometry descriptions <br>
+    based on the pythonocc-0.18.2-dev render with <a href="https://github.com/mrdoob/three.js" target="_blank">three.js
+        r100</a> <a href=http://www.pythonocc.org>(pythonocc blog)</a> <br>Check out
+        <a href=https://www.projekt-scope.de>SCOPE </a> <br>
+            Named graphs from connected triplestore :
+            <select onChange="update_JsonNameList_and_render_FromTS(this.value)" id="select">
+                <option value=""></option>
+                {% for e in examples %}
+                <option value="{{e}}">{{e}}</option>
+                {% endfor %}
+
+            </select>
+
+</div>
+
+<div id="render_info">
+
+    <div class="panel panel-primary">
+        <div class="panel-heading"> Info</div>
+        <div class="panel-body" id="graph_panel">
+        </div>
+        <div class="panel-body" id="element_panel">
+        </div>
+    </div>
+</div>
+
+<div id="commands">
+    <div class="span2">
+        <button type="button" onclick="setVisibility()" class="btn btn-primary btn-sm  btn-block">view/hide
+            shape</button>
+        <button type="button" onclick="setWire()" class="btn btn-primary btn-sm  btn-block">view/hide
+            wire</button>
+        <button type="button" onclick="toggleGrid()" class="btn btn-primary btn-sm  btn-block">view/hide
+            grid</button>
+        <!-- ToDo At further Services  -->
+        <!-- <button type="button" class="btn btn-primary btn-sm  btn-block" onclick="tool_service_api()">BBox</button><br> -->
+        <button type="button" onclick="delete_all()" class="btn btn-danger btn-sm btn-block">delete all</button>
+    </div>
+
+
+</div>
+
+{% endblock %}

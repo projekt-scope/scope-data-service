@@ -1,0 +1,77 @@
+version: '3'
+
+services:
+
+  config:
+    container_name: ${CONFIG_APP_NAME}
+    build: ./spring-config
+    ports:
+      - 8888:${CONFIG_APP_PORT}
+    volumes:
+      - ./spring-config:/opt/config
+    network_mode: host
+
+  postgres:
+    image: postgres:9
+    container_name: scopePostgres
+    environment:
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "54320:54320"
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data
+    network_mode: host
+
+  pgadmin:
+    container_name: ${PG_ADMIN_NAME}
+    image: fenglc/pgadmin4
+    ports:
+      - 5050:${PG_ADMIN_PORT}
+    network_mode: host
+
+  user_service:
+    container_name: ${USER_SERVICE_NAME}
+    build:
+      context: .
+      dockerfile: ./user-management/Dockerfile
+    depends_on:
+      - config
+    ports:
+      - 3010:${USER_SERVICE_PORT}
+    volumes:
+      - ./user-management:/opt/user-management
+    network_mode: host
+
+  swagger_service:
+    container_name: ${SWAGGER_SERVICE_NAME}
+    build:
+      context: .
+      dockerfile: ./swagger-app/swagger/Dockerfile
+    depends_on:
+      - config
+    ports:
+      - 3020:${SWAGGER_SERVICE_PORT}
+    volumes:
+      - ./swagger-app/swagger:/opt/swagger
+    network_mode: host
+
+  swagger_client:
+    container_name: ${SWAGGER_CLIENT_NAME}
+    build:
+      context: ./swagger-app/client
+      dockerfile: ./Dockerfile
+    ports:
+      - 4200:${SWAGGER_CLIENT_PORT}
+    volumes:
+      - ./swagger-app/client:/opt/client
+    network_mode: host
+
+  scope_nginx:
+    image: nginx
+    container_name: scopeNginx
+    ports:
+      - 8080:${NGINX_PORT}
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/logs:/etc/nginx/logs
+    network_mode: host

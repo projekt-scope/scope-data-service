@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{%block body%}
+
+<link rel="stylesheet" href="{{url_for('render_bp.static', filename='css/start.css')}}" />
+
+<div class="centered">
+    <div style="  margin: auto;  text-align: center;">
+        <h1>
+            Project Scope
+        </h1>
+    </div>
+    <br>
+
+    <a href="/ts">
+        <button class="btn btn-lg btn-block">Render</button></a>
+
+
+</div>
+{% endblock %}

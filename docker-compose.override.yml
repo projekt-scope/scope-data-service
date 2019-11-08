@@ -1,0 +1,28 @@
+# # Development environment overrides of the base configuration
+version: '3'
+
+services:
+  shared:
+    volumes:
+     - ./shared/src/python:/app
+  
+  fuseki-db:
+    volumes:
+     - ./services/fuseki-db/Config.ttl:/jena-fuseki/Config.ttl
+
+  fuseki-app:
+    volumes:
+     - ./services/fuseki-app:/app
+
+  # revit-app:doc
+  #   volumes:
+  #    - ./services/revit-app:/app
+
+  render-app:
+    volumes:
+     - ./services/render-app:/app
+     - /app/src/app/render/static/shapes # makes the engine create a volume for the specified path with the effect that the service does not write temporary files into the corresponding directory on the file system that was bound by the preceding binding
+
+  geom2pickle:
+    volumes:
+     - ./services/geom2pickle:/app

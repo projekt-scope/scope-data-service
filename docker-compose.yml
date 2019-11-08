@@ -1,0 +1,73 @@
+# Base configuration
+version: '3'
+
+services:
+  shared:
+    build: ./services/shared/src/python/.
+    image: shared_python_functions
+
+  fuseki-db:
+    build: ./services/fuseki-db
+    container_name: ${FUSEKI_DB_NAME}
+    volumes:
+     - fuseki-db-data:/fuseki # see https://hub.docker.com/r/stain/jena-fuseki#data-persistence
+     - ./services/fuseki-db/seed:/staging # see https://hub.docker.com/r/stain/jena-fuseki#data-loading
+    ports:
+     - 22630:${FUSEKI_DB_PORT}
+    environment:
+     - ADMIN_PASSWORD=${FUSEKI_DB_ADMIN_PASSWORD}
+
+  fuseki-app:
+    build: ./services/fuseki-app
+    container_name: ${FUSEKI_APP_NAME}
+    ports:
+      - 22631:${FUSEKI_APP_PORT}
+    environment:
+      - LC_ADDR_fuseki_db=http://${FUSEKI_DB_NAME}:${FUSEKI_DB_PORT}
+    depends_on:
+      - fuseki-db
+
+  revit-app:
+    build: ./services/revit-app
+    container_name: ${REVIT_APP_NAME}
+    ports:
+      - 22633:${REVIT_APP_PORT}
+    environment:
+      - LC_ADDR_fuseki_app=http://${FUSEKI_APP_NAME}:${FUSEKI_APP_PORT}
+      - LC_ADDR_geom2pickle_app=http://${GEOM2PICKLE_NAME}:${GEOM2PICKLE_PORT}
+    depends_on:
+      - shared
+      - fuseki-app
+
+  render-app:
+    build: ./services/render-app
+    container_name: ${RENDER_APP_NAME}
+    restart: unless-stopped
+    ports:
+      - 22634:${RENDER_APP_PORT}
+    environment:
+      - LC_ADDR_fuseki_app=http://${FUSEKI_APP_NAME}:${FUSEKI_APP_PORT}
+      - LC_ADDR_geom2pickle_app=http://${GEOM2PICKLE_NAME}:${GEOM2PICKLE_PORT}
+      - RENDER_INSERT_ATTRIBUTE=${RENDER_INSERT_ATTRIBUTE}
+    depends_on:
+      - fuseki-app
+      - geom2pickle
+
+  geom2pickle:
+    build: ./services/geom2pickle
+    container_name: ${GEOM2PICKLE_NAME}
+    ports:
+      - 22635:${GEOM2PICKLE_PORT}
+    environment:
+      - LC_ADDR_fuseki_app=http://${FUSEKI_APP_NAME}:${FUSEKI_APP_PORT}
+    depends_on:
+      - fuseki-app
+
+networks:
+    default:
+        external:
+            name: scope-net
+
+volumes:
+  fuseki-db-data:
+    external: true
