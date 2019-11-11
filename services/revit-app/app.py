@@ -13,7 +13,7 @@ LC_ADDR_fuseki_app = os.environ["LC_ADDR_fuseki_app"]
 LC_ADDR_geom2pickle_app = os.environ["LC_ADDR_geom2pickle_app"]
 
 #####
-# following is not in the env vas: add it if you need it
+# following is not in the env vars: add it if you need it
 # LC_ADDR_revit_app = os.environ["LC_ADDR_revit_app"]
 #####
 
@@ -57,10 +57,10 @@ model_fetchRevitData = api.model(
 
 def makeRevitToOCC(quadID):
     sparqlAppUrl = LC_ADDR_fuseki_app
-    selectedquadID = "http://quadID%s" % TDB_Helpers.give_me_new_IDs(1)[0]
-    revit2occ.revit2occ(quadID, sparqlAppUrl)
+    # selectedquadID = "http://quadID%s" % TDB_Helpers.give_me_new_IDs(1)[0]
+    pickleQuadID = revit2occ.revit2occ(quadID, sparqlAppUrl)
 
-    process = Thread(target=makeGeom2pickle, args=[selectedquadID])
+    process = Thread(target=makeGeom2pickle, args=[pickleQuadID])
     process.start()
 
 

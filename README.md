@@ -16,7 +16,11 @@ The SCOPE data service consists of:
 Developed within:  SCOPE (www.projekt-scope.de)<br/>
 SCOPE is a German research project funded by the BMWi (Bundesministerium für Wirtschaft und Energie).
 
-The SCOPE data service allows to create, store and visualize complex geometrical information with the help of the open-source geometry kernel openCASCADE. It consists of an Autodesk Revit 2019 exporter based on RevitPythonShell and a GUI for visualizing the 3D geometry and its RDF graph representation. The RDF representation in Fuseki mainly uses the ontologies w3id.org/bot and w3id.org/occ.
+The SCOPE data service allows to create, store and visualize complex geometrical information with the help of the open-source geometry kernel openCASCADE. It consists of an Autodesk Revit 2019 exporter based on RevitPythonShell and a GUI for visualizing the 3D geometry and its RDF graph representation.
+
+<img src="gui.jpg" width="700" border="1"/>
+
+The RDF representation in Fuseki mainly uses the ontologies w3id.org/bot, w3id.org/bpo and w3id.org/occ.
 
 ## Installation
 
