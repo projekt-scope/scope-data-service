@@ -18,7 +18,7 @@ SCOPE is a German research project funded by the BMWi (Bundesministerium für Wi
 
 The SCOPE data service allows to create, store and visualize complex geometrical information with the help of the open-source geometry kernel openCASCADE. It consists of an Autodesk Revit 2019 exporter based on RevitPythonShell and a GUI for visualizing the 3D geometry and its RDF graph representation.
 
-<img src="gui.jpg" width="700" border="1"/>
+<img src="gui.png" width="700" border="1"/>
 
 The RDF representation in Fuseki mainly uses the ontologies w3id.org/bot, w3id.org/bpo and w3id.org/occ.
 
