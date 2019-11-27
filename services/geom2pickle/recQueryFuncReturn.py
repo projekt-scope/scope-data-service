@@ -201,9 +201,9 @@ def paramQuery(position):
                             paramname = row_qPL["item"]["value"]
                             paramstrlist.append(geomQuery(paramname))
                         else:
-                            if (row_qPL["item"]["datatype"].split("#"))[-1] == "double":
+                            if (row_qPL["item"]["type"].split("#"))[-1] == "double":
                                 paramstrlist.append(float(row_qPL["item"]["value"]))
-                            elif (row_qPL["item"]["datatype"].split("#"))[
+                            elif (row_qPL["item"]["type"].split("#"))[
                                 -1
                             ] == "integer":
                                 paramstrlist.append(int(row_qPL["item"]["value"]))
