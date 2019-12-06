@@ -120,7 +120,7 @@
 
   MT("escape_strings",
      "[comment # escape=`]",
-     "[keyword FROM] python:3.6-windowsservercore [keyword AS] python",
+     "[keyword FROM] python:3.7-windowsservercore [keyword AS] python",
      "[keyword RUN] $env:PATH = [string 'C:\\Python;C:\\Python\\Scripts;{0}'] -f $env:PATH ; `",
      // It should not consider \' as escaped.
      // "  Set-ItemProperty -Path [string 'HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Environment\\'] -Name Path -Value $env:PATH ;");

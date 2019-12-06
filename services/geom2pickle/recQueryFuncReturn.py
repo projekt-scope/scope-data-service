@@ -14,7 +14,7 @@ import OCC
 #FIXME OCC imports are neccessary fix this !
 
 from OCC import VERSION as OCC_VERSION
-from OCC.Core.Standard import Standard_Transient, Handle_Standard_Transient
+from OCC.Core.Standard import Standard_Transient
 from OCC.Core import gp
 from OCC.Core.gp import gp_Vec, gp_Trsf, gp_Dir, gp_Pnt, gp_Ax2
 from OCC.Core.Visualization import Tesselator
@@ -201,9 +201,9 @@ def paramQuery(position):
                             paramname = row_qPL["item"]["value"]
                             paramstrlist.append(geomQuery(paramname))
                         else:
-                            if (row_qPL["item"]["type"].split("#"))[-1] == "double":
+                            if (row_qPL["item"]["datatype"].split("#"))[-1] == "double":
                                 paramstrlist.append(float(row_qPL["item"]["value"]))
-                            elif (row_qPL["item"]["type"].split("#"))[
+                            elif (row_qPL["item"]["datatype"].split("#"))[
                                 -1
                             ] == "integer":
                                 paramstrlist.append(int(row_qPL["item"]["value"]))
