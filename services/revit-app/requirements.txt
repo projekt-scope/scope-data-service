@@ -1,3 +1,4 @@
+werkzeug==0.16.1
 flask==1.1.1
 rdflib===4.2.2
 # numpy==1.16.4 # is installed in the Dockerfile via `apk add py3-numpy`, see https://pkgs.alpinelinux.org/package/v3.10/community/x86_64/py3-numpy
