@@ -35,7 +35,6 @@ Call "python serverTest.py" in ./services/client. The script creates some geomet
 Copy the script sendRevitdatatoTDB.py in ./services/client to RevitPythonShell and run it. The script exports some basic Revit families. Revit example files can be found in the same folder. Visualizing at localhost:22634 might take some minutes, we are currently working on improving the speed.
 
 
-
 ## Contact persons
 
 - Christian Nothstein +49 711 7883 8978
