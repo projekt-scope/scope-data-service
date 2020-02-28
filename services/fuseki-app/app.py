@@ -1,5 +1,5 @@
 from flask import Flask, request
-from flask_restplus import Api, Resource, fields
+from flask_restx import Api, Resource, fields
 import requests
 import sys
 import rdflib
