@@ -5,3 +5,4 @@ pre-commit==1.18.3
 requests==2.22.0
 flask-restplus==0.13.0
 jsonpickle==0.9.6
+werkzeug==0.16.1
