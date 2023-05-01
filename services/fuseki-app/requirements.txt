@@ -1,5 +1,5 @@
 rdflib==4.2.2
-Flask==1.1.1
+Flask==2.3.2
 requests==2.22.0
 flask_restplus==0.13.0
 werkzeug==0.16.1
