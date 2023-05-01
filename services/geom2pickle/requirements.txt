@@ -1,6 +1,6 @@
 python==3.7
 pythonocc-core==7.4.0beta
-flask==1.1.1
+flask==2.3.2
 pre-commit==1.18.3
 requests==2.22.0
 flask-restplus==0.13.0
